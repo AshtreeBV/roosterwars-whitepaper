@@ -1,0 +1,2 @@
+# $ROOSTER Tokenomics
+
