@@ -8,13 +8,13 @@ All Hens have a breeding capacity of 10, wherein breeding costs increase each ti
 
 Hens will be available in the Marketplace
 
-### Gen-0 Hens
+## Gen-0 Hens
 
 There will only be 1,500 Gen 0 Hens to be released in the Marketplace, 150 for each breed.
 
 Gen-0 Hens can produce another Hen from breeding fixed at 1 out of 10 times.
 
-### Other Hens
+## Other Hens
 
 These Hens will come from breeding a Gen 0 Hen with a Rooster. Hens from breeding also have a breeding capacity of 10 times but cannot produce another Hen.
 

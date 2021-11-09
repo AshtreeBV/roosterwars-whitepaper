@@ -6,7 +6,7 @@
 * Players can use their NFT Rooster here and take on other players.&#x20;
 * Roosters can fight as long as they have Energy PVP mode will feature a ranking system. This will determine the matchmaking to ensure fair-play matches with a Rooster in the same tier, as well as the basis for giving out additional rewards.&#x20;
 * Players can only fight if equal amounts of energy are used (e.g. both used 1 Energy)&#x20;
-* The winner will be rewarded with Stars or Chicken Points (CP), depending on its respective tier, and Energy based on the amount of energy used with _Diminishing Returns_ upon winning n-times.
+* Depending on its respective tier, the winner will be rewarded with Stars or Chicken Points (CP), and Energy based on the amount of energy used in a fight, with _Diminishing Returns_ upon winning n-times.
 * Winning a match regains the $Energy consumed to fight
 * The number of wins is refreshed daily
 

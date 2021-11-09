@@ -1,27 +1,27 @@
 # Roosters
 
-### What are Roosters?
+## What are Roosters?
 
 Roosters are fantastic creatures that players use to fight other players in the Arena (PvP), train to go on adventures and defeat epic bosses, or breed with Hens to create more Roosters.
 
 A Rooster has the ability to produce **5** **$Energy/Day** for **45 days**. After the 45th day, Roosters would be exhausted and stop producing $Energy.
 
-### Rooster Burnout & Revitalization
+## Rooster Burnout & Revitalization
 
 Like any other living thing, Roosters experience burnout phases from depleting available energy to fight and train thus they would need to be recharged using Vita-potions. Vita-potions can only be consumed by a burnt-out Rooster.
 
-#### Vita-Potions
+### Vita-Potions
 
 Vita-Potions are available in the Marketplace to allow Roosters to recharge and have the ability to produce energy once more, allowing Roosters to generate 5 $Energy/day for 45-days.
 
 Players. as Rooster owners are provided the chance to recharge their Roosters to continue to fight for them or allow their Roosters to rest and be their forever companions.
 
-### Types of Roosters
+## Types of Roosters
 
 * Starter Roosters (Free)
 * NFT Roosters
 
-### Rooster Stats
+## Rooster Stats
 
 Each Rooster has a different set of stats which will make them unique from each other. Players can train their roosters to make them stronger and progress faster in the Adventure Mode.
 

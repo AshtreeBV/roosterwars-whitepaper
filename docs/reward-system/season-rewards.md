@@ -4,7 +4,7 @@ Season rewards are given out every 2 months and are given out into two classes: 
 
 The values calculated in Season rewards are based on the number of Roosters in the game at 150,000 Roosters.
 
-### Challenger Tier Rewards
+## Challenger Tier Rewards
 
 Giving rewards in this section is a little tricky, therefore we will place certain conditions to prevent unfair distribution.&#x20;
 
@@ -26,7 +26,7 @@ To avoid such a situation, we will follow the CP system along with a 100-player 
 
 _Disclaimer: This allocation may change on the number of players within the game, specifically if it exceeds the number of players to be given rewards to_
 
-### Top 10 Players Rewards
+## Top 10 Players Rewards
 
 | **Top** | **% Share** | **$RSTR Rewards** |   **USD**   |
 | :-----: | :---------: | :---------------: | :---------: |

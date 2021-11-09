@@ -5,7 +5,7 @@
 * [Egg Sale (NFTs)](egg-sale-nfts/README.md)
   * [Roosters](egg-sale-nfts/roosters/README.md)
     * [Free Starter Roosters](egg-sale-nfts/roosters/free-starter-roosters.md)
-    * [NFT Roosters](egg-sale-nfts/roosters/nft-roosters.md)
+    * [NFT Roosters (Pure Breed)](egg-sale-nfts/roosters/nft-roosters-pure-breed.md)
   * [Gaffs & Gems](egg-sale-nfts/gaffs-and-gems.md)
 * [Gameplay](gameplay/README.md)
   * [$Energy](gameplay/usdenergy.md)

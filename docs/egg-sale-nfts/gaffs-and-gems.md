@@ -16,6 +16,6 @@ Gallus Gems gives Roosters’ additional stats but can only be equipped if the R
 
 Given that a Gaff has 2 slots, players cannot place 2 +10 HP gems and are only allowed to place one +10 HP gem on it along with a different gem type (i.e. +10 WATK).
 
-### Where to Buy?
+## Where to Buy?
 
 You can buy Gems and Gaffs, along with a Rooster, packaged in our Egg-Sale or buy them separately in the Marketplace that will be released soon after the game launches. Gallus Gems and Gaffs can be sold separately.

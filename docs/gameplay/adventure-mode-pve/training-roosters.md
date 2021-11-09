@@ -13,6 +13,6 @@ Each breed will have its different base stats to make them unique from each othe
 
 Each training session uses 1 Training Point (TP). **1 TP = 1 $Energy**
 
-#### **Reset Potions**
+### **Reset Potions**
 
 Users will buy Reset Potion from the MP and use it to reset trained Stats for their Rooster and will have x-amount of TP depending on how many stats were trained before using the Reset Potion

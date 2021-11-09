@@ -2,7 +2,7 @@
 
 $Energy is an in-game only token that can be swapped for $Rooster Token (not vice-versa: this would be P2W)
 
-### $Energy System
+## $Energy System
 
 * The Ratio of $Energy to $Rooster would be dependent on the number of Roosters in-game and the Price movements of $Rooster Token (Supply-Demand).&#x20;
 * The Ratio is transparent and cannot be changed by any of the team members: the conversion formula is in the Smart Contract.&#x20;
