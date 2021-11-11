@@ -1,3 +1,14 @@
-site_name: Rooster Wars
+site_name: Rooster Wars Whitepaper
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.tracking
+nav:
+  - "README.md"
+  - "our-philosophy.md"
+  - "Egg Sale":
+      - "Roosters":
+          - "roosters.md"
+          - "free-starter-rosoters.md"
+          - "nft-roosters-pure-breed.md"

@@ -18,21 +18,20 @@ Players. as Rooster owners are provided the chance to recharge their Roosters to
 
 ## Types of Roosters
 
-* Starter Roosters (Free)
-* NFT Roosters
+- Starter Roosters (Free)
+- NFT Roosters
 
 ## Rooster Stats
 
 Each Rooster has a different set of stats which will make them unique from each other. Players can train their roosters to make them stronger and progress faster in the Adventure Mode.
 
-* Starter Roosters only have a base stat total of 150.
-* NFT Roosters have a base stat total of 196.&#x20;
-* These stat totals are then divided into each of their stats:
-  * Vitality (VIT/HP)&#x20;
-  * Wing Attack (WATK)&#x20;
-  * Beak Attack (BATK)&#x20;
-  * Claw Attack (CATK)&#x20;
-  * Dodge Chance (SPD)&#x20;
-  * Critical Chance (AGRO)
-* Players can raise their stats by training.
-* Base stats of an NFT Rooster will be stored on-chain
+Starter Roosters only have a base stat total of 150, while NFT Roosters have a base stat total of 196.These stat totals are then divided into each of their stats:
+
+1. Vitality (VIT/HP)&#x20;
+2. Wing Attack (WATK)&#x20;
+3. Beak Attack (BATK)&#x20;
+4. Claw Attack (CATK)&#x20;
+5. Dodge Chance (SPD)&#x20;
+6. Critical Chance (AGRO)&#x20;
+
+Players can raise their stats by training. Base stats of an NFT Rooster will be stored on-chain

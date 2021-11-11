@@ -10,10 +10,10 @@ Phase 3 is going to feature a real estate system where Players can buy their own
 
 The world will be sectioned into different types of land that differ in size. The number of plots indicated the number of buildable structures a player can build on top of owned land
 
-* \[name] - 2 plots of land
-* \[name] - 4 plots of land
-* \[name] - 8 plots of land
-* \[name] - 16 plots of land
+- \[name] - 2 plots of land
+- \[name] - 4 plots of land
+- \[name] - 8 plots of land
+- \[name] - 16 plots of land
 
 Land ownership can be bought in the upcoming land sale using $Rooster tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost $Rooster tokens.
 
@@ -25,11 +25,11 @@ Within the world map, there are land plots where building structures are already
 
 ### Expedition
 
-* Expedition requires the use of Hens
-* Hens can get various items in this mode while exploring
-* Expeditions will last for <mark style="color:red;">\[a specific time-period or time-periods if we'll have different expeditions]</mark>
-* Expeditions will cost $Rooster tokens.
-* Here are some of the rewards, along with their percentage chance, that players can get in the Expedition
+- Expedition requires the use of Hens
+- Hens can get various items in this mode while exploring
+- Expeditions will last for <mark style="color:red;">\[a specific time-period or time-periods if we'll have different expeditions]</mark>
+- Expeditions will cost $Rooster tokens.
+- Here are some of the rewards, along with their percentage chance, that players can get in the Expedition
 
 ## Buildable Structures
 
@@ -41,22 +41,21 @@ Players are free to decide which structures to build on their land plots. Player
 
 Players can assign hens to generate either
 
-* Food
-* $Rooster tokens
+- Food
+- $Rooster tokens
 
 ### Staking Station
 
-* Roosters can be stationed here to regenerate their energy and increase their stats.
-* It will take up to 4 hours for a rooster to finish staking.
-* They will receive a +5 bonus damage to the three attacks each.
-* The bonuses will last for only 5 matches.
+- Roosters can be stationed here to regenerate their energy and increase their stats.
+- It will take up to n-hours for a rooster to finish staking.
+- They will receive a +5 bonus damage to the three attacks each.
+- The bonuses will last for only 5 matches.
 
 ### Blacksmith
 
-* Players will assign a Hen to be the blacksmith.
-* Gaffs can be enhanced here.
-* It costs one food to enhance a gaff.
-* The enhancement for the gaffs is a random +1 damage increase which the three main attacks can get.
-* Gaffs can be enhanced up to 10 times.
-* The chance for a successful enhancement lowers after every successful enhancement.
-
+- Players will assign a Hen to be the blacksmith.
+- Gaffs can be enhanced here.
+- It costs one food to enhance a gaff.
+- The enhancement for the gaffs is a random +1 damage increase which the three main attacks can get.
+- Gaffs can be enhanced up to 10 times.
+- The chance for a successful enhancement lowers after every successful enhancement.
