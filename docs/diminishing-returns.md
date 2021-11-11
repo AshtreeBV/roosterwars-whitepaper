@@ -4,17 +4,13 @@ The concept of Diminishing Returns is placed to disincentivize unlimited fights.
 
 Using 3, and 5 $Energy per fight will increase all rewards earned by 3x, and 5x, respectively.
 
-Below is the Diminishing Returns table wherein results are based on a WIN. Rewards are additional $Energy gained from Winning. **$Energy spent is also returned to the Winner.**
+Below is the Diminishing Returns table wherein results are based on a WIN. Rewards are additional $Energy gained from Winning. **The $Energy spent is also returned to the Winner**.
 
-| **Energy Used/Fight**    | **1** | **3** | **5** |
-| ------------------------ | :---: | :---: | :---: |
-| **1st Win**              |   1   |   3   |   5   |
-| **2nd Win**              |   1   |   2   |   3   |
-| **3rd Win**              |   1   |   2   |   2   |
-| **4th Win**              |   1   |   0   |   0   |
-| **5th Win**              |   1   |   0   |   0   |
-| **Nth Win**              |   1   |   0   |   0   |
-| **Energy from Winnings** |   +5  |   +7  |  +10  |
+| **Energy Used/Fight** | **1st Win** | **2nd Win** | **3rd Win** | **4th Win** | **5th Win** | **Nth Win** | **Total Winnings** |
+| --------------------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :----------------: |
+| **1 Energy**          |      1      |      1      |      1      |      1      |      1      |      1      |       **+5**       |
+| **3 Energy**          |      3      |      2      |      2      |      0      |      0      |      0      |       **+7**       |
+| **5 Energy**          |      5      |      3      |      2      |      0      |      0      |      0      |      **+10**       |
 
 The numbers 1, 3, and 5 are fixed options of energy consumption that the player chooses before battling, given that the Rooster has enough energy to fight.
 

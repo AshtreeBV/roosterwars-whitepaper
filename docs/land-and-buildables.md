@@ -1,8 +1,6 @@
----
-description: Phase 3
----
-
 # Land & Buildables
+
+_All values are subject to change before launching phase 3, changes to whitepaper and announcements of possible changes will be done before launch._
 
 ## World Map
 
@@ -27,7 +25,7 @@ Within the world map, there are land plots where building structures are already
 
 - Expedition requires the use of Hens
 - Hens can get various items in this mode while exploring
-- Expeditions will last for <mark style="color:red;">\[a specific time-period or time-periods if we'll have different expeditions]</mark>
+- Expeditions will last for 12 hours
 - Expeditions will cost $Rooster tokens.
 - Here are some of the rewards, along with their percentage chance, that players can get in the Expedition
 

@@ -4,15 +4,11 @@ Hens are NFTs like Roosters that will allow the Breeding mechanism. Hens will be
 
 Hens do not have the capability to produce energy, thus cannot participate in PVP or be trained. Hens will have their own way of earning in the Expedition Mode, where only Hens are allowed.
 
-All Hens have a breeding capacity of 10, wherein breeding costs increase each time.
-
-Hens will be available in the Marketplace
+All Hens have a breeding capacity of 10, wherein breeding costs increase each time. Hens will be available in the Marketplace
 
 ## Gen-0 Hens
 
-There will only be 1,500 Gen 0 Hens to be released in the Marketplace, 150 for each breed.
-
-Gen-0 Hens can produce another Hen from breeding fixed at 1 out of 10 times.
+There will only be 1,500 Gen 0 Hens to be released in the Marketplace, 150 for each breed. Gen-0 Hens can produce another Hen from breeding fixed at 1 out of 10 times.
 
 ## Other Hens
 

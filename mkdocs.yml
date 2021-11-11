@@ -3,44 +3,46 @@ theme:
   name: material
   features:
     - navigation.tracking
-    - navigation.sections
+    - navigation.instant
+    - navigation.indexes
 nav:
   - "README.md"
   - "our-philosophy.md"
-  - "Egg Sale":
-      - "egg-sale.md"
-      - "Roosters":
-          - "roosters.md"
-          - "free-starter-rosoters.md"
-          - "nft-roosters-pure-breed.md"
+  - EGG-SALE:
+      - egg-sale.md
+      - Roosters:
+          - roosters.md
+          - free-starter-roosters.md
+          - nft-roosters-pure-breed.md
       - "gaffs-and-gems.md"
-  - "Gameplay":
+  - Phase 1:
       - "gameplay.md"
       - "$energy.md"
-      - "Arena (PvP)":
+      - Arena (PvP):
           - "arena-pvp.md"
           - "diminishing-returns.md"
-      - "Adventure Mode (PvE)":
+      - Adventure Mode (PvE):
           - "adventure-mode.md"
           - "training-roosters.md"
       - "rooster-battle.md"
       - "expedition.md"
-  - "Breeding":
+  - Phase 2:
       - "breeding.md"
       - "hens.md"
-  - "land-and-buildables.md"
-  - "Reward System":
+  - Phase 3:
+      - "land-and-buildables.md"
+  - Game Rewards:
       - "reward-system.md"
-      - "arena-rewards.md"
-      - "adventure-rewards.md"
-      - "season-rewards.md"
-      - "faqs-rewards.md"
-  - "$Rooster Tokenomics":
+      - "reward-arena.md"
+      - "reward-adventure.md"
+      - "reward-season.md"
+      - "reward-faqs.md"
+  - $Rooster Tokenomics:
       - "utility.md"
       - "allocation.md"
       - "token-sale-rounds.md"
       - "vesting-schedule.md"
-  - "DeFI Ecosystem":
+  - DeFI Ecosystem:
       - "defi-ecosystem.md"
       - "farming-$rooster.md"
       - "swap.md"
@@ -48,3 +50,15 @@ nav:
   - "roadmap.md"
   - "team-and-partners.md"
   - "smart-contracts.md"
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
