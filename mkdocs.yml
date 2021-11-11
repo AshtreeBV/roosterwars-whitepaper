@@ -2,13 +2,49 @@ site_name: Rooster Wars Whitepaper
 theme:
   name: material
   features:
-    - navigation.sections
     - navigation.tracking
+    - navigation.sections
 nav:
   - "README.md"
   - "our-philosophy.md"
   - "Egg Sale":
+      - "egg-sale.md"
       - "Roosters":
           - "roosters.md"
           - "free-starter-rosoters.md"
           - "nft-roosters-pure-breed.md"
+      - "gaffs-and-gems.md"
+  - "Gameplay":
+      - "gameplay.md"
+      - "$energy.md"
+      - "Arena (PvP)":
+          - "arena-pvp.md"
+          - "diminishing-returns.md"
+      - "Adventure Mode (PvE)":
+          - "adventure-mode.md"
+          - "training-roosters.md"
+      - "rooster-battle.md"
+      - "expedition.md"
+  - "Breeding":
+      - "breeding.md"
+      - "hens.md"
+  - "land-and-buildables.md"
+  - "Reward System":
+      - "reward-system.md"
+      - "arena-rewards.md"
+      - "adventure-rewards.md"
+      - "season-rewards.md"
+      - "faqs-rewards.md"
+  - "$Rooster Tokenomics":
+      - "utility.md"
+      - "allocation.md"
+      - "token-sale-rounds.md"
+      - "vesting-schedule.md"
+  - "DeFI Ecosystem":
+      - "defi-ecosystem.md"
+      - "farming-$rooster.md"
+      - "swap.md"
+  - "technology.md"
+  - "roadmap.md"
+  - "team-and-partners.md"
+  - "smart-contracts.md"
