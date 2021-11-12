@@ -1,5 +1,8 @@
 # Introduction
 
+<!-- Logo Banner -->
+<img src="images/rw-logo.png" alt="logo" class="logo-banner">
+
 ## OVERVIEW&#x20;
 
 Rooster Wars is a PvP online multiplayer game where players can collect, and PLAY TO EARN, by fighting with their roosters in the arena and finishing levels in adventure mode. More features will also become available like breeding, expeditions, and land expansion.
