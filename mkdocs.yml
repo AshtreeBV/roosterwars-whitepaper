@@ -1,10 +1,29 @@
-site_name: Rooster Wars Whitepaper
+site_name: Rooster Wars Whitepaper (Draft)
 theme:
   name: material
+  font:
+    text: Poppins
   features:
     - navigation.tracking
     - navigation.instant
     - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - search.suggest
+    - search.highlight
+  palette: #1
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: teal
+    - scheme: slate #2
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: lime
+      accent: lime
 nav:
   - "README.md"
   - "our-philosophy.md"
