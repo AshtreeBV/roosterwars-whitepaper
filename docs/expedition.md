@@ -1,6 +1,4 @@
-# Expedition (Phase 3)
-
-This feature will be launched on [Phase 3](land-and-buildables.md)
+# Expedition
 
 Have your hens go out on expeditions for a chance to find treasures. For a small entry fee using $Rooster tokens, your hens will be eligible for in-game rewards (e.g. gems, gaffs, and more), $Rooster tokens, or treasures outside of Rooster Wars!&#x20;
 

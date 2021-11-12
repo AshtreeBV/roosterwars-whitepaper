@@ -2,7 +2,6 @@ site_name: Rooster Wars Whitepaper
 theme:
   name: material
   favicon: images/rooster-coin.png
-  custom_dir: overrides
   font:
     text: Poppins
   features:
@@ -46,12 +45,12 @@ nav:
           - "adventure-mode.md"
           - "training-roosters.md"
       - "rooster-battle.md"
-      - "expedition.md"
   - Phase 2:
       - "breeding.md"
       - "hens.md"
   - Phase 3:
       - "land-and-buildables.md"
+      - "expedition.md"
   - Game Rewards:
       - "reward-system.md"
       - "reward-arena.md"

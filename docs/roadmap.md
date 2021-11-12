@@ -21,7 +21,6 @@
 - [ ] Gameplay Demo release
 - [ ] Social Media
 - [ ] Egg-Sale
-- [ ] Avatar Sale
 
 ### 2022
 
