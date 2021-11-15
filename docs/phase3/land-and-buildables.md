@@ -21,7 +21,7 @@ Within the world map, there are land plots where building structures are already
 
 ### Venture Station
 
-### Expedition
+### [Expedition](expedition.md)
 
 - Expedition requires the use of Hens
 - Hens can get various items in this mode while exploring

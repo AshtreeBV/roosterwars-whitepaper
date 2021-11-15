@@ -1,4 +1,4 @@
-site_name: Rooster Wars Whitepaper
+site_name: Rooster Wars Whitepaper (Draft)
 theme:
   name: material
   favicon: images/rooster-coin.png
@@ -63,7 +63,7 @@ nav:
       - tokenomics/token-sale-rounds.md
       - tokenomics/vesting-schedule.md
   - DeFI Ecosystem:
-      - defi/defi-ecosystem.md
+      - defi/index.md
       - defi/farming-$rooster.md
       - defi/swap.md
   - technology.md

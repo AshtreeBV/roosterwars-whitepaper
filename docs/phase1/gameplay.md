@@ -15,7 +15,7 @@ description: Phase 1
 
 ### Game Modes
 
-- [Arena](arena-pvp.md) (PvP)
-- [Adventure Mode](adventure-mode.md) (PvE)
+- [Arena](arena/index.md) (PvP)
+- [Adventure Mode](adventure-mode/index.md) (PvE)
 - [Rooster Battle](rooster-battle.md)
-- [Expedition](expedition.md) (coming in Phase 3)
+- [Expedition](../phase3/expedition.md) (coming in Phase 3)
