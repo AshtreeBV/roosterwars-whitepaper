@@ -26,50 +26,50 @@ theme:
       primary: amber
       accent: amber
 nav:
-  - "README.md"
-  - "our-philosophy.md"
+  - README.md
+  - our-philosophy.md
   - EGG-SALE:
-      - egg-sale.md
+      - egg-sale/index.md
       - Roosters:
-          - roosters.md
-          - free-starter-roosters.md
-          - nft-roosters-pure-breed.md
-      - "gaffs-and-gems.md"
+          - egg-sale/roosters/index.md
+          - egg-sale/roosters/free-starter-roosters.md
+          - egg-sale/roosters/nft-roosters-pure-breed.md
+      - egg-sale/gaffs-and-gems.md
   - Phase 1:
-      - "gameplay.md"
-      - "$energy.md"
+      - phase1/gameplay.md
+      - phase1/$energy.md
       - Arena (PvP):
-          - "arena-pvp.md"
-          - "diminishing-returns.md"
+          - phase1/arena/index.md
+          - phase1/arena/diminishing-returns.md
       - Adventure Mode (PvE):
-          - "adventure-mode.md"
-          - "training-roosters.md"
-      - "rooster-battle.md"
+          - phase1/adventure-mode/index.md
+          - phase1/adventure-mode/training-roosters.md
+      - phase1/rooster-battle.md
   - Phase 2:
-      - "breeding.md"
-      - "hens.md"
+      - phase2/breeding.md
+      - phase2/hens.md
   - Phase 3:
-      - "land-and-buildables.md"
-      - "expedition.md"
+      - phase3/land-and-buildables.md
+      - phase3/expedition.md
   - Game Rewards:
-      - "reward-system.md"
-      - "reward-arena.md"
-      - "reward-adventure.md"
-      - "reward-season.md"
-      - "reward-faqs.md"
+      - game-rewards/index.md
+      - game-rewards/reward-arena.md
+      - game-rewards/reward-adventure.md
+      - game-rewards/reward-season.md
+      - game-rewards/reward-faqs.md
   - $Rooster Tokenomics:
-      - "utility.md"
-      - "allocation.md"
-      - "token-sale-rounds.md"
-      - "vesting-schedule.md"
+      - tokenomics/utility.md
+      - tokenomics/allocation.md
+      - tokenomics/token-sale-rounds.md
+      - tokenomics/vesting-schedule.md
   - DeFI Ecosystem:
-      - "defi-ecosystem.md"
-      - "farming-$rooster.md"
-      - "swap.md"
-  - "technology.md"
-  - "roadmap.md"
-  - "team-and-partners.md"
-  - "smart-contracts.md"
+      - defi/defi-ecosystem.md
+      - defi/farming-$rooster.md
+      - defi/swap.md
+  - technology.md
+  - roadmap.md
+  - team-and-partners.md
+  - smart-contracts.md
 
 markdown_extensions:
   - def_list
@@ -87,4 +87,4 @@ extra_javascript:
 
 # Use extra CSS to customize styles, based on theme
 extra_css:
-  - "css/images.css"
+  - css/images.css
