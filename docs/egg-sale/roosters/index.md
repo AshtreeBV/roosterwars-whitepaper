@@ -27,11 +27,19 @@ Each Rooster has a different set of stats which will make them unique from each 
 
 Starter Roosters only have a base stat total of 150, while NFT Roosters have a base stat total of 196.These stat totals are then divided into each of their stats:
 
-1. Vitality (VIT/HP)&#x20;
-2. Wing Attack (WATK)&#x20;
-3. Beak Attack (BATK)&#x20;
-4. Claw Attack (CATK)&#x20;
-5. Dodge Chance (SPD)&#x20;
-6. Critical Chance (AGRO)&#x20;
+1. Vitality (VIT/HP)
+2. Wing Attack (WATK)
+3. Beak Attack (BATK)
+4. Claw Attack (CATK)
+5. Dodge Chance (SPD)
+6. Critical Chance (AGRO)
 
-Players can raise their stats by training. Base stats of an NFT Rooster will be stored on-chain
+Players can raise their stats by training. Base stats of an NFT Rooster will be stored on-chain.
+
+### Details on Rooster Stats
+
+- Damage = ATK/4
+- Dodge and Crit Chance are percentage based, their percentage will differ from breeds.
+- If the rooster is equipped with a gallus gem that has +5 damage: Damage + 5
+- Critical Damage = Damagex2
+- Draw Damage = Damage/2
