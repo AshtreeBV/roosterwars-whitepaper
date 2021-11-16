@@ -37,7 +37,7 @@ nav:
       - egg-sale/gaffs-and-gems.md
   - Phase 1:
       - phase1/gameplay.md
-      - phase1/$energy.md
+      - phase1/$gallonium.md
       - Arena (PvP):
           - phase1/arena/index.md
           - phase1/arena/diminishing-returns.md

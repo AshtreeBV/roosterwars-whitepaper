@@ -13,7 +13,7 @@ The world will be sectioned into different types of land that differ in size. Th
 - \[name] - 8 plots of land
 - \[name] - 16 plots of land
 
-Land ownership can be bought in the upcoming land sale using $Rooster tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost $Rooster tokens.
+Land ownership can be bought in the upcoming land sale using $GWIT tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost $GWIT tokens.
 
 ## World Structures (Built-in)
 
@@ -26,7 +26,7 @@ Within the world map, there are land plots where building structures are already
 - Expedition requires the use of Hens
 - Hens can get various items in this mode while exploring
 - Expeditions will last for 12 hours
-- Expeditions will cost $Rooster tokens.
+- Expeditions will cost $GWIT tokens.
 - Here are some of the rewards, along with their percentage chance, that players can get in the Expedition
 
 ## Buildable Structures
@@ -40,11 +40,11 @@ Players are free to decide which structures to build on their land plots. Player
 Players can assign hens to generate either
 
 - Food
-- $Rooster tokens
+- $GWIT tokens
 
 ### Staking Station
 
-- Roosters can be stationed here to regenerate their energy and increase their stats.
+- Roosters can be stationed here to regenerate their $Gallonium and increase their stats.
 - It will take up to n-hours for a rooster to finish staking.
 - They will receive a +5 bonus damage to the three attacks each.
 - The bonuses will last for only 5 matches.
@@ -52,8 +52,8 @@ Players can assign hens to generate either
 ### Blacksmith
 
 - Players will assign a Hen to be the blacksmith.
-- Gaffs can be enhanced here.
-- It costs one food to enhance a gaff.
-- The enhancement for the gaffs is a random +1 damage increase which the three main attacks can get.
-- Gaffs can be enhanced up to 10 times.
+- GAFFs can be enhanced here.
+- It costs one food to enhance a GAFF.
+- The enhancement for the GAFFs is a random +1 damage increase which the three main attacks can get.
+- GAFFs can be enhanced up to 10 times.
 - The chance for a successful enhancement lowers after every successful enhancement.

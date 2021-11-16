@@ -26,7 +26,7 @@
 
 #### Q1
 
-- [ ] $Rooster Sale Rounds
+- [ ] $GWIT Sale Rounds
 - [ ] Launch Rooster Wars Game (Alpha)
 
 #### Q2

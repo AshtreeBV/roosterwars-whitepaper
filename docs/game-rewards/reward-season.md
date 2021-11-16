@@ -12,7 +12,7 @@ An example of unfair distribution: _If the number of players with CP below 150 i
 
 To avoid such a situation, we will follow the CP system along with a 100-player batch for each range. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players.
 
-|   **CP**    | **% Share** | **$RSTR Rewards (All)** | **$RSTR per Player** |
+|   **CP**    | **% Share** | **$GWIT Rewards (All)** | **$GWIT per Player** |
 | :---------: | :---------: | :---------------------: | :------------------: |
 |   0 - 150   |     7%      |         590,625         |       5,906.25       |
 |  151 - 300  |     8%      |         675,000         |       6,750.00       |
@@ -28,7 +28,7 @@ _Disclaimer: This allocation may change on the number of players within the game
 
 ## Top 10 Players Rewards
 
-| **Top** | **% Share** | **$RSTR Rewards** |   **USD**   |
+| **Top** | **% Share** | **$GWIT Rewards** |   **USD**   |
 | :-----: | :---------: | :---------------: | :---------: |
 |    1    |     17%     |      159,375      | **$ 3,188** |
 |    2    |     15%     |      140,625      | **$ 2,813** |

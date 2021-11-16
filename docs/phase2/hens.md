@@ -2,7 +2,7 @@
 
 Hens are NFTs like Roosters that will allow the Breeding mechanism. Hens will be released by the end of the 5th month from the game’s official release. Hens like Roosters will have different breeds accompanied by different stats.
 
-Hens cannot produce energy, thus cannot participate in PVP or be trained. Hens will have a separate way of earning in the Expedition Mode, where only Hens are allowed.
+Hens cannot produce $Gallonium, thus cannot participate in PVP or be trained. Hens will have a separate way of earning in the Expedition Mode, where only Hens are allowed.
 
 **All Hens have a breeding capacity of 10**, wherein breeding costs increase each time. Hens will be available in the Marketplace
 
