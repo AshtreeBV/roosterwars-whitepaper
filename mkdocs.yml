@@ -57,14 +57,14 @@ nav:
       - game-rewards/reward-adventure.md
       - game-rewards/reward-season.md
       - game-rewards/reward-faqs.md
-  - $Rooster Tokenomics:
+  - $Gallonium Tokenomics:
       - tokenomics/utility.md
       - tokenomics/allocation.md
       - tokenomics/token-sale-rounds.md
       - tokenomics/vesting-schedule.md
   - DeFI Ecosystem:
       - defi/index.md
-      - defi/farming-$rooster.md
+      - defi/farming.md
       - defi/swap.md
   - technology.md
   - roadmap.md
