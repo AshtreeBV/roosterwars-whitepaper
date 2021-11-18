@@ -4,7 +4,7 @@ The concept of Diminishing Returns is placed to disincentivize unlimited fights.
 
 Using 3, and 5 $Gallonium per fight will increase all rewards earned by 3x, and 5x, respectively.
 
-Below is the Diminishing Returns table wherein results are based on a WIN. Rewards are additional $Gallonium gained from Winning. **The $Gallonium spent is also returned to the Winner**.
+Below is the Diminishing Returns table wherein results are based on a WIN. Rewards are an additional $Gallonium gained from Winning. **The $Gallonium spent is also returned to the Winner**.
 
 | **$Gallonium Used/Fight** | **1st Win** | **2nd Win** | **3rd Win** | **4th Win** | **5th Win** | **Nth Win** | **Total Winnings** |
 | ------------------------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :----------------: |
@@ -14,7 +14,7 @@ Below is the Diminishing Returns table wherein results are based on a WIN. Rewar
 
 The numbers 1, 3, and 5 are fixed options of $Gallonium consumption that the player chooses before battling, given that the Rooster has enough $Gallonium to fight.
 
-If a player decides to choose different $Gallonium consumption per fight (e.g 1st-1 $Gallonium, 2nd-5 $Gallonium, 3rd-1 $Gallonium, 4th-3 $Gallonium) then rewards will be based on the previous number of wins for a given option.&#x20;
+If a player decides to choose different $Gallonium consumption per fight (e.g 1st-1 $Gallonium, 2nd-5 $Gallonium, 3rd-1 $Gallonium, 4th-3 $Gallonium) then rewards will be based on the previous number of wins for a given option.
 
 Below are situations of player fights with different $Gallonium consumed every fight
 

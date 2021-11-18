@@ -1,5 +1,7 @@
 # Utility
 
+The $GWIT token follows the ERC-20 standard and functions as the main utility token for the Rooster Wars game and ecosystem.
+
 Here are examples of the $GWIT token's utility in the Rooster Wars ecosystem
 
 1.  Breeding: Payment for breeding fees

@@ -12,7 +12,7 @@ Like any other living thing, Roosters experience burnout phases from depleting a
 
 ### Gilly Juice
 
-Gilly Juice are available in the Marketplace to allow Roosters to recharge and have the ability to produce $Gallonium once more, allowing Roosters to generate 5 $Gallonium/day for 45-days.
+Gilly Juice is available in the Marketplace to allow Roosters to recharge and have the ability to produce $Gallonium once more, allowing Roosters to generate 5 $Gallonium/day for 45-days.
 
 Players. as Rooster owners are provided the chance to recharge their Roosters to continue to fight for them or allow their Roosters to rest and be their forever companions.
 
@@ -25,7 +25,7 @@ Players. as Rooster owners are provided the chance to recharge their Roosters to
 
 Each Rooster has a different set of stats which will make them unique from each other. Players can train their roosters to make them stronger and progress faster in the Adventure Mode.
 
-Starter Roosters only have a base stat total of 150, while NFT Roosters have a base stat total of 196.These stat totals are then divided into each of their stats:
+Starter Roosters only have a base stat total of 150, while NFT Roosters have a base stat total of 196. These stat totals are then divided into each of their stats:
 
 1. Vitality (VIT/HP)
 2. Wing Attack (WATK)
@@ -34,12 +34,12 @@ Starter Roosters only have a base stat total of 150, while NFT Roosters have a b
 5. Dodge Chance (SPD)
 6. Critical Chance (AGRO)
 
-Players can raise their stats by training. Base stats of an NFT Rooster will be stored on-chain.
+Players can raise their stats by training. However, only the base stats of an NFT Rooster will be stored on-chain.
 
 ### Details on Rooster Stats
 
 - Damage = ATK/4
-- Dodge and Crit Chance are percentage based, their percentage will differ from breeds.
+- Dodge and Crit Chance are percentage-based, their percentage will differ from breeds.
 - If the rooster is equipped with a gallus gem that has +5 damage: Damage + 5
 - Critical Damage = Damagex2
 - Draw Damage = Damage/2

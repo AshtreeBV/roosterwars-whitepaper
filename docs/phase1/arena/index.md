@@ -2,11 +2,11 @@
 
 ### Arena Mechanics
 
-- Players must have at least one NFT Rooster to enter.&#x20;
-- Players can use their NFT Rooster here and take on other players.&#x20;
+- Players must have at least one NFT Rooster to enter.
+- Players can use their NFT Rooster here and take on other players.
 - Roosters can fight as long as they have $Gallonium
-- Arena mode will feature a ranking system. This will determine the matchmaking to ensure fair-play matches with a Rooster in the same tier, as well as the basis for giving out additional rewards.&#x20;
-- Players can only fight if equal amounts of $Gallonium are used (e.g. both used 1 $Gallonium)&#x20;
+- Arena mode will feature a ranking system. This will determine the matchmaking to ensure fair-play matches with a Rooster in the same tier, as well as the basis for giving out additional rewards.
+- Players can only fight if equal amounts of $Gallonium are used (e.g. both used 1 $Gallonium)
 - Depending on its respective tier, the winner will be rewarded with Stars or Chicken Points (CP), and $Gallonium based on the amount of $Gallonium used in a fight, with **[Diminishing Returns](diminishing-returns.md)** upon winning n-times.
 - Winning a match regains the $Gallonium consumed to fight
 - The number of wins is refreshed daily
@@ -19,10 +19,10 @@ Rewards will be given to the top 10 Players every season and to those who qualif
 
 ### Tier System (Stars)
 
-- Winning a fight will give you a Star - Losing will take one from you&#x20;
-- Players need 5 Stars to rank up - Promoted to next Tier or Division&#x20;
-- Losing when you have no stars will get you demoted to the previous Tier or Division with 4 Stars&#x20;
-- Winning 3 or 5 $Gallonium fights will give you 3 or 5 stars, respectively&#x20;
+- Winning a fight will give you a Star - Losing will take one from you
+- Players need 5 Stars to rank up - Promoted to next Tier or Division
+- Losing when you have no stars will get you demoted to the previous Tier or Division with 4 Stars
+- Winning 3 or 5 $Gallonium fights will give you 3 or 5 stars, respectively
 - Losing 3 or 5 $Gallonium fights will take 3 or 5 stars from you, respectively
 
 |  **Tier**  | **Division** | **Stars to Rank up** |
@@ -48,7 +48,7 @@ Rewards will be given to the top 10 Players every season and to those who qualif
 
 Upon reaching the Challenger tier, players will be ranked based on Chicken Points
 
-- Winning grants **+20 CP**&#x20;
+- Winning grants **+20 CP**
 - Losing takes **-30 CP **
 - A Draw gives both players **+10 CP **
 - Losing with **0 CP** will demote the player to Diamond I with 4 stars

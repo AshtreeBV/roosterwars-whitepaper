@@ -2,14 +2,14 @@
 
 Roosters will have a set of stats they can increase in training mode.
 
-- Beak attack damage&#x20;
-- Wing attack damage&#x20;
-- Claw attack damage&#x20;
+- Beak attack damage
+- Wing attack damage
+- Claw attack damage
 - Vitality (HP)
 
 Upon choosing a stat to train, Players will watch an animation corresponding to the stat being trained.
 
-Each breed will have its different base stats to make them unique from each other. Each Rooster will have a total of 50 points they can use to allot on their stats which means you can only train a rooster up to 50 times.&#x20;
+Each breed will have its different base stats to make them unique from each other. Each Rooster will have a total of 50 points they can use to allot on their stats which means you can only train a rooster up to 50 times.
 
 Each training session uses 1 Training Point (TP). **1 TP = 1 $Gallonium**
 
