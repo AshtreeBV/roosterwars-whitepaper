@@ -32,8 +32,7 @@
 
 6.  **Would Training my Rooster count as $Gallonium usage?**
 
-    Short Answer: Yes&#x20;
-
+    Short Answer: Yes
     Additional details to support the answer: You still need to use all daily $Gallonium for training or PvP. The same rules apply if you don’t use daily $Gallonium, or fail to use it all up (refer to Questions 4 and 5).
 
 7.  **Can I finish the Adventure mode without training my Rooster?**
