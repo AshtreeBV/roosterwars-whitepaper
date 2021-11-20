@@ -1,7 +1,8 @@
-site_name: Rooster Wars Whitepaper (Draft)
+site_name: Rooster Wars Whitepaper V1
 theme:
   name: material
   favicon: images/rooster-coin.png
+  logo: images/logo.png
   font:
     text: Poppins
   features:
@@ -23,7 +24,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: amber
+      primary: white
       accent: amber
 nav:
   - README.md

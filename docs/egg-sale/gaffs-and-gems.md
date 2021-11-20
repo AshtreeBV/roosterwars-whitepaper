@@ -1,8 +1,8 @@
 # GAFFs & Gems
 
-## GAFFs (Tari)
+## GAFFs
 
-The GAFF (Tari) is the blade placed on a rooster’s left ankle which will hold the gems. GAFFs have rarity, based on the number of Gems it can hold, but will not add any stats to the Rooster if there is no gem slotted in it. GAFF rarity is as follows:
+The GAFF is the blade placed on a rooster’s left ankle which will hold the gems. GAFFs have rarity, based on the number of Gems it can hold, but will not add any stats to the Rooster if there is no gem slotted in it. GAFF rarity is as follows:
 
 - 1 Star - 1 gem slot
 - 2 Stars - 2 gem slots
