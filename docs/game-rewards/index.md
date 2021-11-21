@@ -1,8 +1,8 @@
 # Reward System
 
-Click the attachment below to download a detailed explanation and calculation of how our Reward System works.
+Click <a href="../papers/rewards.pdf" target="blank">here</a> or view the attachment below for a detailed explanation and calculation of how our Reward System works.
 
-[insert file here]
+<iframe src="../papers/rewards.pdf" style="width: 100%;height: 50vh;border: none;"></iframe>
 
 The current values on all calculations hereafter, along with the estimated time periods are based on the value of $GWIT at $0.02, the Initial DEX offer price.
 
