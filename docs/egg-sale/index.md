@@ -22,4 +22,4 @@ To allow other users to play, we would place a limit of 10 Eggs per wallet durin
 
 Participating in the Egg-Sale will allow users to have a pure breed NFT Rooster, a Gem, and a GAFF to be equipped to upgrade Roosters' stats. Having Gen-0 Roosters from the eggs will allow players to play the game in its first season and gain an advantage in PvP rankings by playing more games to get higher ranks, thus higher rewards.
 
-The supply of Roosters will be initially limited to the Egg-Sale while the additional supply of Roosters would come from breeding upon release.
+The supply of Roosters will initially be limited to the Egg-Sale. The additional supply of Roosters would come from breeding upon release.

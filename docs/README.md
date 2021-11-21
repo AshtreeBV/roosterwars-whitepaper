@@ -15,4 +15,4 @@ Development is divided into the following phases:
 
 ## LORE
 
-Since the dawn of time we Mannochs lived together peacefully on one giant island here in the Planet Galleos. But one day, a large and mysterious meteor plunged into the center of our land and separated it into smaller landmasses. Because of that, we were all divided into separate tribes. Little did we know that the meteor held the key to our future.
+Since the dawn of time we Mannochs have been living together peacefully in one giant island here in the Planet Galleos. Until one day, a large and mysterious meteor plunged into the center of our land and separated it into smaller landmasses. Because of that, we were all divided into separate tribes. Little did we know that the meteor held the key to our future.

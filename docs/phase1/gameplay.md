@@ -8,12 +8,12 @@ This section describes the general combat mechanism and the current game modes a
 
 ### Combat Mechanism
 
-- Rooster Wars’ combat will be a fast-paced rock paper scissors game.
-- Matches will have a wait phase where players must choose which moves they’ll pick. Once the meter at the top is gone, both roosters will use the move. (Roosters who didn’t choose a move will do nothing in that turn and will take damage).
-- Roosters will have three attacks using their beak, wings, and claws which represent rock paper scissors
-- If players throw the same move they’ll both inflict damage to each other but only take 50% damage to each other.
+- Rooster Wars’ combat will be a fast-paced rock-paper-scissors game.
+- Matches will have a wait phase where players must choose which moves they’ll pick. Once the meter on the top is gone, both roosters will use the move. (Roosters who didn’t choose a move will do nothing in that turn and will take damage).
+- Roosters will have three attacks using their beak, wings, and claws which represent rock, paper, or scissors
+- If players throw the same move they’ll both inflict damage to each other, but will only take 50% damage to each other.
 - Players can watch matches again at the results screen.
-- Matches will be fast-paced and players will have to choose between moves quickly.
+- Matches will be fast paced and players will have to choose between moves quickly.
 
 ### Game Modes
 

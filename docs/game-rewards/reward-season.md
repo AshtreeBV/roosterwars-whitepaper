@@ -1,6 +1,6 @@
 # Season Rewards
 
-Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards, and Top 10 player rewards. The start of the first season depends on the number of Roosters in the game to be able to give out season rewards.
+Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. The start of the first season depends on the number of Roosters in the game to be able to give out season rewards.
 
 The values calculated in Season rewards are based on the number of Roosters in the game at 150,000 Roosters.
 

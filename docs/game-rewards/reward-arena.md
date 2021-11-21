@@ -1,6 +1,6 @@
 # Arena Rewards
 
-The game, as a whole, including each mode, gives players the chance to earn while playing. Nonetheless, the majority of the rewards are given out in PvP mode, wherein significantly earning potential can be obtained. Here are some estimated situations on your potential ROI in PvP fights only.
+The game as a whole including each mode gives players the chance to earn while playing. Nonetheless, the majority of the rewards are given out in PvP mode, wherein significantly earning potential can be obtained. Here are some estimated situations on your potential ROI in PvP fights only.
 
 Let’s say that you own 1 Rooster, from the Egg-Sale, that produces 5 $Gallonium/Day. You then use all 5 $Gallonium and Fight in PvP.
 

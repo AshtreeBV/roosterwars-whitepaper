@@ -2,7 +2,7 @@ For Phase 2, the game will feature a breeding system where players need to have 
 
 ## Stat Inheritance
 
-Newly bred Roosters or Hens will inherit 4 out of 6 stats from the hen while the remaining 2 stats will be inherited from the rooster. Stats will be chosen randomly upon inheriting. The stats that the offspring will inherit from its parents would be the base stats only. and not receive the training points the parent rooster earned during its lifetime.
+Newly bred Roosters or Hens will inherit 4 out of 6 stats from the hen while the remaining 2 stats will be inherited from the rooster. Stats will be chosen randomly upon inheriting. The stats that the offspring will inherit from its parents would be base stats only and will not receive the training points that the parent rooster earned during its lifetime.
 
 ## Design Inheritance
 
