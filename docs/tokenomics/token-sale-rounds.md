@@ -21,22 +21,16 @@ All Private Sale tokens will be transferred into a public wallet address upon co
 
 Vesting Schedule: 15% unlocked at TGE + Monthly vesting for 12 months
 
-<mark style="color:red;">\[Add Details]</mark>
-
 ## Pre-Sale
 
 10% of Presale tokens will be unlocked at TGE while the remaining 90% will be placed in a public wallet address and will be distributed to token owners in accordance with its vesting schedule: 10% TGE then Monthly for 6 months
 
 The Private Sale amounts to 9% of the total supply of $GWIT tokens which is 90,000,000 $GWIT.
 
-<mark style="color:red;">\[Add Details]</mark>
-
-## **Public Sale**
+## Public Sale
 
 Public Sale amounts to 1% of the total supply of $GWIT, 10,000,000 $GWIT, and will be unlocked on TGE.
 
-<mark style="color:red;">\[Add Details]</mark>
+## Initial DEX Offering (IDO)
 
-## **Initial DEX Offering (IDO)**
-
-<mark style="color:red;">\[Add Details]</mark>
+Current planned price at $0.02 per $GWIT

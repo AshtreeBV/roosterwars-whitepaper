@@ -70,7 +70,7 @@ nav:
   - technology.md
   - roadmap.md
   - team-and-partners.md
-  - smart-contracts.md
+  #- smart-contracts.md
 
 markdown_extensions:
   - def_list
