@@ -20,15 +20,15 @@ Additionally, the Foundation may decide to allocate 10% of the NFT marketplace f
 
 ## $GWIT DEX Liquidity Pool
 
-We launch a DEX pool for $GWIT token and provide initial liquidity of 30,000,000 $GWIT along with 600,000 BUSD taken as a portion from funds raised over the token sale.
+We launch a DEX pool for $GWIT token and provide initial liquidity of 30,000,000 $GWIT along with 600,000 USDc taken as a portion from funds raised over the token sale.
 
-DEX pool works as follows: whenever someone adds a new BUSD token to the pool, that person has to add a certain amount of $GWIT token. The equation for working out the price of each token is
+DEX pool works as follows: whenever someone adds a new USDc token to the pool, that person has to add a certain amount of $GWIT token. The equation for working out the price of each token is
 
 $$
 x * y = k
 $$
 
-​where _**x**_ is the amount of $BUSD, _**y**_ represents the amount of $GWIT and, _**k**_ is constant.
+​where _**x**_ is the amount of $USDc, _**y**_ represents the amount of $GWIT and, _**k**_ is constant.
 
 Since the value of _**k**_ must remain the same, the cost of USDc increases while the cost of $GWIT in the pool decreases. So the more $GWIT traders put in, the less USDc the trader gets in return because its price increases.
 

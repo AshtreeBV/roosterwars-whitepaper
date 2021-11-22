@@ -1,8 +1,7 @@
 # Egg Sale (NFTs)
 
-<figure markdown> <!-- EGGS -->
-  ![Dummy image](https://dummyimage.com/800x200/){ width="700" }
-</figure>
+<!-- Egg Banner -->
+<img src="../images/egg-banner.png" alt="eggs" class="egg-banner">
 
 Rooster Wars will have its first-ever NFT sale on December XX, 2021. There will only be a total of **150,000 Eggs** to be sold at a very attractive price of **$30** each!
 
@@ -17,9 +16,10 @@ To allow other users to play, we would place a limit of 10 Eggs per wallet durin
 ### Benefits
 
 <!-- Single Egg -->
+<img src="../images/egg.png" alt="egg" class="egg">
 
-![Dummy image](https://dummyimage.com/200x120/){ align=left }
+Participating in the Egg-Sale will allow users to have a pure breed NFT Rooster, a Gem, and a GAFF to be equipped to upgrade Roosters' stats.
 
-Participating in the Egg-Sale will allow users to have a pure breed NFT Rooster, a Gem, and a GAFF to be equipped to upgrade Roosters' stats. Having Gen-0 Roosters from the eggs will allow players to play the game in its first season and gain an advantage in PvP rankings by playing more games to get higher ranks, thus higher rewards.
+Having Gen-0 Roosters from the eggs will allow players to play the game in its first season and gain an advantage in PvP rankings by playing more games to get higher ranks, thus higher rewards.
 
 The supply of Roosters will initially be limited to the Egg-Sale. The additional supply of Roosters would come from breeding upon release.
