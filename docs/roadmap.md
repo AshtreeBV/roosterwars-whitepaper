@@ -12,7 +12,7 @@
 - [x] Game Design
 - [x] Initial Play-to-earn Architecture
 - [x] NFT Concepts
-- [x] Phase 1 Development
+- [x] Start of Game Development
 
 #### Q4
 

@@ -20,17 +20,17 @@ Below are situations of player fights with different $Gallonium consumed every f
 
 **Situation 1**
 
-1. 1st Fight - Player used 1 $Gallonium - Wins: Reward is 1 $Gallonium
-2. 2nd Fight - Player used 5 $Gallonium - Wins: Reward is 3 $Gallonium (since the total wins (TW) would be 6 and classified as a 2nd Win under the 5-$Gallonium option)
+1. 1st Fight - Player used 1 Gallonium - Wins: Reward is 1 Gallonium
+2. 2nd Fight - Player used 5 Gallonium - Wins: Reward is 3 Gallonium, since the total wins (TW) would be 6 and classified as a 2nd Win under the 5-$Gallonium option
 
 **Situation 2**
 
-1. 1st Fight - Player used 1 $Gallonium - Wins: Reward is 1 $Gallonium
-2. 2nd Fight - Player used 3 $Gallonium - Wins: Reward is 2 $Gallonium (TW: 4, falls under 2nd Win in the 3-$Gallonium option)
-3. 3rd Fight - Player used 1 $Gallonium - Wins: Reward is 1 $Gallonium (TW: 5, falls under 5th win)
-4. 4th Fight - Player used 1 $Gallonium - Wins: Reward is 0 $Gallonium (TW: 6, falls under nth win)
+1. 1st Fight - Player used 1 Gallonium - Wins: Reward is 1 Gallonium
+2. 2nd Fight - Player used 3 Gallonium - Wins: Reward is 2 Gallonium, TW: 4, falls under 2nd Win in the 3-Gallonium option
+3. 3rd Fight - Player used 1 Gallonium - Wins: Reward is 1 Gallonium, TW: 5, falls under 5th win
+4. 4th Fight - Player used 1 Gallonium - Wins: Reward is 0 Gallonium, TW: 6, falls under nth win
 
 **Situation 3**
 
-1. 1st Fight - Player used 5 $Gallonium - Wins: Reward is 5 $Gallonium
-2. 2nd Fight - Player used 1 $Gallonium - Wins: Reward is 0 $Gallonium (player now has 6 wins and falls under nth win of 1-$Gallonium fights)
+1. 1st Fight - Player used 5 Gallonium - Wins: Reward is 5 Gallonium
+2. 2nd Fight - Player used 1 Gallonium - Wins: Reward is 0 Gallonium, player now has 6 wins and falls under nth win of 1-Gallonium fights
