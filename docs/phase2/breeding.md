@@ -1,3 +1,7 @@
+# Breeding
+
+**Disclaimer:** _All values are subject to change before launching phase 2, changes to whitepaper and announcements of possible changes regarding phase 2 will be done before its launch._
+
 For Phase 2, the game will feature a breeding system where players need to have at least one Hen and one Rooster to be able to breed.
 
 ## Stat Inheritance

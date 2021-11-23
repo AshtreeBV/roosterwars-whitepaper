@@ -2,7 +2,7 @@
 
 <!-- MetaDhana Studio -->
 <center>
-<a href="https://www.metadhana.io/" target= "_blank">
+<a href="https://www.metadhana.io/#meet-the-team" target= "_blank">
 <img src="../images/partners/MetaDhanaStudio.png" alt="MetaDhana Logo" class="team-logo">
 </a>
 </center>

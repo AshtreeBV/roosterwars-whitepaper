@@ -1,6 +1,6 @@
 # Land & Buildables
 
-_All values are subject to change before launching phase 3, changes to whitepaper and announcements of possible changes will be done before launch._
+**Disclaimer:** _All values are subject to change before launching phase 3, changes to whitepaper and announcements of possible changes regarding phase 3 will be done before its launch._
 
 ## World Map
 
@@ -8,10 +8,10 @@ Phase 3 is going to feature a real estate system where Players can buy their own
 
 The world will be sectioned into different types of land that differ in size. The number of plots indicated the number of buildable structures a player can build on top of owned land
 
-- \[name] - 2 plots of land
-- \[name] - 4 plots of land
-- \[name] - 8 plots of land
-- \[name] - 16 plots of land
+- 2 plots of land
+- 4 plots of land
+- 8 plots of land
+- 16 plots of land
 
 Land ownership can be bought in the upcoming land sale using $GWIT tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost $GWIT tokens.
 
