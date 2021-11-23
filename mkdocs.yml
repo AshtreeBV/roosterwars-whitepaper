@@ -67,9 +67,9 @@ nav:
       - defi/index.md
       - defi/farming.md
       - defi/swap.md
-  - technology.md
-  - roadmap.md
-  - team-and-partners.md
+  - Technology: technology.md
+  - Roadmap: roadmap.md
+  - Team & Partners: team-and-partners.md
   #- smart-contracts.md
 
 markdown_extensions:
