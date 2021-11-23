@@ -16,8 +16,8 @@
 
 #### Q4
 
-- [ ] Launch Website
-- [ ] Whitepaper release
+- [x] Launch Website
+- [x] Whitepaper release
 - [ ] Gameplay Demo release
 - [ ] Social Media
 - [ ] Egg-Sale
