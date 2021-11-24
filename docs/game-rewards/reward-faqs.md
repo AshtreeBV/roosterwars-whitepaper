@@ -22,7 +22,7 @@
 
     Additional details to support the answer: This is a Play-to-earn game, not a free-money or Ponzi scheme. If we remove this feature, we’ll be giving away free money to all players at the expense of new players, the team, and the holders of the $Rooster token.&#x20;
 
-    There would be 2 kinds of $Gallonium: The Daily and the ones in the Winning vault. The Daily is refreshed every day with 5 $Gallonium, the winning vault stores all $Gallonium from PvP winnings which is not deducted in any way. Dail $Gallonium is consumed first every time, once a Rooster uses all of its daily $Gallonium, it can still fight by using $Gallonium from the vault.
+    There would be 2 kinds of $Gallonium: The Daily and the ones in the Winning vault. The Daily is refreshed every day with 5 $Gallonium, the winning vault stores all $Gallonium from PvP winnings which is not deducted in any way. Daily $Gallonium is consumed first every time, once a Rooster uses all of its daily $Gallonium, it can still fight by using $Gallonium from the vault.
 
 5.  **What if I only use 1 $Gallonium/Day, what would happen to my unused $Gallonium?**
 
