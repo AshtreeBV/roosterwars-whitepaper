@@ -17,4 +17,6 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 
 Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
 
-![](https://lh3.googleusercontent.com/WO0ZUcjECvANjrc1O_HFx4SdPNBOutYvVsg3_G0aiLT8NnPYqhFYG024RYsrsHGLkvqbDycDj_0WTrQ9JTrXaHgyhdHcf8i4HFjzp2yyPrwHUY9UVkyzp4EFa2a451_C6HKu7VFw)
+<center>
+<a href="../../images/tokenomics.png" target="_blank"><img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics"></a>
+</center>

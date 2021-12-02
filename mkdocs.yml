@@ -1,7 +1,7 @@
 site_name: Rooster Wars Whitepaper V1
 theme:
   name: material
-  favicon: images/rooster-coin.png
+  favicon: images/logo.png
   logo: images/logo.png
   font:
     text: Poppins

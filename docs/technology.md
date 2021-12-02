@@ -6,4 +6,6 @@ This will allow users to only pay gas when cashing out their rewards, and not pa
 
 Below is a diagram that shows which parts are on-chain and off-chain.
 
+<center>
 <a href="/images/technology.png" target="_blank"><img src="/images/technology.png" alt="technology-diagram" class="technology"></a>
+</center>
