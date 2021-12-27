@@ -3,9 +3,9 @@
 <!-- Egg Banner -->
 <img src="../images/egg-banner.png" alt="eggs" class="egg-banner">
 
-Rooster Wars will have its first-ever NFT sale on December 12, 2021. There will only be a total of **150,000 Eggs** to be sold at a very attractive price of **$30** each!
+Rooster Wars will have its first-ever NFT sale on December 12, 2021. There will only be a total of **150,000 Eggs** to be sold at a very attractive price of **$30** each
 
-Not only will you get your very own Rooster, but the Eggs also contain Gems and GAFFs (blades) to be equipped by your Roosters. That’s right you will get 3 NFTs for only $30 once you participate in our first, and only, Egg-Sale!
+Not only will you get your very own Rooster, but the Eggs also contain Gems and GAFFs (blades) to be equipped by your Roosters. That’s right you will get **3 NFTs for one egg** once you participate in our first, and only, Egg-Sale!
 
 Available until Supplies Last!
 

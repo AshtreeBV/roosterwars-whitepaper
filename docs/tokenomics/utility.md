@@ -11,5 +11,5 @@ Here are examples of the $GWIT token's utility in the Rooster Wars ecosystem
 5.  PVP Mode by:
     1. Winning $Gallonium from PVP
     2. Swapping $Gallonium to $GWIT
-    3. Trading $GWIT to $USDc
+    3. Trading $GWIT to other cryptocurrency
     4. Getting Season Rewards
