@@ -8,4 +8,4 @@ Click <a href="../papers/rewards.pdf" target="blank">here</a> or view the attach
 
 <iframe src="../papers/rewards.pdf" style="width: 100%;height: 50vh;border: none;"></iframe>
 
-**Disclaimer: **All calculations performed are guidelines and do not give out exact numbers in Fiat or Cryptocurrency terms. Values used in some variables are only placeholders. True values, or actual numbers, are heavily dependent on current market activities.
+**Disclaimer:** All calculations performed are guidelines and do not give out exact numbers in Fiat or Cryptocurrency terms. Values used in some variables are only placeholders. True values, or actual numbers, are heavily dependent on current market activities.

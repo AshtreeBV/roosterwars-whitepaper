@@ -33,9 +33,9 @@ nav:
   - Introduction: README.md
   - Our Philosophy: our-philosophy.md
   - EGG-SALE:
-      - egg-sale/index.md
+      - EGG-Sale: egg-sale/index.md
       - Roosters:
-          - egg-sale/roosters/index.md
+          - Roosters: egg-sale/roosters/index.md
           - Starter Roosters: egg-sale/roosters/free-starter-roosters.md
           - NFT Roosters: egg-sale/roosters/nft-roosters-pure-breed.md
       - GAFFs and Gems: egg-sale/gaffs-and-gems.md
@@ -43,10 +43,10 @@ nav:
       - Gameplay: phase1/gameplay.md
       - $Gallonium: phase1/$gallonium.md
       - Arena (PvP):
-          - phase1/arena/index.md
+          - Arena Mode: phase1/arena/index.md
           - Diminishing Returns: phase1/arena/diminishing-returns.md
       - Adventure Mode (PvE):
-          - phase1/adventure-mode/index.md
+          - Adventure Mode: phase1/adventure-mode/index.md
           - Training: phase1/adventure-mode/training-roosters.md
       - Rooster Battle: phase1/rooster-battle.md
   - Phase 2:
@@ -55,8 +55,8 @@ nav:
   - Phase 3:
       - Land and Buildables: phase3/land-and-buildables.md
       - Expedition: phase3/expedition.md
-  - Game Rewards:
-      - game-rewards/index.md
+  - Game Mode Rewards:
+      - Game Mode Rewards: game-rewards/index.md
       - Arena: game-rewards/reward-arena.md
       - Adventure: game-rewards/reward-adventure.md
       - Season: game-rewards/reward-season.md
@@ -67,7 +67,7 @@ nav:
       - Sale rounds: tokenomics/token-sale-rounds.md
       - Vesting Schedules: tokenomics/vesting-schedule.md
   - DeFI Ecosystem:
-      - defi/index.md
+      - DeFI Ecosystem: defi/index.md
       - Farming: defi/farming.md
       - Swap: defi/swap.md
   - Technology: technology.md
