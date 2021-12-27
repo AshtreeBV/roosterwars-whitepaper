@@ -4,16 +4,20 @@ _“We aim to achieve a somewhat fair launch while trying to raise initial fundi
 
 Please refer to the table below
 
-|                              | **Private Sale** | **Pre-Sale** | **Public Sale** | **All Rounds**  |
-| ---------------------------- | :--------------: | :----------: | :-------------: | :-------------: |
-| **Target**                   |     $780,000     |  $1,530,000  |    $200,000     | **$2,510,000**  |
-| **Tokens for Sale**          |    60,000,000    |  90,000,000  |   10,000,000    | **160,000,000** |
-| **Price**                    |      $0.013      |    $0.017    |     $0.020      |                 |
-| **Price Premium**            |                  |    30.8%     |      17.6%      |                 |
-|                              |                  |              |                 |                 |
-| **Tokens at TGE**            |    9,000,000     |  9,000,000   |   10,000,000    | **28,000,000**  |
-| **TGE Market Cap**           |                  |              |                 |  **$560,000**   |
-| **Fully Diluted Market Cap** |                  |              |                 | **$20,000,000** |
+<center>
+
+|                              | **Private Sale** | **Presale 1** | **Presale 2** | **All Rounds**  |
+| ---------------------------- | :--------------: | :-----------: | :-----------: | :-------------: |
+| **Target**                   |     $780,000     |  $1,530,000   |   $200,000    | **$2,510,000**  |
+| **Tokens for Sale**          |    60,000,000    |  90,000,000   |  10,000,000   | **160,000,000** |
+| **Price**                    |      $0.013      |    $0.017     |    $0.020     |                 |
+| **Price Premium**            |                  |     30.8%     |     17.6%     |                 |
+|                              |                  |               |               |                 |
+| **Tokens at TGE**            |    9,000,000     |   9,000,000   |  10,000,000   | **28,000,000**  |
+| **TGE Market Cap**           |                  |               |               |  **$560,000**   |
+| **Fully Diluted Market Cap** |                  |               |               | **$20,000,000** |
+
+</center>
 
 ## Private Sale
 
@@ -21,15 +25,15 @@ All Private Sale tokens will be transferred into a public wallet address upon co
 
 Vesting Schedule: 15% unlocked at TGE + Monthly vesting for 12 months
 
-## Pre-Sale
+## Presale 1
 
-10% of Presale tokens will be unlocked at TGE while the remaining 90% will be placed in a public wallet address and will be distributed to token owners in accordance with its vesting schedule: 10% TGE then Monthly for 6 months
+10% of "Presale 1" tokens will be unlocked at TGE while the remaining 90% will be placed in a public wallet address and will be distributed to token owners in accordance with its vesting schedule: 10% TGE then Monthly for 6 months
 
 The Private Sale amounts to 9% of the total supply of $GWIT tokens which is 90,000,000 $GWIT.
 
-## Public Sale
+## Presale 2 (No Vesting Period)
 
-Public Sale amounts to 1% of the total supply of $GWIT, 10,000,000 $GWIT, and will be unlocked on TGE.
+"Presale 2" amounts to 1% of the total supply of $GWIT, 10,000,000 $GWIT, and will be unlocked on TGE.
 
 ## Initial DEX Offering (IDO)
 
