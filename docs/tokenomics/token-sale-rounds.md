@@ -37,7 +37,7 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 
 **How to Participate?**
 
-- Minimum Investment: $10
+- Minimum Investment: $20
 - Maximum Investment: $150,000
 
 ## **Presale 2** (No Vesting Period)
