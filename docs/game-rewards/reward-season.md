@@ -1,16 +1,18 @@
-# Season Rewards
+# **Season Rewards**
 
 Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. The start of the first season depends on the number of Roosters in the game to be able to give out season rewards.
 
 The values calculated in Season rewards are based on the number of Roosters in the game at 150,000 Roosters.
 
-## Challenger Tier Rewards
+## **Challenger Tier Rewards**
 
 Giving rewards in this section is a little tricky, therefore we will place certain conditions to prevent unfair distribution.&#x20;
 
 An example of unfair distribution: _If the number of players with CP below 150 is 10, while the number of players with CP above 1000 is 100. Then each player below 150 CP will get 0.7% while the players with CP above 1,000 will get 0.16% each._
 
 To avoid such a situation, we will follow the CP system along with a 100-player batch for each range. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players.
+
+<center>
 
 |   **CP**   | **% Share** | **$GWIT Rewards** | **$GWIT per Player** | **USD per Person** |
 | :--------: | :---------: | :---------------: | :------------------: | :----------------: |
@@ -24,9 +26,13 @@ To avoid such a situation, we will follow the CP system along with a 100-player 
 | 951 - 1000 |     14%     |     1,771,875     |      17,718.75       |    **$ 354.38**    |
 | Above 1000 |     16%     |     2,025,000     |      20,250.00       |    **$ 405.00**    |
 
+</center>
+
 _Disclaimer: This allocation may change on the number of players within the game, specifically if it exceeds the number of players to be given rewards to_
 
-## Top 10 Players Rewards
+## **Top 10 Players Rewards**
+
+<center>
 
 | **Top** | **% Share** | **$GWIT Rewards** |   **USD**   |
 | :-----: | :---------: | :---------------: | :---------: |
@@ -40,3 +46,5 @@ _Disclaimer: This allocation may change on the number of players within the game
 |    8    |     8%      |      112,500      | **$ 2,250** |
 |    9    |     5%      |      70,313       | **$ 1,406** |
 |   10    |     5%      |      70,313       | **$ 1,406** |
+
+</center>

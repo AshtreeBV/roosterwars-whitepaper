@@ -1,4 +1,4 @@
-# Reward System
+# **Reward System**
 
 The rewards system will be guided by an oracle that will help sustain the stability of the game.
 

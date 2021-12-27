@@ -1,4 +1,4 @@
-# Egg Sale (NFTs)
+# **Egg Sale (NFTs)**
 
 <!-- Egg Banner -->
 <img src="../images/egg-banner.png" alt="eggs" class="egg-banner">
@@ -9,11 +9,11 @@ Not only will you get your very own Rooster, but the Eggs also contain Gems and 
 
 Available until Supplies Last!
 
-### Egg Limit/Wallet
+### **Egg Limit/Wallet**
 
 To allow other users to play, we would place a limit of 10 Eggs per wallet during the Egg-Sale
 
-### Benefits
+### **Benefits**
 
 <!-- Single Egg -->
 <img src="../images/egg.png" alt="egg" class="egg">

@@ -1,4 +1,4 @@
-# Swap
+# **Swap**
 
 $GWIT is a standard ERC-20 token that can be tradeable to any other ERC-20 token
 

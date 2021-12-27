@@ -1,6 +1,8 @@
-# Adventure Rewards
+# **Adventure Rewards**
 
 Another way to earn is by completing stages in the Adventure mode. The calculation of rewards is based on the price of $GWIT valued at $0.02.
+
+<center>
 
 | **Stage** | **% Share** | **$GWIT per Rooster** |
 | :-------: | :---------: | :-------------------: |
@@ -12,3 +14,5 @@ Another way to earn is by completing stages in the Adventure mode. The calculati
 |    30     |     15%     |        42.1875        |
 |    35     |     20%     |         56.25         |
 |    40     |     23%     |        64.6875        |
+
+</center>

@@ -1,4 +1,4 @@
-# Utility
+# **Utility**
 
 The $GWIT token follows the ERC-20 standard and functions as the main utility token for the Rooster Wars game and ecosystem.
 

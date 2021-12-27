@@ -1,4 +1,4 @@
-# Expedition
+# **Expedition**
 
 Have your hens go out on expeditions for a chance to find treasures. For a small entry fee using $GWIT tokens, your hens will be eligible for in-game rewards (e.g. gems, GAFFs, and more), $GWIT tokens, or treasures outside of Rooster Wars!
 

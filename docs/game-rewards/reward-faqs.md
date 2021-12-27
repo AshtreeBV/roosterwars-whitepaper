@@ -1,4 +1,4 @@
-# Rewards FAQs
+# **Rewards FAQs**
 
 1.  **What if my win rate is <50%, would I still achieve ROI?**
 

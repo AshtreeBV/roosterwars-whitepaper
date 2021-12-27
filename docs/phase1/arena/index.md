@@ -1,6 +1,6 @@
-# Arena (PvP)
+# **Arena (PvP)**
 
-### Arena Mechanics
+### **Arena Mechanics**
 
 - Players must have at least one NFT Rooster to enter.
 - Players can use their NFT Rooster here and take on other players.
@@ -11,19 +11,21 @@
 - Winning a match regains the $Gallonium consumed to fight
 - The number of wins is refreshed daily
 
-## Stars and Chicken Points (CP)
+## **Stars and Chicken Points (CP)**
 
 Rooster Wars will use a Tier system inspired by popular games like League of Legends (LoL), Mobile Legends (MLBB), and Call of Duty (CoD) to ensure players have fair matchmaking and a fun and challenging ranking system.
 
 Rewards will be given to the top 10 Players every season and to those who qualify in the Challenger Tier. One season lasts for 2 months.
 
-### Tier System (Stars)
+### **Tier System (Stars)**
 
 - Winning a fight will give you a Star - Losing will take one from you
 - Players need 5 Stars to rank up - Promoted to next Tier or Division
 - Losing when you have no stars will get you demoted to the previous Tier or Division with 4 Stars
 - Winning 3 or 5 $Gallonium fights will give you 3 or 5 stars, respectively
 - Losing 3 or 5 $Gallonium fights will take 3 or 5 stars from you, respectively
+
+<center>
 
 |  **Tier**  | **Division** | **Stars to Rank up** |
 | :--------: | :----------: | :------------------: |
@@ -44,7 +46,9 @@ Rewards will be given to the top 10 Players every season and to those who qualif
 |            |      I       |          5           |
 | Challenger |      CP      |                      |
 
-### Chicken Points - Challenger Tier
+</center>
+
+### **Chicken Points - Challenger Tier**
 
 Upon reaching the Challenger tier, players will be ranked based on Chicken Points
 

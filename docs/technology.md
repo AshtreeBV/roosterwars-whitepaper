@@ -1,4 +1,4 @@
-# Technology
+# **Technology**
 
 In order to improve users' experience in the game, without sacrificing security, some processes are done on-chain (in the blockchain) and off-chain (within the game server).
 

@@ -1,4 +1,4 @@
-# Arena Rewards
+# **Arena Rewards**
 
 The game as a whole including each mode gives players the chance to earn while playing. Nonetheless, the majority of the rewards are given out in PvP mode, wherein significantly earning potential can be obtained. Here are some estimated situations on your potential ROI in PvP fights only.
 

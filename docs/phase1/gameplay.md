@@ -2,11 +2,11 @@
 description: Phase 1
 ---
 
-# Gameplay
+# **Gameplay**
 
 This section describes the general combat mechanism and the current game modes available upon the release of the game.
 
-### Combat Mechanism
+### **Combat Mechanism**
 
 - Rooster Wars’ combat will be a fast-paced rock-paper-scissors game.
 - Matches will have a wait phase where players must choose which moves they’ll pick. Once the meter on the top is gone, both roosters will use the move. (Roosters who didn’t choose a move will do nothing in that turn and will take damage).
@@ -15,7 +15,7 @@ This section describes the general combat mechanism and the current game modes a
 - Players can watch matches again at the results screen.
 - Matches will be fast paced and players will have to choose between moves quickly.
 
-### Game Modes
+### **Game Modes**
 
 - [Arena](arena/index.md) (PvP)
 - [Adventure Mode](adventure-mode/index.md) (PvE)

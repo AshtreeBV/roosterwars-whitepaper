@@ -1,4 +1,4 @@
-# Adventure Mode (PvE)
+# **Adventure Mode (PvE)**
 
 Adventure mode is where players go on levels where they’re up against AI opponents. Players with NFT Roosters can earn rewards by clearing the levels here.
 

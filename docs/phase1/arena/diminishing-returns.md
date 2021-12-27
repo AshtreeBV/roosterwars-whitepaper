@@ -1,4 +1,4 @@
-# Diminishing Returns
+# **Diminishing Returns**
 
 The concept of Diminishing Returns is placed to disincentivize unlimited fights. This will help maintain balance among players.
 

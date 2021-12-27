@@ -1,4 +1,4 @@
-# Training Roosters
+# **Training Roosters**
 
 Roosters will have a set of stats they can increase in training mode.
 

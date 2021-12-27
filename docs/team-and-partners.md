@@ -1,4 +1,4 @@
-# Team & Partners
+# **Team & Partners**
 
 <!-- MetaDhana Studio -->
 <center>

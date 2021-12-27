@@ -1,8 +1,8 @@
-# $Gallonium
+# **$Gallonium**
 
 $Gallonium is an in-game only token that can be swapped for $GWIT Token (not vice-versa: this would be P2W)
 
-## $Gallonium System
+## **$Gallonium System**
 
 - The Ratio of $Gallonium to $GWIT would be dependent on the number of Roosters in-game and the Price movements of $GWIT Token (Supply-Demand).
 - The Ratio is transparent and cannot be changed by any of the team members: the conversion formula is in the Smart Contract.

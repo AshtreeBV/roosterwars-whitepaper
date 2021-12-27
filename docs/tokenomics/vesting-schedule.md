@@ -1,4 +1,4 @@
-# Vesting Schedule
+# **Vesting Schedule**
 
 Below is a table overview of the different vesting schedules based on $GWIT allocation.
 

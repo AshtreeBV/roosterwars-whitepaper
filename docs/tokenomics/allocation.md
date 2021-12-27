@@ -1,4 +1,4 @@
-# Allocation
+# **Allocation**
 
 $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in the table below
 
