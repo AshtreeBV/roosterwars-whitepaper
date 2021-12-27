@@ -18,9 +18,9 @@
 
 - [x] Launch Website
 - [x] Whitepaper release
-- [ ] Gameplay Demo release
+- [x] Gameplay Demo release
 - [ ] Social Media
-- [ ] Egg-Sale
+- [x] Egg-Sale
 
 ### 2022
 
