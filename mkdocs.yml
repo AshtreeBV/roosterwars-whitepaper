@@ -1,4 +1,7 @@
 site_name: Rooster Wars Whitepaper V1
+site_url: https://whitepaper.roosterwars.io
+extra:
+  homepage: https://www.roosterwars.io
 theme:
   name: material
   favicon: images/logo.png
