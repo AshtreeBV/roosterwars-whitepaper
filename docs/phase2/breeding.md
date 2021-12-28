@@ -10,7 +10,7 @@ Newly bred Roosters or Hens will inherit 4 out of 6 stats from the hen while the
 
 ## **Design Inheritance**
 
-Aaprt from inheriting stats from the parents, newly bred Roosters or Hens will inherit 3 body parts from the Hen and 2 body parts from the Rooster at random.
+Apart from inheriting stats from the parents, newly bred Roosters or Hens will inherit 3 body parts from the Hen and 2 body parts from the Rooster at random.
 
 ## **Breeding Details**
 

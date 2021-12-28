@@ -10,14 +10,14 @@ If a scholar wins the battle, all rewards will go back to the Scholar.
 
 ## **Gameplay**
 
-- Each player will have an equal amount of Rooster to be able to join this mode.
+- Each player will have an equal amount of Rooster to be able to join this mode
 - The game begins upon reaching the number of players required to fill up the Battle event (_Note: Number of Players, not number of Roosters_).
-- Each Rooster will have one fight only.
-- A win will give the player +1, while a loss will be zero
+- Each Rooster will have one fight only
+- A **win** will give the player **+ 1**, a **draw** gives out **+ 0.5** to both players, and a **loss** will be **zero**
 - Player/s with the highest total points (_most wins_) at the end will be declared as Champion/s
 - Champion/s will be rewarded with the majority of the joining fee, in $GWIT tokens, collected earlier
 - Other players will take home a consolation prize in $GWIT tokens as well
-- Fights will be simulated and no one can dictate what moves the Roosters will use.
+- Fights will be simulated and no one can dictate what moves the Roosters will use
 
 ## **3v3 Battle**
 

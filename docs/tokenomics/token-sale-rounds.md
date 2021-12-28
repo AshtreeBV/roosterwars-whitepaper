@@ -42,7 +42,7 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 
 ## **Presale 2** (No Vesting Period)
 
-"Presale 2" amounts to 1% of the total supply of $GWIT, 10,000,000 $GWIT, and will be unlocked on TGE.
+"Presale 2" amounts to 1% of the total supply of $GWIT, which is 10,000,000 $GWIT, and will be unlocked on TGE.
 
 **How to Participate?**
 

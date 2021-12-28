@@ -8,7 +8,7 @@ Below is the Diminishing Returns table wherein results are based on a WIN. Rewar
 
 | **$Gallonium Used/Fight** | **1st Win** | **2nd Win** | **3rd Win** | **4th Win** | **5th Win** | **Nth Win** | **Total Winnings** |
 | ------------------------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :----------------: |
-| **1 $Gallonium**          |      1      |      1      |      1      |      1      |      1      |      1      |       **+5**       |
+| **1 $Gallonium**          |      1      |      1      |      1      |      1      |      1      |      0      |       **+5**       |
 | **3 $Gallonium**          |      3      |      2      |      2      |      0      |      0      |      0      |       **+7**       |
 | **5 $Gallonium**          |      5      |      3      |      2      |      0      |      0      |      0      |      **+10**       |
 
