@@ -4,6 +4,30 @@ Players who missed the chance of getting an Egg will still be able to play and e
 
 Upon starting the game, the player must choose ONE egg among three starter eggs. Each egg will feature a basic entry-level rooster (no breed) with basic stats.
 
+## **Breed Starter**
+
+![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+
+### **Base Stats**
+
+- VIT:
+- WATK:
+- BATK:
+- CATK:
+- SPD:
+- AGRO:
+
+</br>
+</br>
+</br>
+</br>
+
+<center>
+<!-- Description -->
+Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+
+</center>
+
 ### **Limitations of Starter Roosters**
 
 - The Starter (Non-NFT) Roosters have no specific breeds thus making them generic roosters only with mediocre base stats and equipped with training gloves. (No slots and gallus gem)
