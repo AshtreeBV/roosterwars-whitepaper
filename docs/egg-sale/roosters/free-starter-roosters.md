@@ -4,8 +4,6 @@ Players who missed the chance of getting an Egg will still be able to play and e
 
 Upon starting the game, the player must choose ONE egg among three starter eggs. Each egg will feature a basic entry-level rooster (no breed) with basic stats.
 
-## **Breed Starter**
-
 ![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
 
 ### **Base Stats**
@@ -23,8 +21,9 @@ Upon starting the game, the player must choose ONE egg among three starter eggs.
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 

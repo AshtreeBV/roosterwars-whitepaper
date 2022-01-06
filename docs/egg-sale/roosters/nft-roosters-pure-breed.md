@@ -4,13 +4,13 @@ Pure-bred roosters are obtained in the Egg-Sale and will only be available in th
 
 <center>
 
-<i>Stats are currently being tested and balanced by the Game Dev Team for a better game experience.</i>
+<i>Stats are currently being tested and balanced by the Game Dev Team for a better and balanced experience.</i>
 
 </center>
 
-## **Breed 1**
+## **1. Swansons**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/swansons.png" alt="Swansons" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -27,14 +27,15 @@ Pure-bred roosters are obtained in the Egg-Sale and will only be available in th
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 2**
+## **2. Kelians**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Kelians.png" alt="Kelians" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -51,14 +52,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 3**
+## **3. Rotundan**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Rotundan.png" alt="Rotundan" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -75,14 +77,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 4**
+## **4. Hatch**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/hatch.png" alt="Hatch" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -99,14 +102,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 5**
+## **5. Regular Gray**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/RegularGray.png" alt="Regular Gray" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -123,14 +127,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 6**
+## **6. Claira**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Claira.png" alt="Claira" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -147,14 +152,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 7**
+## **7. Redheart**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/RedHeart.png" alt="Red Heart" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -171,14 +177,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 8**
+## **8. Pylia**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Pylia.png" alt="Pylia" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -195,14 +202,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 9**
+## **9. Jonians**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Jonians.png" alt="Jonians" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -219,14 +227,15 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-## **Breed 10**
+## **10. Henis**
 
-![Image title](https://dummyimage.com/350x370/eee/aaa){ align=left }
+<img src="../../../images/roosters/Henis.png" alt="Henis" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -243,12 +252,13 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 </br>
 
 <center>
-<!-- Description -->
+<!-- Description 
 Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
+-->
 
 </center>
 
-### **How to Buy Roosters?**
+## **How to Buy Roosters?**
 
 You can buy Roosters in our Egg-Sale or in the Marketplace that will be released soon after the game launches. Below are options on how to buy Roosters and be the best fighter or the best breeder, and start earning while enjoying the game.
 
