@@ -27,7 +27,7 @@ Vesting Schedule: 15% unlocked at TGE + Monthly vesting for 12 months
 
 **How to Participate?**
 
-- Minimum Investment: $50,000
+- Minimum Investment: TBA
 
 ## **Presale 1**
 
