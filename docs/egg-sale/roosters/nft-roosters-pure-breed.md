@@ -22,16 +22,8 @@ Pure-bred roosters are obtained in the Egg-Sale and will only be available in th
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_A proud breed able to go against every other race. Despite not having the best stamina, Swansons are known for dealing high damage against their opponents. They have a small light red head with a pea comb, medium-sized orange wings accompanied by a medium-sized white tail, all carried by a medium-sized red body, and medium-sized yellow legs._
 
 ## **2. Kelians**
 
@@ -47,16 +39,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_The most abundant and common breed to exist in Planet Galleos. Kelians, or what the locals call the common folk, have medium yellow heads with a single comb. Their wings are small and black, and their tails are blue and low. Kelians also look the roundest breeds, even though their bodies are just medium sized and yellow, while their legs are short and white._
 
 ## **3. Rotundan**
 
@@ -72,16 +56,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Rotundans are known for their large aesthetic, making them the main working class of the breeds. Despite their size, they are actually the fastest breed out of all the other Mannochs. But what makes them truly unique is that they are the only breed that has red eyes. Rotundans have a medium-sized red head with a carnation comb. Their wings are large and black while their tail is both black and white at a high angle. Its body is also large with a yellow shade and their legs are long and yellow as well._
 
 ## **4. Hatch**
 
@@ -97,20 +73,12 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
+_Hatches are the oldest breed in Planet Galleos. Their ancestors witnessed the events of the calamity that split land into various regions. While Clairas have stepped up to monopolize the gems, Hatches are still respected because of their lineage. Hatches have small yellow heads with a single comb. Their wings are small with a light red shade, the tail has a green with a low angle. A Hatch also has a small black body with long green legs._
 
-</center>
+## **5. Greybacks**
 
-## **5. Regular Gray**
-
-<img src="../../../images/roosters/RegularGray.png" alt="Regular Gray" class="breed-rooster">
+<img src="../../../images/roosters/Greybacks.png" alt="Greybacks" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -122,16 +90,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Greybacks primarily live in the eastern regions and are the primary trade dealers for meat. Despite their blue heads being more prominent, Greybacks are more known for having a large black body, but for some strange reason, their backs are grey. Greybacks also have strawberry combs. Their tail is also unique where it’s primarily white but has green highlights. Their legs are also medium and white_
 
 ## **6. Claira**
 
@@ -147,16 +107,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_The aristocratic breed. Clairas represent the upper class and are the major distributors and trade dealers of Gallus Gems. Clairas have small orange heads with a classy walnut comb. Their wings are large with a wine red shade. Their tail being white and low while their body is large and black and lastly their legs being medium and white._
 
 ## **7. Redheart**
 
@@ -172,16 +124,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Living in the warm desert of the west, Redhearts rule the sands. Known for their large brown heads with their buttercup combs. They have medium burgundy wings and a high green tail. While their bodies may be medium and black, their legs are rather short and grey._
 
 ## **8. Pylia**
 
@@ -197,16 +141,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Pylias mainly live in the cold northern regions of Planet Galleos. While they can survive the harsh environment, some of them also leave their home to explore the rest of the planet or help domesticated vagrants out. Pylias have a medium-sized red head with a single comb. Hatches are also known for their large white wings accompanied by their high white tail and smal brown and white body. Lastly, their legs are medium-sized yellows._
 
 ## **9. Jonians**
 
@@ -222,16 +158,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Jonians were named after the great Mt. Jonia where the breeds live at the foot of the mountain. After the crash 2000 years ago, the Jonians saw the mountain as a deity and thanked the landmass for the blessings they received. Jonians have small white heads with a pea comb on top. While their wings are small and white, they also have a high green tail. Their body is also small and black which makes their small white legs stand out._
 
 ## **10. Henis**
 
@@ -247,16 +175,8 @@ Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text 
 - AGRO:
 
 </br>
-</br>
-</br>
-</br>
 
-<center>
-<!-- Description 
-Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text Some Text
--->
-
-</center>
+_Despite their plain appearance, Henis are quite versatile and can adapt to most situations which make them unique. They have a small brown head with a rose comb. Their wings are small and brown, its tail is grey and high, their body is small and brown, and its legs are long and yellow._
 
 ## **How to Buy Roosters?**
 
