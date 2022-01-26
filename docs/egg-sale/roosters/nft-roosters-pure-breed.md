@@ -142,7 +142,7 @@ _Living in the warm desert of the west, Redhearts rule the sands. Known for thei
 
 </br>
 
-_Pylias mainly live in the cold northern regions of Planet Galleos. While they can survive the harsh environment, some of them also leave their home to explore the rest of the planet or help domesticated vagrants out. Pylias have a medium-sized red head with a single comb. Hatches are also known for their large white wings accompanied by their high white tail and smal brown and white body. Lastly, their legs are medium-sized yellows._
+_Pylias mainly live in the cold northern regions of Planet Galleos. While they can survive the harsh environment, some of them also leave their home to explore the rest of the planet or help domesticated vagrants out. Pylias have a medium-sized red head with a single comb. Pylias are also known for their large white wings accompanied by their high white tail and smal brown and white body. Lastly, their legs are medium-sized yellows._
 
 ## **9. Jonians**
 
