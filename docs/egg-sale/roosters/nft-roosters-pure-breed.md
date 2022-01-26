@@ -10,7 +10,7 @@ Pure-bred roosters are obtained in the Egg-Sale and will only be available in th
 
 ## **1. Swansons**
 
-<img src="../../../images/roosters/swansons.png" alt="Swansons" class="breed-rooster">
+<img src="../../../images/roosters/Swansons.png" alt="Swansons" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -61,7 +61,7 @@ _Rotundans are known for their large aesthetic, making them the main working cla
 
 ## **4. Hatch**
 
-<img src="../../../images/roosters/hatch.png" alt="Hatch" class="breed-rooster">
+<img src="../../../images/roosters/Hatch.png" alt="Hatch" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -95,7 +95,7 @@ _Greybacks primarily live in the eastern regions and are the primary trade deale
 
 ## **6. Claira**
 
-<img src="../../../images/roosters/Claira.png" alt="Claira" class="breed-rooster">
+<img src="../../../images/roosters/claira.png" alt="Claira" class="breed-rooster">
 
 ### **Base Stats**
 
@@ -163,7 +163,7 @@ _Jonians were named after the great Mt. Jonia where the breeds live at the foot 
 
 ## **10. Henis**
 
-<img src="../../../images/roosters/Henis.png" alt="Henis" class="breed-rooster">
+<img src="../../../images/roosters/henis.png" alt="Henis" class="breed-rooster">
 
 ### **Base Stats**
 
