@@ -18,6 +18,6 @@ Below is a table overview of the different vesting schedules based on $GWIT allo
 
 </center>
 
-\*10% of Marketing tokens will be released at the end of week 1 and week 2 after TGE, with 5% allocation for each week. Then the rest would be monthly vested for 50 months, excluding the 1st month.
+\*5% of Marketing tokens will be released at the end of week 1 and week 2 after TGE, with 2.5% allocation for each week. Then the rest would be monthly vested for 50 months, excluding the 1st month.
 
 \*\*Farming Token release starts from 180,000 Tokens on Day 1 then applies 0.005% deflator each day forward.
