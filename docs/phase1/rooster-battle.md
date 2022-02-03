@@ -28,15 +28,15 @@ This will be the current mode available for Rooster Battle upon game release. Th
 - **100 Players** required to fill up the battle event
 - **Only 3 Roosters per player**
 - Burnt-out Roosters are not allowed to participate (_Roosters that reached their $Gallonium producing capacity_). Roosters that have 0 $Gallonium may participate provided that they can still produce $Gallonium the following day.
-- Joining Fee of **$3 per player** in $GWIT tokens (_oracle-based_)
+- Joining Fee of **150 $GWIT per player**
 
 **Joining Fee Breakdown**
 
-- Total = $300 in $GWIT tokens
-- Prize Pool = $292.5 in $GWIT tokens
-- Total Champion/s Reward = $240 in $GWIT tokens (_80% of Total_)
-- Total Consolation Reward = $52.5 in $GWIT tokens (_17.5% of Total_)
-- Platform Share = $7.5 in $GWIT tokens (_2.5% of Total_)
+- Total Joining Fee = 15,000 $GWIT
+- Prize Pool = 14,625 $GWIT
+- Total Champion/s Reward = 12,000 $GWIT (_80% of Total_)
+- Total Consolation Reward = 2,625 $GWIT (_17.5% of Total_)
+- Platform Share = 375 $GWIT (_2.5% of Total_)
 
 ## **5v5 Battle**
 
@@ -47,15 +47,15 @@ Coming Soon
 - **60 Players** required to fill up the battle event
 - Only **5 Roosters per player**
 - Burnt-out Roosters are not allowed to participate (_Roosters that reached their $Gallonium producing capacity_). Roosters that have 0 $Gallonium may participate provided that they can still produce $Gallonium the following day.
-- Joining Fee of **$10 per player** in $GWIT tokens (_oracle-based_)
+- Joining Fee of **500 $GWIT per player**
 
 **Joining Fee Breakdown**
 
-- Total = $600 in $GWIT tokens
-- Prize Pool = $585 in $GWIT tokens
-- Total Champion/s Reward = $450 in $GWIT tokens (_75% of Total_)
-- Total Consolation Reward = $135 in $GWIT tokens (_22.5% of Total_)
-- Platform Share = $15 in $GWIT tokens (_2.5% of Total_)
+- Total Joining Fee = 30,000 $GWIT
+- Prize Pool = 29,250 $GWIT
+- Total Champion/s Reward = 22,500 $GWIT (_75% of Total_)
+- Total Consolation Reward = 6,750 $GWIT (_22.5% of Total_)
+- Platform Share = 750 $GWIT (_2.5% of Total_)
 
 ## **10v10 Battle**
 
@@ -66,12 +66,12 @@ Coming Soon
 - **30 Players** required to fill up the battle event
 - Only **10 Roosters per player**
 - Burnt-out Roosters are not allowed to participate (_Roosters that reached their $Gallonium producing capacity_). Roosters that have 0 $Gallonium may participate provided that they can still produce $Gallonium the following day.
-- Joining Fee of **$30 per player** in $GWIT tokens (_oracle-based_)
+- Joining Fee of **1,500 $GWIT per player**
 
 **Joining Fee Breakdown**
 
-- Total = $900 in $GWIT tokens
-- Prize Pool = $877.5 in $GWIT tokens
-- Total Champion/s Reward = $630 in $GWIT tokens (_70% of Total_)
-- Total Consolation Reward = $247.5 in $GWIT tokens (_27.5% of Total_)
-- Platform Share = $22.5 in $GWIT tokens (_2.5% of Total_)
+- Total Joining Fee = 45,000 $GWIT
+- Prize Pool = 43,875 $GWIT
+- Total Champion/s Reward = 31,500 $GWIT (_70% of Total_)
+- Total Consolation Reward = 12,375 $GWIT (_27.5% of Total_)
+- Platform Share = 1,125 $GWIT (_2.5% of Total_)
