@@ -1,18 +1,18 @@
 # **Adventure Rewards**
 
-Another way to earn is by completing stages in the Adventure mode. The calculation of rewards is based on the price of $GWIT valued at $0.02.
+Another way to earn is by completing stages in the Adventure mode. Players will receive $GWIT and NFTs like Gems and GAFFs that can be sold for a profit or equipped to enhance the stats of their Roosters.
+
+Below are the stages that give out rewads upon completion.
 
 <center>
 
-| **Stage** | **% Share** | **$GWIT per Rooster** |
-| :-------: | :---------: | :-------------------: |
-|     5     |     2%      |         5.625         |
-|    10     |     5%      |        14.0625        |
-|    15     |     8%      |         22.5          |
-|    20     |     12%     |         33.75         |
-|    25     |     15%     |        42.1875        |
-|    30     |     15%     |        42.1875        |
-|    35     |     20%     |         56.25         |
-|    40     |     23%     |        64.6875        |
+| **Stage** | **Reward per Rooster**  |
+| :-------: | :---------------------: |
+|     5     |        10 $GWIT         |
+|    10     |        20 $GWIT         |
+|    20     |      1 Random Gem       |
+|    30     |        100 $GWIT        |
+|    35     | 1 Random Gem + 20 $GWIT |
+|    40     |      1 Random GAFF      |
 
 </center>
