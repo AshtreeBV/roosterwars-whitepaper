@@ -1,8 +1,8 @@
 # **Season Rewards**
 
-Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. The amount of rewards given out depends on the number of active Roosters playing the game.
+Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. Rewards will be given on a per-player/account basis.
 
-Rewards will be given on a per-player/account basis
+The amount of rewards given out depends on the number of active Roosters playing the game which is 100 $GWIT per active Rooster in-game.
 
 <center>
 
@@ -10,17 +10,25 @@ Rewards will be given on a per-player/account basis
 
 </center>
 
-For simplicity, the values calculated for the Season Rewards are based on the max number of Roosters in the game, 150,000 Roosters, before Breeding starts.
+For simplicity, the values calculated for the Season Rewards are based on the max number of Roosters in the game, 150,000 Roosters, before Breeding starts, and a $GWIT value of $0.02.
+
+<center><small>The actual $GWIT price will be dictated by market movements, **Higher price = Higher Rewards**</small></center>
 
 ## **Challenger Tier Rewards**
 
+The amount of rewards given out depends on the number of active Roosters playing the game which is 90 $GWIT per active Rooster in-game.
+
 Giving rewards in this section is a little tricky, therefore we will place certain conditions to prevent unfair distribution.
 
-An example of unfair distribution: _If the number of players with CP below 150 is 10, while the number of players with CP above 1000 is 100. Then each player below 150 CP will get 0.7% while the players with CP above 1,000 will get 0.16% each._
-
-To avoid such a situation, we will follow the CP system along with a 100-player batch for each range. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players.
-
 <center>
+
+A possible Situation of Unfair Distribution
+
+<small>_If the number of players with CP below 150 is 10, while the number of players with CP above 1000 is 100. Then each player below 150 CP will get 0.7% while the players with CP above 1,000 will get 0.16% each._</small>
+
+Solution to avoid Unfair Distribution
+
+<small>_To avoid such a situation, we will follow the CP system along with a **100-player batch for each range**. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players._</small>
 
 |     CP     | % Share | $GWIT Rewards to All | $GWIT per Player | USD per Player |
 | :--------: | :-----: | :------------------: | :--------------: | :------------: |
@@ -40,19 +48,21 @@ _Disclaimer: This allocation may change on the number of players within the game
 
 ## **Top 10 Players Rewards**
 
+Here are the rewards for the Top 10 players for the current season if there are 150,000 active Roosters in-game and a $GWIT value of $0.02.
+
 <center>
 
-| **Top** | **% Share** | **$GWIT Rewards** |   **USD**   |
-| :-----: | :---------: | :---------------: | :---------: |
-|    1    |     17%     |      239,063      | **$ 4,781** |
-|    2    |     15%     |      210,938      | **$ 4,219** |
-|    3    |     13%     |      182,813      | **$ 3,656** |
-|    4    |     11%     |      154,688      | **$ 3,094** |
-|    5    |     10%     |      140,625      | **$ 2,813** |
-|    6    |     8%      |      112,500      | **$ 2,250** |
-|    7    |     8%      |      112,500      | **$ 2,250** |
-|    8    |     8%      |      112,500      | **$ 2,250** |
-|    9    |     5%      |      70,313       | **$ 1,406** |
-|   10    |     5%      |      70,313       | **$ 1,406** |
+| Top | % Share | $GWIT Rewards |   USD   |
+| :-: | :-----: | :-----------: | :-----: |
+|  1  |   17%   |    255,000    | $ 5,100 |
+|  2  |   15%   |    225,000    | $ 4,500 |
+|  3  |   13%   |    195,000    | $ 3,900 |
+|  4  |   11%   |    165,000    | $ 3,300 |
+|  5  |   10%   |    150,000    | $ 3,000 |
+|  6  |   8%    |    120,000    | $ 2,400 |
+|  7  |   8%    |    120,000    | $ 2,400 |
+|  8  |   8%    |    120,000    | $ 2,400 |
+|  9  |   5%    |    75,000     | $ 1,500 |
+| 10  |   5%    |    75,000     | $ 1,500 |
 
 </center>
