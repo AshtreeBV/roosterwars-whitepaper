@@ -30,21 +30,21 @@ Solution to avoid Unfair Distribution
 
 <small>_To avoid such a situation, we will follow the CP system along with a **100-player batch for each range**. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players._</small>
 
-|     CP     | % Share | $GWIT Rewards to All | $GWIT per Player | USD per Player |
+|     CP     | % Share | $GWIT Rewards to All | $GWIT per Player | USD per Person |
 | :--------: | :-----: | :------------------: | :--------------: | :------------: |
-|  0 - 150   |   7%    |       945,000        |     9,450.00     |     189.00     |
-| 151 - 300  |   8%    |      1,080,000       |    10,800.00     |     216.00     |
-| 301 - 450  |   9%    |      1,215,000       |    12,150.00     |     243.00     |
-| 451 - 600  |   10%   |      1,350,000       |    13,500.00     |     270.00     |
-| 601 - 750  |   11%   |      1,485,000       |    14,850.00     |     297.00     |
-| 751 - 850  |   12%   |      1,620,000       |    16,200.00     |     324.00     |
-| 851 - 950  |   13%   |      1,755,000       |    17,550.00     |     351.00     |
-| 951 - 1000 |   14%   |      1,890,000       |    18,900.00     |     378.00     |
-| Above 1000 |   16%   |      2,160,000       |    21,600.00     |     432.00     |
+|  0 - 150   |   7%    |       945,000        |     9,450.00     |     $ 189      |
+| 151 - 300  |   8%    |      1,080,000       |    10,800.00     |     $ 216      |
+| 301 - 450  |   9%    |      1,215,000       |    12,150.00     |     $ 243      |
+| 451 - 600  |   10%   |      1,350,000       |    13,500.00     |     $ 270      |
+| 601 - 750  |   11%   |      1,485,000       |    14,850.00     |     $ 297      |
+| 751 - 850  |   12%   |      1,620,000       |    16,200.00     |     $ 324      |
+| 851 - 950  |   13%   |      1,755,000       |    17,550.00     |     $ 351      |
+| 951 - 1000 |   14%   |      1,890,000       |    18,900.00     |     $ 378      |
+| Above 1000 |   16%   |      2,160,000       |    21,600.00     |     $ 432      |
+
+<small>_Disclaimer: This allocation may change on the number of players within the game, specifically if it exceeds the number of players to be given rewards to_</small>
 
 </center>
-
-_Disclaimer: This allocation may change on the number of players within the game, specifically if it exceeds the number of players to be given rewards to_
 
 ## **Top 10 Players Rewards**
 
