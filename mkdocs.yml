@@ -57,9 +57,9 @@ nav:
       - Expedition: phase3/expedition.md
   - Game Mode Rewards:
       - Game Mode Rewards: game-rewards/index.md
-      #- Arena: game-rewards/reward-arena.md
+      - Arena: game-rewards/reward-arena.md
       - Adventure: game-rewards/reward-adventure.md
-      #- Season: game-rewards/reward-season.md
+      - Season: game-rewards/reward-season.md
       #- FAQ: game-rewards/reward-faqs.md
   - $GWIT Tokenomics:
       - Utility: tokenomics/utility.md

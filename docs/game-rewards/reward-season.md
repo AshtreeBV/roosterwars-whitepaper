@@ -1,12 +1,20 @@
 # **Season Rewards**
 
-Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. The start of the first season depends on the number of Roosters in the game to be able to give out season rewards.
+Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. The amount of rewards given out depends on the number of active Roosters playing the game.
 
-The values calculated in Season rewards are based on the number of Roosters in the game at 150,000 Roosters.
+Rewards will be given on a per-player/account basis
+
+<center>
+
+**More Roosters = More Rewards**
+
+</center>
+
+For simplicity, the values calculated for the Season Rewards are based on the max number of Roosters in the game, 150,000 Roosters, before Breeding starts.
 
 ## **Challenger Tier Rewards**
 
-Giving rewards in this section is a little tricky, therefore we will place certain conditions to prevent unfair distribution.&#x20;
+Giving rewards in this section is a little tricky, therefore we will place certain conditions to prevent unfair distribution.
 
 An example of unfair distribution: _If the number of players with CP below 150 is 10, while the number of players with CP above 1000 is 100. Then each player below 150 CP will get 0.7% while the players with CP above 1,000 will get 0.16% each._
 
@@ -14,17 +22,17 @@ To avoid such a situation, we will follow the CP system along with a 100-player 
 
 <center>
 
-|   **CP**   | **% Share** | **$GWIT Rewards** | **$GWIT per Player** | **USD per Person** |
-| :--------: | :---------: | :---------------: | :------------------: | :----------------: |
-|  0 - 150   |     7%      |      885,938      |       8,859.38       |    **$ 177.19**    |
-| 151 - 300  |     8%      |     1,012,500     |      10,125.00       |    **$ 202.50**    |
-| 301 - 450  |     9%      |     1,139,063     |      11,390.63       |    **$ 227.81**    |
-| 451 - 600  |     10%     |     1,265,625     |      12,656.25       |    **$ 253.13**    |
-| 601 - 750  |     11%     |     1,392,188     |      13,921.88       |    **$ 278.44**    |
-| 751 - 850  |     12%     |     1,518,750     |      15,187.50       |    **$ 303.75**    |
-| 851 - 950  |     13%     |     1,645,313     |      16,453.13       |    **$ 329.06**    |
-| 951 - 1000 |     14%     |     1,771,875     |      17,718.75       |    **$ 354.38**    |
-| Above 1000 |     16%     |     2,025,000     |      20,250.00       |    **$ 405.00**    |
+|     CP     | % Share | $GWIT Rewards to All | $GWIT per Player | USD per Player |
+| :--------: | :-----: | :------------------: | :--------------: | :------------: |
+|  0 - 150   |   7%    |       945,000        |     9,450.00     |     189.00     |
+| 151 - 300  |   8%    |      1,080,000       |    10,800.00     |     216.00     |
+| 301 - 450  |   9%    |      1,215,000       |    12,150.00     |     243.00     |
+| 451 - 600  |   10%   |      1,350,000       |    13,500.00     |     270.00     |
+| 601 - 750  |   11%   |      1,485,000       |    14,850.00     |     297.00     |
+| 751 - 850  |   12%   |      1,620,000       |    16,200.00     |     324.00     |
+| 851 - 950  |   13%   |      1,755,000       |    17,550.00     |     351.00     |
+| 951 - 1000 |   14%   |      1,890,000       |    18,900.00     |     378.00     |
+| Above 1000 |   16%   |      2,160,000       |    21,600.00     |     432.00     |
 
 </center>
 
