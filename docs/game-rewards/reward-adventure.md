@@ -10,9 +10,11 @@ Below are the stages that give out rewads upon completion.
 | :-------: | :---------------------: |
 |     5     |        10 $GWIT         |
 |    10     |        20 $GWIT         |
+|    15     |        50 $GWIT         |
 |    20     |      1 Random Gem       |
-|    30     |        100 $GWIT        |
-|    35     | 1 Random Gem + 20 $GWIT |
+|    25     |        100 $GWIT        |
+|    30     |        120 $GWIT        |
+|    35     | 1 Random Gem + 50 $GWIT |
 |    40     |      1 Random GAFF      |
 
 </center>
