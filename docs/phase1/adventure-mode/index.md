@@ -7,3 +7,9 @@ Matches in this mode will require only one Rooster (Player VS AI) where some lev
 The Adventure Mode currently has **40 stages.** Rewards are given after completing every 5 stages. It is highly encouraged to train Roosters to complete levels.
 
 More stages will be added in the future so players can earn more rewards!
+
+<center>
+
+_For full details of the rewards, head on over to [Rewards: Adventure](../../game-rewards/reward-adventure.md) section._
+
+</center>

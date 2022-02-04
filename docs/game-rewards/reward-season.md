@@ -2,6 +2,12 @@
 
 Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. Rewards will be given on a per-player/account basis.
 
+<center>
+
+_For full details regarding the gameplay, head on over to [Arena (PVP)](../phase1/arena/index.md#chicken-points---challenger-tier) game mode._
+
+</center>
+
 The amount of rewards given out depends on the number of active Roosters playing the game which is 100 $GWIT per active Rooster in-game.
 
 <center>

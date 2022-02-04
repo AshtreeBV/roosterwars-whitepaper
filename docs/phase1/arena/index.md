@@ -11,6 +11,12 @@
 - Winning a match regains the $Gallonium consumed to fight
 - The number of wins is refreshed daily
 
+<center>
+
+_For full details of the rewards, head on over to [Rewards: Arena (PVP)](../../game-rewards/reward-arena.md) section._
+
+</center>
+
 ## **Stars and Chicken Points (CP)**
 
 Rooster Wars will use a Tier system inspired by popular games like League of Legends (LoL), Mobile Legends (MLBB), and Call of Duty (CoD) to ensure players have fair matchmaking and a fun and challenging ranking system.
@@ -56,3 +62,9 @@ Upon reaching the Challenger tier, players will be ranked based on Chicken Point
 - Losing takes **-30 CP **
 - A Draw gives both players **+10 CP **
 - Losing with **0 CP** will demote the player to Diamond I with 4 stars
+
+<center>
+
+_For full details of the rewards, head on over to [Rewards: Season (PVP)](../../game-rewards/reward-season.md) section._
+
+</center>

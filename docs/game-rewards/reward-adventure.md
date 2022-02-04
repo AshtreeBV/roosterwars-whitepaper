@@ -2,6 +2,12 @@
 
 Another way to earn is by completing stages in the Adventure mode. Players will receive $GWIT and NFTs like Gems and GAFFs that can be sold for a profit or equipped to enhance the stats of their Roosters.
 
+<center>
+
+_For full details regarding the gameplay, head on over to [Adventure](../phase1/adventure-mode/index.md) mode_
+
+</center>
+
 Below are the stages that give out rewads upon completion.
 
 <center>

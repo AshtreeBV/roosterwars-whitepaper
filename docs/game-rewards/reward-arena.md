@@ -2,6 +2,12 @@
 
 The game as a whole including each mode gives players the chance to earn while playing. Nonetheless, the majority of the rewards are given out in PvP mode, wherein a significant earning potential can be obtained.
 
+<center>
+
+_For full details regarding the gameplay, head on over to [Arena (PVP)](../phase1/arena/index.md) mode._
+
+</center>
+
 The $Gallonium to $GWIT ratio is 1 to 8. Below are possible scenarios for PVP rewards.
 
 Let’s say that you own 1 Rooster, from the Egg-Sale, that produces 5 $Gallonium/Day and you only play in the Arena (PVP) 5 times per day, even if you get more by winning.
