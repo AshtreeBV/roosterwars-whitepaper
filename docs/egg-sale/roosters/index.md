@@ -16,6 +16,10 @@ Gilly Juice is available in the Marketplace to allow Roosters to recharge and ha
 
 Players as Rooster owners are provided the chance to recharge their Roosters to continue to fight for them or allow their Roosters to rest and be their forever companions.
 
+<!--
+The cost of Gilly Juice is 1,500 $GWIT
+-->
+
 ## **Types of Roosters**
 
 - Starter Roosters (Free)
