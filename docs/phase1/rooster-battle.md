@@ -1,5 +1,12 @@
 # **Rooster Battle**
 
+<center>
+
+**From the Team: This mode is currently undergoing revisions to improve players' experience and optimize earning possibilities. Thank you for your patience!**
+
+</center>
+
+<!--
 In this mode, players are required to enter a given number of Roosters to participate. Each player will also pay a joining fee in $GWIT tokens. A prize pot from all the players joining fee is disposed of and awarded based on final ranking.
 
 The game will take a 2.5% fee for each event, a portion of the fee will go back to the reward pool.
@@ -75,3 +82,4 @@ Coming Soon
 - Total Champion/s Reward = 31,500 $GWIT (_70% of Total_)
 - Total Consolation Reward = 12,375 $GWIT (_27.5% of Total_)
 - Platform Share = 1,125 $GWIT (_2.5% of Total_)
+-->

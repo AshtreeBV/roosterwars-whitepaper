@@ -4,8 +4,11 @@
 
 _For full details regarding the gameplay, head on over to [Rooster Battle](../phase1/rooster-battle.md) game mode_
 
+**From the Team: This mode is currently undergoing revisions to improve players' experience and optimize earning possibilities. Thank you for your patience!**
+
 </center>
 
+<!--
 Below are the potential rewards for participants in the Rooster Battle modes.
 
 ## **3v3 Battle**
@@ -64,3 +67,4 @@ Coming Soon
 - Total Champion/s Reward = 31,500 $GWIT (_70% of Total_)
 - Total Consolation Reward = 12,375 $GWIT (_27.5% of Total_)
 - Platform Share = 1,125 $GWIT (_2.5% of Total_)
+-->
