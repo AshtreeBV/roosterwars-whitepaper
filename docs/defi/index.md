@@ -1,4 +1,4 @@
-# **DeFI Ecosystem**
+# **DeFi Ecosystem**
 
 To achieve a stable game that will keep running in the long run, the team devised an ecosystem that will foster stable growth and development of the Rooster Wars project.
 
