@@ -10,6 +10,7 @@ theme:
     text: Poppins
   features:
     - navigation.tracking
+    - navigation.sections
     - navigation.instant
     - navigation.indexes
     - navigation.top
@@ -39,6 +40,8 @@ nav:
           - Starter Roosters: egg-sale/roosters/free-starter-roosters.md
           - NFT Roosters: egg-sale/roosters/nft-roosters-pure-breed.md
       - GAFFs and Gems: egg-sale/gaffs-and-gems.md
+  - FAQ:
+      - Phase 1 FAQ: faq/p1.md
   - Phase 1:
       - Gameplay: phase1/gameplay.md
       - $Gallonium: phase1/$gallonium.md
@@ -60,7 +63,6 @@ nav:
       - Adventure: game-rewards/reward-adventure.md
       - Season: game-rewards/reward-season.md
       - Rooster Battle: game-rewards/reward-battle.md
-      #- FAQ: game-rewards/reward-faqs.md
   - $GWIT Tokenomics:
       - Utility: tokenomics/utility.md
       - Allocation: tokenomics/allocation.md
