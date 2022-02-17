@@ -41,7 +41,9 @@ nav:
           - NFT Roosters: egg-sale/roosters/nft-roosters-pure-breed.md
       - GAFFs and Gems: egg-sale/gaffs-and-gems.md
   - FAQ:
-      - Phase 1 FAQ: faq/p1.md
+      - Phase 1: faq/p1.md
+      - Phase 2: faq/p2.md
+      #- Phase 3: faq/p3.md
   - Phase 1:
       - Gameplay: phase1/gameplay.md
       - $Gallonium: phase1/$gallonium.md
