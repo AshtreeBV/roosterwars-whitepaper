@@ -1,17 +1,23 @@
 # **Arena (PvP)**
 
+In this mode, players have two (2) options to decide from before fighting:
+
+- Use 1 $Gallonium
+- Use 0 $Gallonium - **Unlimited Fights!**
+
+The first option allows players to increase their $Gallonium holdings, as wells as, rank up upon every win. The latter allows players to grind and battle as long as they want to climb up to the _Challenger tier_ and have a share in the Seasonal Rewards.
+
 ### **Arena Mechanics**
 
 - Players must have at least one NFT Rooster to enter.
 - Players can use their NFT Rooster here and take on other players.
-- Roosters can fight as long as they have $Gallonium
 - Arena mode will feature a ranking system. This will determine the matchmaking to ensure fair-play matches with a Rooster in the same tier, as well as the basis for giving out additional rewards.
 - Players can only fight if equal amounts of $Gallonium are used (e.g. both used 1 $Gallonium)
-- Depending on its respective tier, the winner will be rewarded with Stars or Chicken Points (CP), and $Gallonium based on the amount of $Gallonium used in a fight, with **[Diminishing Returns](diminishing-returns.md)** upon winning n-times.
-- Winning a match regains the $Gallonium consumed to fight
-- The number of wins is refreshed daily
+- Depending on its respective tier, the winner will be rewarded with Stars or Chicken Points (CP), and $Gallonium based on the amount of $Gallonium used in a fight.
 
 <center>
+
+**Battle On!**
 
 _For full details of the rewards, head on over to [Rewards: Arena (PVP)](../../game-rewards/reward-arena.md) section._
 
@@ -28,8 +34,8 @@ Rewards will be given to the top 10 Players every season and to those who qualif
 - Winning a fight will give you a Star - Losing will take one from you
 - Players need 5 Stars to rank up - Promoted to next Tier or Division
 - Losing when you have no stars will get you demoted to the previous Tier or Division with 4 Stars
-- Winning 3 or 5 $Gallonium fights will give you 3 or 5 stars, respectively
-- Losing 3 or 5 $Gallonium fights will take 3 or 5 stars from you, respectively
+
+Below is a sample for Tiers and Ranks, but the number of Ranks and Tiers is positively related to the number of active players in the Arena (PvP).
 
 <center>
 
@@ -59,9 +65,11 @@ Rewards will be given to the top 10 Players every season and to those who qualif
 Upon reaching the Challenger tier, players will be ranked based on Chicken Points
 
 - Winning grants **+20 CP**
-- Losing takes **-30 CP **
-- A Draw gives both players **+10 CP **
+- Losing takes **-30 CP**
+- A Draw gives both players **+10 CP**
 - Losing with **0 CP** will demote the player to Diamond I with 4 stars
+
+Players in the Challenger Tier are required to win at least twice (2) per day to disable the decay in their Chicken Points (CP).
 
 <center>
 
