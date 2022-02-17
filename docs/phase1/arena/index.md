@@ -5,7 +5,7 @@ In this mode, players have two (2) options to decide from before fighting:
 - Use 1 $Gallonium
 - Use 0 $Gallonium - **Unlimited Fights!**
 
-The first option allows players to increase their $Gallonium holdings, as wells as, rank up upon every win. The latter allows players to grind and battle as long as they want to climb up to the _Challenger tier_ and have a share in the Seasonal Rewards.
+The first option allows players to simultaneously increase their $Gallonium holdings and Rank/Tier upon every win. The latter allows players to grind and battle as long as they want to climb up to the _Challenger tier_ and have a share in the Seasonal Rewards.
 
 ### **Arena Mechanics**
 

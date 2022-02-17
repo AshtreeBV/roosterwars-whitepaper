@@ -44,7 +44,6 @@ nav:
       - $Gallonium: phase1/$gallonium.md
       - Arena (PvP):
           - Arena Mode: phase1/arena/index.md
-          - Diminishing Returns: phase1/arena/diminishing-returns.md
       - Adventure Mode (PvE):
           - Adventure Mode: phase1/adventure-mode/index.md
           - Training: phase1/adventure-mode/training-roosters.md
