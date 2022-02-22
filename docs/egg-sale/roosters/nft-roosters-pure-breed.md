@@ -184,7 +184,7 @@ You can buy Roosters in our Egg-Sale or in the Marketplace that will be released
 
 **NFT Egg-Sale**
 
-For the Egg-Sale, users can buy Eggs that contain a Rooster on Opensea using $USDc. After buying the Eggs, users will be able to hatch the Eggs on (Date/Time before Game launch). Egg-holders have the option to sell their Eggs after buying them.
+For the Egg-Sale, users can mint Eggs <a href="https://mint.roosterwars.io/" target="blank"><b>here</b></a> using $USDc. After buying the Eggs, users will be able to hatch the Eggs upon Game Launch. Egg-holders have the option to sell their Eggs after buying them.
 
 **Marketplace**
 
