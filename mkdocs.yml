@@ -1,4 +1,4 @@
-site_name: Rooster Wars Whitepaper V1
+site_name: Rooster Wars (V1)
 site_url: https://whitepaper.roosterwars.io
 extra:
   homepage: https://www.roosterwars.io
@@ -35,36 +35,37 @@ nav:
   - Our Philosophy: our-philosophy.md
   - EGG-SALE:
       - EGG-Sale: egg-sale/index.md
-      - Roosters:
-          - Roosters: egg-sale/roosters/index.md
-          - Starter Roosters: egg-sale/roosters/free-starter-roosters.md
-          - NFT Roosters: egg-sale/roosters/nft-roosters-pure-breed.md
-      - GAFFs and Gems: egg-sale/gaffs-and-gems.md
   - FAQ:
       - Phase 1: faq/p1.md
       - Phase 2: faq/p2.md
       #- Phase 3: faq/p3.md
-  - Phase 1:
-      - Gameplay: phase1/gameplay.md
-      - $Gallonium: phase1/$gallonium.md
-      - Arena (PvP):
-          - Arena Mode: phase1/arena/index.md
-      - Adventure Mode (PvE):
-          - Adventure Mode: phase1/adventure-mode/index.md
-          - Training: phase1/adventure-mode/training-roosters.md
-      - Rooster Battle: phase1/rooster-battle.md
-  - Phase 2:
-      - Breeding: phase2/breeding.md
-      - Hens: phase2/hens.md
-  - Phase 3:
-      - Land and Buildables: phase3/land-and-buildables.md
-      - Expedition: phase3/expedition.md
-  - Game Mode Rewards:
-      - Game Mode Rewards: game-rewards/index.md
-      - Arena: game-rewards/reward-arena.md
-      - Adventure: game-rewards/reward-adventure.md
-      - Season: game-rewards/reward-season.md
-      - Rooster Battle: game-rewards/reward-battle.md
+  - Gameplay:
+      - Roosters:
+          - Roosters: gameplay/roosters/index.md
+          - Starter Roosters: gameplay/roosters/free-starter-roosters.md
+          - NFT Roosters: gameplay/roosters/nft-roosters-pure-breed.md
+      - GAFFs and Gems: gameplay/gaffs-and-gems.md
+      - Phase 1:
+          - Gameplay: gameplay/phase1/gameplay.md
+          - $Gallonium: gameplay/phase1/$gallonium.md
+          - Arena (PvP):
+              - Arena Mode: gameplay/phase1/arena/index.md
+          - Adventure Mode (PvE):
+              - Adventure Mode: gameplay/phase1/adventure-mode/index.md
+              - Training: gameplay/phase1/adventure-mode/training-roosters.md
+          - Rooster Battle: gameplay/phase1/rooster-battle.md
+      - Phase 2:
+          - Breeding: gameplay/phase2/breeding.md
+          - Hens: gameplay/phase2/hens.md
+      - Phase 3:
+          - Land and Buildables: gameplay/phase3/land-and-buildables.md
+          - Expedition: gameplay/phase3/expedition.md
+      - Game Mode Rewards:
+          - Game Mode Rewards: gameplay/game-rewards/index.md
+          - Arena: gameplay/game-rewards/reward-arena.md
+          - Adventure: gameplay/game-rewards/reward-adventure.md
+          - Season: gameplay/game-rewards/reward-season.md
+          - Rooster Battle: gameplay/game-rewards/reward-battle.md
   - $GWIT Tokenomics:
       - Utility: tokenomics/utility.md
       - Allocation: tokenomics/allocation.md
