@@ -2,7 +2,7 @@
 description: Phase 1
 ---
 
-# **Gameplay**
+# **Overview**
 
 This section describes the general combat mechanism and the current game modes available upon the release of the game.
 

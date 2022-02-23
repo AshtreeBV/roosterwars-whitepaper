@@ -1,6 +1,15 @@
-# **Phase 1 FAQs**
+# **FAQ**
 
-This section highlight Frequently Asked Questions (FAQs) for Rooster Wars' Phase 1 that focuses on the gameplay and current features under Phase 1. Details about Breeding will be released under [Phase 2 FAQs](p2.md).
+<center>
+Here are the answers to Frequently Asked Questions (FAQs) to aid in your research for this project. Questions are categorized based on the Game's Phase.
+
+Always **DYOR**!
+
+</center>
+
+## **Phase 1**
+
+This section highlight Frequently Asked Questions (FAQs) for Rooster Wars' Phase 1 that focuses on the gameplay and current features under Phase 1. Details about Breeding will be released under [Phase 2 FAQs](faq.md#phase-2).
 
 1.  **What if my Arena (PvP) win rate is <50%, would I still be profitable?**
 
@@ -43,3 +52,11 @@ This section highlight Frequently Asked Questions (FAQs) for Rooster Wars' Phase
     Short answer: **No**, that would break the game econoomy by continously giving out free rewards in the adventure mode. However, the team will continuously add challenging levels as the game develops!
 
 Additional FAQs will be added soon!
+
+## **Phase 2**
+
+<center>
+
+_Full Details will be released before the start of Phase 2. Important features regarding breeding will slowly be released after the game launch._
+
+<center>

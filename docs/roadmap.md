@@ -19,18 +19,21 @@
 - [x] Launch Website
 - [x] Whitepaper release
 - [x] Gameplay Demo release
-- [ ] Social Media
-- [x] Egg-Sale
+- [x] Private Egg-Sale
 
 ### 2022
 
 #### Q1
 
+- [ ] Strengthen Social Media Channels
+- [ ] Egg-Sale
 - [ ] $GWIT Sale Rounds
 - [ ] Launch Rooster Wars Game (Alpha)
 
 #### Q2
 
+- [ ] Activate Play-to-Earn
+- [ ] Launch Scholarship-Manager Smart Contract platform
 - [ ] Launch Marketplace
 
 #### Q3
