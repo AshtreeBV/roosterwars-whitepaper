@@ -18,6 +18,16 @@ To incentivize players holding behavior we will launch a staking pool with the a
 
 Additionally, the Foundation may decide to allocate 10% of the NFT marketplace fee among stakers to attract more stakers and support the $GWIT token price.
 
+## **Farming $GWIT**
+
+Liquidity providers have an option to generate additional rewards on top of the swap fee by allocating LP tokens to yield farming. For this purpose, the Foundation allocates 80% of the daily $GWIT release from Farming pools to liquidity providers based on their respective share in total liquidity. In order to participate in the farming LPs would need to stake their LP tokens. Early LPs would benefit from higher rewards.
+
+## **Tokens**
+
+$GWIT is a standard ERC-20 token that can be tradeable to any other ERC-20 token
+
+Meanwhile, $Gallonium is an in-game token that is only convertible to $GWIT in a one-way fashion.
+
 ## **$GWIT DEX Liquidity Pool**
 
 We launch a DEX pool for $GWIT token and provide initial liquidity of 30,000,000 $GWIT along with 600,000 USDc taken as a portion from funds raised over the token sale.

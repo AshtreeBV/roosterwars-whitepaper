@@ -1,4 +1,4 @@
-site_name: Rooster Wars (V1)
+site_name: Rooster Wars (v1)
 site_url: https://whitepaper.roosterwars.io
 extra:
   homepage: https://www.roosterwars.io
@@ -64,14 +64,9 @@ nav:
           - Season: gameplay/game-rewards/reward-season.md
           - Rooster Battle: gameplay/game-rewards/reward-battle.md
   - $GWIT Tokenomics:
-      - Utility: tokenomics/utility.md
-      - Allocation: tokenomics/allocation.md
-      - Sale rounds: tokenomics/token-sale-rounds.md
-      - Vesting Schedules: tokenomics/vesting-schedule.md
-  - DeFI Ecosystem:
-      - DeFI Ecosystem: defi/index.md
-      - Farming: defi/farming.md
-      - Swap: defi/swap.md
+      - $GWIT Tokenomics: tokenomics/index.md
+  - DeFi Ecosystem:
+      - DeFi Ecosystem: defi/index.md
   - Technology: technology.md
   - Roadmap: roadmap.md
   - Team & Partners: team-and-partners.md
