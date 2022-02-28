@@ -1,19 +1,19 @@
-# **Rooster Battle Rewards**
+# **Team Battle Rewards**
 
 <center>
 
-_For full details regarding the gameplay, head on over to [Rooster Battle](../phase1/rooster-battle.md) game mode_
+_For full details regarding the gameplay, head on over to [Team Battle](../phase1/team-battle.md) game mode_
 
 **From the Team: This mode is currently undergoing revisions to improve players' experience and optimize earning possibilities. Thank you for your patience!**
 
 </center>
 
 <!--
-Below are the potential rewards for participants in the Rooster Battle modes.
+Below are the potential rewards for participants in the Team Battle modes.
 
 ## **3v3 Battle**
 
-This will be the current mode available for Rooster Battle upon game release.
+This will be the current mode available for Team Battle upon game release.
 
 **Specifics**
 

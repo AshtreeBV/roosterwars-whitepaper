@@ -19,5 +19,5 @@ This section describes the general combat mechanism and the current game modes a
 
 - [Arena](arena/index.md) (PvP)
 - [Adventure Mode](adventure-mode/index.md) (PvE)
-- [Rooster Battle](rooster-battle.md)
+- [Team Battle](team-battle.md)
 - [Expedition](../phase3/expedition.md) (coming in Phase 3)

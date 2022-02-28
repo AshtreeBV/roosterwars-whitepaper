@@ -50,7 +50,7 @@ nav:
           - Adventure Mode (PvE):
               - Adventure Mode: gameplay/phase1/adventure-mode/index.md
               - Training: gameplay/phase1/adventure-mode/training-roosters.md
-          - Rooster Battle: gameplay/phase1/rooster-battle.md
+          - Team Battle: gameplay/phase1/team-battle.md
       - Phase 2:
           - Breeding: gameplay/phase2/breeding.md
           - Hens: gameplay/phase2/hens.md
@@ -62,7 +62,7 @@ nav:
           - Arena: gameplay/game-rewards/reward-arena.md
           - Adventure: gameplay/game-rewards/reward-adventure.md
           - Season: gameplay/game-rewards/reward-season.md
-          - Rooster Battle: gameplay/game-rewards/reward-battle.md
+          - Team Battle: gameplay/game-rewards/reward-battle.md
   - $GWIT Tokenomics:
       - $GWIT Tokenomics: tokenomics/index.md
   - DeFi Ecosystem:

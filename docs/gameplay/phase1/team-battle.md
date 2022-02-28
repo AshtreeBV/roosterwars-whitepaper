@@ -1,4 +1,4 @@
-# **Rooster Battle**
+# **Team Battle**
 
 <center>
 
@@ -28,7 +28,7 @@ If a scholar wins the battle, all rewards will go back to the Scholar.
 
 ## **3v3 Battle**
 
-This will be the current mode available for Rooster Battle upon game release. The team will have to test some variables like: How many fights can be filled a day? How many addresses have more than 3 Roosters? How many players are actively playing the game? and more.
+This will be the current mode available for Team Battle upon game release. The team will have to test some variables like: How many fights can be filled a day? How many addresses have more than 3 Roosters? How many players are actively playing the game? and more.
 
 **Specifics**
 
