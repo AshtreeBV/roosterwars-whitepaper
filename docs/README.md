@@ -5,14 +5,12 @@
 
 ## **OVERVIEW**
 
-Rooster Wars is a PvP online multiplayer game where players can collect, and PLAY TO EARN, by fighting with their roosters in the arena and finishing levels in adventure mode. More features will also become available like breeding, expeditions, and land expansion.
+Rooster Wars is a PvP online multiplayer game that allows players to collect NFTs and play to earn (P2E) by fielding roosters to fight in the arena, finishing levels in adventure mode, breeding fighting cocks, joining expeditions, and engaging in land expansion. The development of its features unfolds in stages:
 
-Development is divided into the following phases:
-
-1. Combat Phase and initial Play to Earn Features
-2. Breeding and Farm Management
-3. Land and Buildable Structures
+1. **[Combat Phase & Initial P2E Components](gameplay/phase1/gameplay.md)** — Players engage in arena battles and explore the adventure mode for leveling.
+2. **[Breeding & Farm Management](gameplay/phase2/breeding.md)** — Using in-game resources such as rewards and bonuses to farm and breed roosters.
+3. **[Land & Buildable Structures](gameplay/phase3/land-and-buildables.md)** — Lets users expand their farms and lands to build arenas and other in-game structures.
 
 ## **LORE**
 
-Since the dawn of time we Mannochs have been living together peacefully in one giant island here in the Planet Galleos. Until one day, a large and mysterious meteor plunged into the center of our land and separated it into smaller landmasses. Because of that, we were all divided into separate tribes. Little did we know that the meteor held the key to our future.
+Since the dawn of time, the Mannochs lived peacefully on one giant island of planet Galleos. Until one day, a gigantic meteor mysteriously hit the planet, plunging into the heart of the island and shattering it into fragments of smaller landmasses. From then on, the planet’s inhabitants were divided into separate tribes. But little did they know that the meteor was holding the key to their future.
