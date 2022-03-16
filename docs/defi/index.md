@@ -30,7 +30,9 @@ Meanwhile, $Gallonium is an in-game token that is only convertible to $GWIT in a
 
 ## **$GWIT DEX Liquidity Pool**
 
+<!--
 We launch a DEX pool for $GWIT token and provide initial liquidity of 30,000,000 $GWIT along with 600,000 USDc taken as a portion from funds raised over the token sale.
+-->
 
 DEX pool works as follows: whenever someone adds a new USDc token to the pool, that person has to add a certain amount of $GWIT token. The equation for working out the price of each token is
 
