@@ -64,6 +64,8 @@ Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
 
 _“We aim to achieve a somewhat fair launch while trying to raise initial funding. Hence we narrowed down the price differences in each round.”_
 
+<!--
+
 |                              | **Private Sale** | **Presale 1** | **Presale 2** | **All Rounds**  |
 | ---------------------------- | :--------------: | :-----------: | :-----------: | :-------------: |
 | **Target**                   |     $780,000     |  $1,530,000   |   $200,000    | **$2,510,000**  |
@@ -75,6 +77,7 @@ _“We aim to achieve a somewhat fair launch while trying to raise initial fundi
 | **TGE Market Cap**           |                  |               |               |  **$560,000**   |
 | **Fully Diluted Market Cap** |                  |               |               | **$20,000,000** |
 
+-->
 </center>
 
 ### **Private Sale**
@@ -95,8 +98,8 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 
 **How to Participate?**
 
-- Minimum Investment: $20
-- Maximum Investment: $150,000
+- Minimum Investment: TBA
+- Maximum Investment: TBA
 
 ### **Presale 2** (No Vesting Period)
 
@@ -105,12 +108,12 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 **How to Participate?**
 
 - Minimum Investment: None
-- Maximum Investment: $4,000 (2% of this sale round)
+- Maximum Investment: TBA <!--  $4,000 (2% of this sale round) -->
 - Whitelisted Addresses
 
 ### **Initial DEX Offering (IDO)**
 
-Starting price at $0.02 per $GWIT
+Starting price: TBA
 
 <center>
 
