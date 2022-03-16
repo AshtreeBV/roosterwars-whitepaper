@@ -16,7 +16,7 @@ The amount of rewards given out depends on the number of active Roosters playing
 
 </center>
 
-For simplicity, the values calculated for the Season Rewards are based on the max number of Roosters in the game, 150,000 Roosters, before Breeding starts, and a $GWIT value of $0.02.
+For simplicity, the values calculated for the Season Rewards are based on the max number of Roosters in the game, 150,000 Roosters, before Breeding starts.
 
 <center><small>The actual $GWIT price will be dictated by market movements, **Higher price = Higher Rewards**</small></center>
 
@@ -36,17 +36,17 @@ Solution to avoid Unfair Distribution
 
 <small>_To avoid such a situation, we will follow the CP system along with a **100-player batch for each range**. If a certain range has less than 100 players, rewards will still be based on the 4th column below. However, if more than 100 players are in a certain batch, we will reallocate rewards from other batches with less than 100 players._</small>
 
-|   **CP**   | **% Share** | **$GWIT Rewards to All** | **$GWIT per Player** | **USD per Person** |
-| :--------: | :---------: | :----------------------: | :------------------: | :----------------: |
-|  0 - 150   |     7%      |         945,000          |        9,450         |       $ 189        |
-| 151 - 300  |     8%      |        1,080,000         |        10,800        |       $ 216        |
-| 301 - 450  |     9%      |        1,215,000         |        12,150        |       $ 243        |
-| 451 - 600  |     10%     |        1,350,000         |        13,500        |       $ 270        |
-| 601 - 750  |     11%     |        1,485,000         |        14,850        |       $ 297        |
-| 751 - 850  |     12%     |        1,620,000         |        16,200        |       $ 324        |
-| 851 - 950  |     13%     |        1,755,000         |        17,550        |       $ 351        |
-| 951 - 1000 |     14%     |        1,890,000         |        18,900        |       $ 378        |
-| Above 1000 |     16%     |        2,160,000         |        21,600        |       $ 432        |
+|   **CP**   | **% Share** | **$GWIT Rewards to All** | **$GWIT per Player** |
+| :--------: | :---------: | :----------------------: | :------------------: |
+|  0 - 150   |     7%      |         945,000          |        9,450         |
+| 151 - 300  |     8%      |        1,080,000         |        10,800        |
+| 301 - 450  |     9%      |        1,215,000         |        12,150        |
+| 451 - 600  |     10%     |        1,350,000         |        13,500        |
+| 601 - 750  |     11%     |        1,485,000         |        14,850        |
+| 751 - 850  |     12%     |        1,620,000         |        16,200        |
+| 851 - 950  |     13%     |        1,755,000         |        17,550        |
+| 951 - 1000 |     14%     |        1,890,000         |        18,900        |
+| Above 1000 |     16%     |        2,160,000         |        21,600        |
 
 <small>_Disclaimer: This allocation may change on the number of players within the game, specifically if it exceeds the number of players to be given rewards to_</small>
 
@@ -54,21 +54,21 @@ Solution to avoid Unfair Distribution
 
 ## **Top 10 Players Rewards**
 
-Here are the rewards for the Top 10 players for the current season if there are 150,000 active Roosters in-game and a $GWIT value of $0.02.
+Here are the rewards for the Top 10 players for the current season if there are 150,000 active Roosters in-game.
 
 <center>
 
-| **Top** | **% Share** | **$GWIT Rewards** | **USD** |
-| :-----: | :---------: | :---------------: | :-----: |
-|    1    |     17%     |      255,000      | $ 5,100 |
-|    2    |     15%     |      225,000      | $ 4,500 |
-|    3    |     13%     |      195,000      | $ 3,900 |
-|    4    |     11%     |      165,000      | $ 3,300 |
-|    5    |     10%     |      150,000      | $ 3,000 |
-|    6    |     8%      |      120,000      | $ 2,400 |
-|    7    |     8%      |      120,000      | $ 2,400 |
-|    8    |     8%      |      120,000      | $ 2,400 |
-|    9    |     5%      |      75,000       | $ 1,500 |
-|   10    |     5%      |      75,000       | $ 1,500 |
+| **Top** | **% Share** | **$GWIT Rewards** |
+| :-----: | :---------: | :---------------: |
+|    1    |     17%     |      255,000      |
+|    2    |     15%     |      225,000      |
+|    3    |     13%     |      195,000      |
+|    4    |     11%     |      165,000      |
+|    5    |     10%     |      150,000      |
+|    6    |     8%      |      120,000      |
+|    7    |     8%      |      120,000      |
+|    8    |     8%      |      120,000      |
+|    9    |     5%      |      75,000       |
+|   10    |     5%      |      75,000       |
 
 </center>
