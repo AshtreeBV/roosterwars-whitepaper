@@ -14,13 +14,13 @@ Below are the stages that give out rewads upon completion.
 
 | **Stage** | **Reward per Rooster**  |
 | :-------: | :---------------------: |
-|     5     |        10 $GWIT         |
-|    10     |        20 $GWIT         |
-|    15     |        50 $GWIT         |
+|     5     |         5 $GWIT         |
+|    10     |        10 $GWIT         |
+|    15     |        25 $GWIT         |
 |    20     |      1 Random Gem       |
-|    25     |        100 $GWIT        |
-|    30     |        120 $GWIT        |
-|    35     | 1 Random Gem + 50 $GWIT |
+|    25     |        50 $GWIT         |
+|    30     |        60 $GWIT         |
+|    35     | 1 Random Gem + 25 $GWIT |
 |    40     |      1 Random GAFF      |
 
 </center>
