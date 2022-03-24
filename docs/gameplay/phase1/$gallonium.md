@@ -4,7 +4,7 @@ $Gallonium is an in-game only token that can be swapped for $GWIT Token (not vic
 
 ## **$Gallonium System**
 
-- The Ratio of $Gallonium to $GWIT is **1 : 8**
+- The Ratio of $Gallonium to $GWIT is **1 : 4**
 - NFT Roosters Generate 5 $Gallonium/Day
 - $Gallonium is per rooster basis and non-transferable to other Roosters
 - $Gallonium is consumed in PVP and Training Roosters
