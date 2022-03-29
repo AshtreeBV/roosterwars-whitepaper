@@ -8,6 +8,7 @@ _For full details regarding the gameplay, head on over to [Adventure](../phase1/
 
 </center>
 
+<!--
 Below are the stages that give out rewads upon completion.
 
 <center>
@@ -24,3 +25,5 @@ Below are the stages that give out rewads upon completion.
 |    40     |      1 Random GAFF      |
 
 </center>
+
+-->

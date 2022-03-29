@@ -1,5 +1,15 @@
 # **Tokenomics**
 
+**Important Notice**: _To the Rooster Wars' Community, the Tokenomics is currently under going consultations for a better and more sustainable ecosystem. Details will be posted soon._
+
+_The following sections are also undergoing changes caused by changes in the tokenomics:_
+
+- [Game Mode Rewards](../gameplay/game-rewards/index.md)
+- [DeFi Ecosystem](../defi/index.md)
+
+_Thank you for your support!_
+
+<!-- TOKENOMICS REVAMP: March 30,2022
 This section contains key details regarding $GWIT Tokenomics
 
 - **Utility**
@@ -64,20 +74,6 @@ Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
 
 _“We aim to achieve a somewhat fair launch while trying to raise initial funding. Hence we narrowed down the price differences in each round.”_
 
-<!--
-
-|                              | **Private Sale** | **Presale 1** | **Presale 2** | **All Rounds**  |
-| ---------------------------- | :--------------: | :-----------: | :-----------: | :-------------: |
-| **Target**                   |     $780,000     |  $1,530,000   |   $200,000    | **$2,510,000**  |
-| **Tokens for Sale**          |    60,000,000    |  90,000,000   |  10,000,000   | **160,000,000** |
-| **Price**                    |      $0.013      |    $0.017     |    $0.020     |                 |
-| **Price Premium**            |                  |     30.8%     |     17.6%     |                 |
-|                              |                  |               |               |                 |
-| **Tokens at TGE**            |    9,000,000     |   9,000,000   |  10,000,000   | **28,000,000**  |
-| **TGE Market Cap**           |                  |               |               |  **$560,000**   |
-| **Fully Diluted Market Cap** |                  |               |               | **$20,000,000** |
-
--->
 </center>
 
 ### **Private Sale**
@@ -108,7 +104,7 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 **How to Participate?**
 
 - Minimum Investment: None
-- Maximum Investment: TBA <!--  $4,000 (2% of this sale round) -->
+- Maximum Investment: TBA
 - Whitelisted Addresses
 
 ### **Initial DEX Offering (IDO)**
@@ -138,3 +134,5 @@ Below is a table overview of the different vesting schedules based on $GWIT allo
 \*5% of Marketing tokens will be released at the end of week 1 and week 2 after TGE, with 2.5% allocation for each week. Then the rest would be monthly vested for 50 months, excluding the 1st month.
 
 \*\*Farming Token release starts from 180,000 Tokens on Day 1 then applies 0.005% deflator each day forward.
+
+-->

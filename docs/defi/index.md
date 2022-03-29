@@ -1,6 +1,18 @@
 # **DeFi Ecosystem**
 
+**Important Notice**: _To the Rooster Wars' Community, the Tokenomics is currently under going consultations for a better and more sustainable ecosystem. Details will be posted soon._
+
+_The following sections are also undergoing changes caused by changes in the tokenomics:_
+
+- [Game Mode Rewards](../gameplay/game-rewards/index.md)
+- [Tokenomics](../tokenomics/index.md)
+
+_Thank you for your support!_
+
+<!--
+
 To achieve a stable game that will keep running in the long run, the team devised an ecosystem that will foster stable growth and development of the Rooster Wars project.
+
 
 ## **NFT Marketplace**
 
@@ -30,9 +42,8 @@ Meanwhile, $Gallonium is an in-game token that is only convertible to $GWIT in a
 
 ## **$GWIT DEX Liquidity Pool**
 
-<!--
 We launch a DEX pool for $GWIT token and provide initial liquidity of 30,000,000 $GWIT along with 600,000 USDc taken as a portion from funds raised over the token sale.
--->
+
 
 DEX pool works as follows: whenever someone adds a new USDc token to the pool, that person has to add a certain amount of $GWIT token. The equation for working out the price of each token is
 
@@ -48,3 +59,5 @@ The size of the liquidity pool also determines how much the price of tokens will
 
 - Secondary sale of pure breeds, gems, GAFFs, hens, and potions made in $GWIT tokens
 - Marketplace Fee which is 4.75% out of transaction value
+
+-->

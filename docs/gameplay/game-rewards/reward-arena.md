@@ -8,6 +8,8 @@ _For full details regarding the gameplay, head on over to [Arena (PVP)](../phase
 
 </center>
 
+<!--
+
 The $Gallonium to $GWIT ratio is 1 to 4. Below are possible scenarios for PVP rewards.
 
 Let’s say that you own 1 Rooster, from the Egg-Sale, that produces 5 $Gallonium/Day and you only play in the Arena (PVP) 5 times per day, even if you get more by winning.
@@ -31,3 +33,5 @@ Let’s say that you own 1 Rooster, from the Egg-Sale, that produces 5 $Galloniu
 - **40% Win Rate**
 
   You will have 4 $Gallonium/Day (5 from daily, 2 from PvP Winnings, -3 From PvP Losses) - That's 16 $GWIT. Let's say that $GWIT reaches $1 each then that's $16 a day.
+
+-->

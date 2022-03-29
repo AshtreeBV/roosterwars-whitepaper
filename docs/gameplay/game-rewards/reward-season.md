@@ -1,14 +1,16 @@
 # **Season Rewards**
 
-Season rewards are given out every 2 months and are given out into two classes: Challenger Tier rewards and Top 10 player rewards. Rewards will be given on a per-player/account basis.
+Season rewards are given out into two classes: Challenger Tier rewards and Top 10 player rewards. Rewards will be given on a per-player/account basis.
 
-**Potential Update**: _The gaming team will be implementing 2 changes: 1) Flexible season length that is based on the number of active players; 2) and an on and off-season so that players can practice new builds during the off season where there's less at stake._
+**In the works**: _The gaming team will be implementing 2 changes: 1) Flexible season length that is based on the number of active players; 2) and an on and off-season so that players can practice new builds during the off season where there's less at stake._
 
 <center>
 
 _For full details regarding the gameplay, head on over to [Arena (PVP)](../phase1/arena/index.md#chicken-points---challenger-tier) game mode._
 
 </center>
+
+<!--
 
 The amount of rewards given out depends on the number of active Roosters playing the game which is 50 $GWIT per active Rooster in-game.
 
@@ -74,3 +76,5 @@ Here are the rewards for the Top 10 players for the current season if there are 
 |   10    |     5%      |      37,500       |
 
 </center>
+
+-->
