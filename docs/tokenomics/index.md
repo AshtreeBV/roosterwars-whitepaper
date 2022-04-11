@@ -9,13 +9,14 @@ _The following sections are also undergoing changes caused by changes in the tok
 
 _Thank you for your support!_
 
-<!-- TOKENOMICS REVAMP: March 30,2022
-This section contains key details regarding $GWIT Tokenomics
+## **Current Available Information**
+
+This section contains Current Available Information regarding $GWIT Tokenomics
 
 - **Utility**
 - **Allocation**
-- **$GWIT Sale Rounds**
 - **Vesting Schedules**
+- **$GWIT Sale Rounds** (TBA)
 
 <center>
 
@@ -39,6 +40,8 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
     3. Trading $GWIT to other cryptocurrency
     4. Getting Season Rewards
 
+**Additional utilities will be added with the continuous development of Rooster Wars and integration with other protocols.**
+
 <center>
 
 ## **Allocation**
@@ -49,18 +52,19 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 
 <center>
 
-| **ALLOCATIONS**           | **$GWIT Tokens**  | **% Share** |
-| ------------------------- | :---------------: | :---------: |
-| **Private Sale**          |    60,000,000     |     6%      |
-| **Presale 1**             |    90,000,000     |     9%      |
-| **Presale 2**             |    10,000,000     |     1%      |
-| **Marketing**             |    100,000,000    |     10%     |
-| **Development**           |    130,000,000    |     13%     |
-| **Advisors**              |    20,000,000     |     2%      |
-| **Farming**               |    100,000,000    |     10%     |
-| **Game Rewards**          |    460,000,000    |     46%     |
-| **Initial DEX Liquidity** |    30,000,000     |     3%      |
-| **TOTAL**                 | **1,000,000,000** | **100.00%** |
+| **Allocations**   |    **Tokens**     |  **Share**  |
+| ----------------- | :---------------: | :---------: |
+| **Seed Round**    |    100,000,000    |   10.00%    |
+| **Strategic**     |    40,000,000     |    4.00%    |
+| **Pre-Public**    |    10,000,000     |    1.00%    |
+| **Marketing**     |    50,000,000     |    5.00%    |
+| **Team**          |    130,000,000    |   13.00%    |
+| **Advisors **     |    20,000,000     |    2.00%    |
+| **Farming**       |    150,000,000    |   15.00%    |
+| **Game Rewards**  |    400,000,000    |   40.00%    |
+| **Treasury**      |    70,000,000     |    7.00%    |
+| **Dex Liquidity** |    30,000,000     |    3.00%    |
+| **Total**         | **1,000,000,000** | **100.00%** |
 
 </center>
 
@@ -70,6 +74,7 @@ Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
 
 <a href="../../images/tokenomics.png" target="_blank"><img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics"></a>
 
+<!-- TOKENOMICS REVAMP: April 11,2022
 ## **Token Sale Rounds**
 
 _“We aim to achieve a somewhat fair launch while trying to raise initial funding. Hence we narrowed down the price differences in each round.”_
@@ -112,27 +117,26 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 Starting price: TBA
 
 <center>
+-->
 
 ## **Vesting Schedule**
 
 Below is a table overview of the different vesting schedules based on $GWIT allocation.
 
-|                       | **TGE Release** | **Cliff** | **Vesting** | **Periods** |
-| --------------------- | :-------------: | :-------: | :---------: | :---------: |
-| **Private Sale**      |       15%       |    No     |   Monthly   |  12 Months  |
-| **Presale 1**         |       10%       |    No     |   Monthly   |  6 Months   |
-| **Presale 2**         |      100%       |    No     |     No      |     No      |
-| **Marketing**         |       0%        |    No     |  Monthly\*  |  50 Months  |
-| **Development**       |       0%        | 6 Months  |   Monthly   |  50 Months  |
-| **Advisors**          |       0%        | 6 Months  |   Monthly   |  14 Months  |
-| **Farming**           |       0%        |    No     |  Daily\*\*  |             |
-| **Game Rewards**      |      100%       |    No     |     No      |     No      |
-| **Initial Liquidity** |      100%       |    No     |     No      |     No      |
+|  **Allocations**  |    **Tokens**     |  **Share**  | **TGE Release** | **Cliff (Months)** | **Vesting** | **Period (Months)** |
+| :---------------: | :---------------: | :---------: | :-------------: | :----------------: | :---------: | :-----------------: |
+|  **Seed Round**   |    100,000,000    |    10.0%    |      3.0%       |         6          |   Linear    |         18          |
+|   **Strategic**   |    40,000,000     |    4.0%     |      7.0%       |         12         |   Linear    |         12          |
+|  **Pre-Public**   |    10,000,000     |    1.0%     |     100.0%      |                    |    None     |                     |
+|   **Marketing**   |    50,000,000     |    5.0%     |      5.0%       |         1          |   Linear    |         35          |
+|     **Team**      |    130,000,000    |    13.0%    |      0.0%       |         12         |   Linear    |         24          |
+|   **Advisors **   |    20,000,000     |    2.0%     |      0.0%       |         12         |   Linear    |         24          |
+|    **Farming**    |    150,000,000    |    15.0%    |      0.0%       |                    |   Daily\*   |                     |
+| **Game Rewards**  |    400,000,000    |    40.0%    |      50.0%      |         1          |   Linear    |         20          |
+|   **Treasury**    |    70,000,000     |    7.0%     |      0.0%       |         6          |    None     |                     |
+| **Dex Liquidity** |    30,000,000     |    3.0%     |     100.0%      |                    |    None     |                     |
+|     **Total**     | **1,000,000,000** | **100.00%** |                 |                    |             |                     |
+
+_\*Farming Token release starts from 0.18% of Farming tokens on Day 1 then applies 0.005% deflator each day forward._
 
 </center>
-
-\*5% of Marketing tokens will be released at the end of week 1 and week 2 after TGE, with 2.5% allocation for each week. Then the rest would be monthly vested for 50 months, excluding the 1st month.
-
-\*\*Farming Token release starts from 180,000 Tokens on Day 1 then applies 0.005% deflator each day forward.
-
--->
