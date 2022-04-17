@@ -16,7 +16,7 @@ To achieve a stable game that will keep running in the long run, the team devise
 
 ## **NFT Marketplace**
 
-Rooster Wars will have its own marketplace by Q2 of 2022 (refer to Roadmap). $GWIT will be the medium of exchange where players can buy and sell all their NFTs with a 4.75% fee per transaction. The fees would be allocated to staking pools, further developing the game, filling up the reward pool, and giving back to players in multiple ways: events, airdrops, and more.
+Rooster Wars will have its own store and marketplace by Q2 of 2022 (refer to Roadmap). $GWIT will be the medium of exchange where players can buy and sell all their NFTs with a 4.75% fee per transaction. The fees would be allocated to staking pools, further developing the game, filling up the reward pool, and giving back to players in multiple ways: events, airdrops, and more.
 
 Roosters can only be sold in the Marketplace if they have a full lifespan. This is to protect players from buying Roosters without $Gallonium-producing capabilities.
 
