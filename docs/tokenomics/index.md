@@ -13,6 +13,7 @@ _Thank you for your support!_
 
 This section contains Current Available Information regarding $GWIT Tokenomics
 
+- **Circular Economy**
 - **Utility**
 - **Allocation**
 - **Vesting Schedules**
@@ -22,10 +23,22 @@ This section contains Current Available Information regarding $GWIT Tokenomics
 
 Always **DYOR**!
 
+## **Circular Economy**
+
+<img src="../images/Circular-economy.png" alt="Economy" class="economy-banner">
+</center>
+
+$GWIT token is built on a circular economic model with a limited token supply.
+
+The reward pools (Gaming and Farming) will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pools.
+
+Also a sell tax is part of the GWIt smart contract that takes a percentage (%) of selling volume that goes to reward pools.
+
+<center>
+
 ## **Utility**
 
 </center>
-
 The $GWIT token follows the ERC-20 standard and functions as the main utility token for the Rooster Wars game and ecosystem.
 
 Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
