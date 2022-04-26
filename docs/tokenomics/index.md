@@ -1,4 +1,4 @@
-# **Tokenomics**
+# **$GWIT Tokenomics**
 
 **Important Notice**: _To the Rooster Wars' Community, the Tokenomics is currently under going consultations for a better and more sustainable ecosystem. Details will be posted soon._
 
@@ -32,22 +32,25 @@ $GWIT token is built on a circular economic model with a limited token supply.
 
 The reward pools (Gaming and Farming) will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pools.
 
-Also a sell tax is part of the GWIt smart contract that takes a percentage (%) of selling volume that goes to reward pools.
+Also a sell tax is part of the GWIT smart contract that takes a percentage (%) of selling volume that goes to reward pools.
 
 <center>
 
 ## **Utility**
 
 </center>
-The $GWIT token follows the ERC-20 standard and functions as the main utility token for the Rooster Wars game and ecosystem.
+
+The $GWIT token functions as the main utility token for the Rooster Wars game and ecosystem.
 
 Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 
-1.  Breeding: Payment for breeding fees
-2.  NFT Marketplace: Buy & Sell Roosters, Hens, GAFFs, Gems, and more.
-3.  Farming / Staking: Earn Rewards
-4.  Participate in other Game Modes: Earn Rewards
-5.  PVP Mode by:
+1.  Breeding: Payment for breeding fees _(future)_
+2.  Land Acquisition _(future)_
+3.  NFT Marketplace: Buy & Sell Roosters, Hens, GAFFs, Gems, and more.
+4.  Buying Gilly Juice
+5.  Farming / Staking: Earn Rewards
+6.  Participate in other Game Modes: Earn Rewards
+7.  PVP Mode by:
     1. Winning $Gallonium from PVP
     2. Swapping $Gallonium to $GWIT
     3. Trading $GWIT to other cryptocurrency
@@ -65,19 +68,19 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 
 <center>
 
-| **Allocations**   |    **Tokens**     |  **Share**  |
-| ----------------- | :---------------: | :---------: |
-| **Seed Round**    |    100,000,000    |   10.00%    |
-| **Strategic**     |    40,000,000     |    4.00%    |
-| **Pre-Public**    |    10,000,000     |    1.00%    |
-| **Marketing**     |    50,000,000     |    5.00%    |
-| **Team**          |    130,000,000    |   13.00%    |
-| **Advisors **     |    20,000,000     |    2.00%    |
-| **Farming**       |    150,000,000    |   15.00%    |
-| **Game Rewards**  |    400,000,000    |   40.00%    |
-| **Treasury**      |    70,000,000     |    7.00%    |
-| **Dex Liquidity** |    30,000,000     |    3.00%    |
-| **Total**         | **1,000,000,000** | **100.00%** |
+| **Allocation** |    **Tokens**     |  **Share**  |
+| -------------- | :---------------: | :---------: |
+| Seed Round     |    70,000,000     |    7.00%    |
+| Strategic      |    70,000,000     |    7.00%    |
+| Pre-Public     |    10,000,000     |    1.00%    |
+| Marketing      |    50,000,000     |    5.00%    |
+| Team           |    130,000,000    |   13.00%    |
+| Advisors       |    20,000,000     |    2.00%    |
+| Farming        |    150,000,000    |   15.00%    |
+| Game Rewards   |    400,000,000    |   40.00%    |
+| Treasury       |    70,000,000     |    7.00%    |
+| Dex Liquidity  |    30,000,000     |    3.00%    |
+| **Total**      | **1,000,000,000** | **100.00%** |
 
 </center>
 
@@ -136,19 +139,19 @@ Starting price: TBA
 
 Below is a table overview of the different vesting schedules based on $GWIT allocation.
 
-|  **Allocations**  |    **Tokens**     |  **Share**  | **TGE Release** | **Cliff (Months)** | **Vesting** | **Period (Months)** |
-| :---------------: | :---------------: | :---------: | :-------------: | :----------------: | :---------: | :-----------------: |
-|  **Seed Round**   |    100,000,000    |    10.0%    |      3.0%       |         6          |   Linear    |         18          |
-|   **Strategic**   |    40,000,000     |    4.0%     |      7.0%       |         12         |   Linear    |         12          |
-|  **Pre-Public**   |    10,000,000     |    1.0%     |     100.0%      |                    |    None     |                     |
-|   **Marketing**   |    50,000,000     |    5.0%     |      5.0%       |         1          |   Linear    |         35          |
-|     **Team**      |    130,000,000    |    13.0%    |      0.0%       |         12         |   Linear    |         24          |
-|   **Advisors **   |    20,000,000     |    2.0%     |      0.0%       |         12         |   Linear    |         24          |
-|    **Farming**    |    150,000,000    |    15.0%    |      0.0%       |                    |   Daily\*   |                     |
-| **Game Rewards**  |    400,000,000    |    40.0%    |      50.0%      |         1          |   Linear    |         20          |
-|   **Treasury**    |    70,000,000     |    7.0%     |      0.0%       |         6          |    None     |                     |
-| **Dex Liquidity** |    30,000,000     |    3.0%     |     100.0%      |                    |    None     |                     |
-|     **Total**     | **1,000,000,000** | **100.00%** |                 |                    |             |                     |
+| **Allocations** |    **Tokens**     |  **Share**  | **TGE Release** | **Cliff (Months)** | **Vesting** | **Period (Months)** |
+| :-------------: | :---------------: | :---------: | :-------------: | :----------------: | :---------: | :-----------------: |
+|   Seed Round    |    70,000,000     |    7.0%     |      3.0%       |         12         |   Linear    |         24          |
+|    Strategic    |    70,000,000     |    7.0%     |      5.0%       |         12         |   Linear    |         12          |
+|   Pre-Public    |    10,000,000     |    1.0%     |      20.0%      |                    |   Linear    |          4          |
+|    Marketing    |    50,000,000     |    5.0%     |      5.0%       |         1          |   Linear    |         35          |
+|      Team       |    130,000,000    |    13.0%    |      0.0%       |         12         |   Linear    |         24          |
+|    Advisors     |    20,000,000     |    2.0%     |      0.0%       |         12         |   Linear    |         24          |
+|     Farming     |    150,000,000    |    15.0%    |      0.0%       |                    |   Daily\*   |                     |
+|  Game Rewards   |    400,000,000    |    40.0%    |      35.0%      |         1          |   Linear    |         20          |
+|    Treasury     |    70,000,000     |    7.0%     |      0.0%       |         6          |    None     |                     |
+|  Dex Liquidity  |    30,000,000     |    3.0%     |     100.0%      |                    |    None     |                     |
+|    **Total**    | **1,000,000,000** | **100.00%** |                 |                    |             |                     |
 
 _\*Farming Token release starts from 0.18% of Farming tokens on Day 1 then applies 0.005% deflator each day forward._
 
