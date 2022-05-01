@@ -68,19 +68,21 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 
 <center>
 
-| **Allocation** |    **Tokens**     |  **Share**  |
-| -------------- | :---------------: | :---------: |
-| Seed Round     |    70,000,000     |    7.00%    |
-| Strategic      |    70,000,000     |    7.00%    |
-| Pre-Public     |    10,000,000     |    1.00%    |
-| Marketing      |    50,000,000     |    5.00%    |
-| Team           |    130,000,000    |   13.00%    |
-| Advisors       |    20,000,000     |    2.00%    |
-| Farming        |    150,000,000    |   15.00%    |
-| Game Rewards   |    400,000,000    |   40.00%    |
-| Treasury       |    70,000,000     |    7.00%    |
-| Dex Liquidity  |    30,000,000     |    3.00%    |
-| **Total**      | **1,000,000,000** | **100.00%** |
+|               |     **Tokens**    |  **Share**  |
+|---------------|:-----------------:|:-----------:|
+| Pre-Seed      |     40,000,000    |    4.00%    |
+| Seed Round    |     80,000,000    |    8.00%    |
+| Strategic     |     50,000,000    |    5.00%    |
+| Pre-Public    |     10,000,000    |    1.00%    |
+| Marketing     |     50,000,000    |    5.00%    |
+| Team          |    130,000,000    |    13.00%   |
+| Advisors      |     20,000,000    |    2.00%    |
+| Airdrop       |     20,000,000    |    2.00%    |
+| Farming       |    100,000,000    |    10.00%   |
+| Game Rewards  |    400,000,000    |    40.00%   |
+| Treasury      |     70,000,000    |    7.00%    |
+| Dex Liquidity |     30,000,000    |    3.00%    |
+|   **Total**   | **1,000,000,000** | **100.00%** |
 
 </center>
 
@@ -139,20 +141,24 @@ Starting price: TBA
 
 Below is a table overview of the different vesting schedules based on $GWIT allocation.
 
-| **Allocations** |    **Tokens**     |  **Share**  | **TGE Release** | **Cliff (Months)** | **Vesting** | **Period (Months)** |
-| :-------------: | :---------------: | :---------: | :-------------: | :----------------: | :---------: | :-----------------: |
-|   Seed Round    |    70,000,000     |    7.0%     |      3.0%       |         12         |   Linear    |         24          |
-|    Strategic    |    70,000,000     |    7.0%     |      5.0%       |         12         |   Linear    |         12          |
-|   Pre-Public    |    10,000,000     |    1.0%     |      20.0%      |                    |   Linear    |          4          |
-|    Marketing    |    50,000,000     |    5.0%     |      5.0%       |         1          |   Linear    |         35          |
-|      Team       |    130,000,000    |    13.0%    |      0.0%       |         12         |   Linear    |         24          |
-|    Advisors     |    20,000,000     |    2.0%     |      0.0%       |         12         |   Linear    |         24          |
-|     Farming     |    150,000,000    |    15.0%    |      0.0%       |                    |   Daily\*   |                     |
-|  Game Rewards   |    400,000,000    |    40.0%    |      35.0%      |         1          |   Linear    |         20          |
-|    Treasury     |    70,000,000     |    7.0%     |      0.0%       |         6          |    None     |                     |
-|  Dex Liquidity  |    30,000,000     |    3.0%     |     100.0%      |                    |    None     |                     |
+| **Allocations** |     **Tokens**    |  **Share**  | **TGE Release** | **Cliff (Months)** | **Vesting** | **Period (Months)** |
+|:---------------:|:-----------------:|:-----------:|:---------------:|:------------------:|:-----------:|:-------------------:|
+| Pre-Seed        |     40,000,000    |     4.0%    |       3.0%      |         12         |    Linear   |          24         |
+| Seed Round      |     80,000,000    |     8.0%    |       3.0%      |         12         |    Linear   |          24         |
+| Strategic       |     50,000,000    |     5.0%    |       5.0%      |         12         |    Linear   |          18         |
+| Pre-Public      |     10,000,000    |     1.0%    |      20.0%      |                    |    Linear   |          2          |
+| Marketing       |     50,000,000    |     5.0%    |       5.0%      |          1         |    Linear   |          35         |
+| Team            |    130,000,000    |    13.0%    |       0.0%      |         12         |    Linear   |          24         |
+| Advisors        |     20,000,000    |     2.0%    |       0.0%      |         12         |    Linear   |          24         |
+| Airdrop         |     20,000,000    |     2.0%    |       0.0%      |          1         |    Linear   |          4          |
+| Farming         |    100,000,000    |    10.0%    |       0.0%      |                    |    Daily*   |                     |
+| Game Rewards    |    400,000,000    |    40.0%    |      35.0%      |          1         |    Linear   |          20         |
+| Treasury        |     70,000,000    |     7.0%    |       0.0%      |          6         |     None    |                     |
+| Dex Liquidity   |     30,000,000    |     3.0%    |      100.0%     |                    |     None    |                     |
 |    **Total**    | **1,000,000,000** | **100.00%** |                 |                    |             |                     |
 
 _\*Farming Token release starts from 0.18% of Farming tokens on Day 1 then applies 0.005% deflator each day forward._
+
+_Airdrop tokens may be used for future airdrop activities_
 
 </center>
