@@ -15,8 +15,8 @@ This section contains Current Available Information regarding $GWIT Tokenomics
 
 - **Circular Economy**
 - **Utility**
-- **Allocation**
-- **Vesting Schedules**
+- **Allocation** (TBA)
+- **Vesting Schedules** (TBA)
 - **$GWIT Sale Rounds** (TBA)
 
 <center>
@@ -58,6 +58,7 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 
 **Additional utilities will be added with the continuous development of Rooster Wars and integration with other protocols.**
 
+<!-- TOKENOMICS REVAMP: May 3,2022
 <center>
 
 ## **Allocation**
@@ -92,7 +93,6 @@ Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
 
 <a href="../../images/tokenomics.png" target="_blank"><img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics"></a>
 
-<!-- TOKENOMICS REVAMP: April 11,2022
 ## **Token Sale Rounds**
 
 _“We aim to achieve a somewhat fair launch while trying to raise initial funding. Hence we narrowed down the price differences in each round.”_
@@ -135,7 +135,6 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 Starting price: TBA
 
 <center>
--->
 
 ## **Vesting Schedule**
 
@@ -162,3 +161,5 @@ _\*Farming Token release starts from 0.18% of Farming tokens on Day 1 then appli
 _Airdrop tokens may be used for future airdrop activities_
 
 </center>
+
+-->
