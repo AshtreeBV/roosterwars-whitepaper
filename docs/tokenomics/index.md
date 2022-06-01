@@ -49,16 +49,16 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 3.  NFT Marketplace: Buy & Sell Roosters, Hens, GAFFs, Gems, and more.
 4.  Buying Gilly Juice
 5.  Farming / Staking: Earn Rewards
-6.  Participate in other Game Modes: Earn Rewards
-7.  PVP Mode by:
-    1. Winning $Gallonium from PVP
-    2. Swapping $Gallonium to $GWIT
-    3. Trading $GWIT to other cryptocurrency
-    4. Getting Season Rewards
+6.  Participate in other Game Mode Rewards:
+    1. PVP (Charged Gallonium to $GWIT)
+    2. PVP (Season Rewards)
+    3. Adventure Rewards
+    4. Team Battle Rewards
+
+<a href="../../images/GWIT_earn_spend.png" target="_blank"><img src="../../images/GWIT_earn_spend.png" alt="GWIT earning and spending" class="diagram"></a>
 
 **Additional utilities will be added with the continuous development of Rooster Wars and integration with other protocols.**
 
-<!-- TOKENOMICS REVAMP: May 3,2022
 <center>
 
 ## **Allocation**
@@ -69,30 +69,35 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 
 <center>
 
-|               |     **Tokens**    |  **Share**  |
-|---------------|:-----------------:|:-----------:|
-| Pre-Seed      |     40,000,000    |    4.00%    |
-| Seed Round    |     80,000,000    |    8.00%    |
-| Strategic     |     50,000,000    |    5.00%    |
-| Pre-Public    |     10,000,000    |    1.00%    |
-| Marketing     |     50,000,000    |    5.00%    |
-| Team          |    130,000,000    |    13.00%   |
-| Advisors      |     20,000,000    |    2.00%    |
-| Airdrop       |     20,000,000    |    2.00%    |
-| Farming       |    100,000,000    |    10.00%   |
-| Game Rewards  |    400,000,000    |    40.00%   |
-| Treasury      |     70,000,000    |    7.00%    |
-| Dex Liquidity |     30,000,000    |    3.00%    |
-|   **Total**   | **1,000,000,000** | **100.00%** |
+|                    |     **Tokens**    |  **Share**  |
+|--------------------|:-----------------:|:-----------:|
+| Seed Round         |    100,000,000    |    10.00%   |
+| Strategic          |     80,000,000    |    8.00%    |
+| Pre-Public         |     20,000,000    |    2.00%    |
+| Team               |    100,000,000    |    10.00%   |
+| Advisors           |     20,000,000    |    2.00%    |
+| Ecosystem Partners |     70,000,000    |    7.00%    |
+| Airdrop            |     10,000,000    |    1.00%    |
+| Farming            |    100,000,000    |    10.00%   |
+| Game Rewards       |    400,000,000    |    40.00%   |
+| Community Treasury |     70,000,000    |    7.00%    |
+| Dex Liquidity      |     30,000,000    |    3.00%    |
+|      **Total**     | **1,000,000,000** | **100.00%** |
 
+Below is a chart of the Macro-Allocation of $GWIT token.
+
+<img src="../../images/allocations.svg" alt="tokenomics-chart" class="tokenomics">
 </center>
 
-Below is a chart of the Tokenomics or Token Allocation of $GWIT token.
+**Fund Raising**
 
-<center>
+This is composed of the **Seed**, **Strategic** and **Pre-Public** (Community) rounds wherein funds raised were used, being used, and will be used to cover liquidity expenses, current operation expenses, marketing and promotions, while continuously developing the project, and growing the team behind Rooster Wars.
 
-<a href="../../images/tokenomics.png" target="_blank"><img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics"></a>
+**Team**
 
+
+
+<!-- TOKENOMICS REVAMP: May 3,2022
 ## **Token Sale Rounds**
 
 _“We aim to achieve a somewhat fair launch while trying to raise initial funding. Hence we narrowed down the price differences in each round.”_
