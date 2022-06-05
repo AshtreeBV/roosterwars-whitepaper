@@ -74,14 +74,13 @@ $GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in t
 | Seed Round         |    100,000,000    |    10.00%   |
 | Strategic          |     80,000,000    |    8.00%    |
 | Pre-Public         |     20,000,000    |    2.00%    |
-| Team               |    100,000,000    |    10.00%   |
+| Founders           |    100,000,000    |    10.00%   |
 | Advisors           |     20,000,000    |    2.00%    |
 | Ecosystem Partners |     70,000,000    |    7.00%    |
 | Airdrop            |     10,000,000    |    1.00%    |
-| Farming            |    100,000,000    |    10.00%   |
-| Game Rewards       |    400,000,000    |    40.00%   |
+| Community Rewards  |    500,000,000    |    50.00%   |
 | Community Treasury |     70,000,000    |    7.00%    |
-| Dex Liquidity      |     30,000,000    |    3.00%    |
+| Initital Liquidity |     30,000,000    |    3.00%    |
 |      **Total**     | **1,000,000,000** | **100.00%** |
 
 Below is a chart of the Macro-Allocation of $GWIT token.
@@ -95,7 +94,23 @@ This is composed of the **Seed**, **Strategic** and **Pre-Public** (Community) r
 
 **Team**
 
+This represents the **Founders** and **Advisors** share in the Rooster Wars project and acts as an incentive to the team to make the project sustainable and better throughout time.
 
+**Ecosystem Partners**
+
+This represents other NFT and DeFi projects that Rooster Wars has partnered with for added utility and NFT interoperability
+
+**Community Rewards**
+
+This encompasses $GWIT distributed as **Game** and **DeFi** (Staking) **rewards** to the Rooster Wars community
+
+**Community Treasury**
+
+The purpose of the treasury is to allocate **revenue shares** for certain NFT holders of Rooster Wars and to support for the project's **Operating Expenses**
+
+**Initial Liquidity**
+
+Is the liquidity provided by Rooster Wars to list $GWIT token in an exchange
 
 <!-- TOKENOMICS REVAMP: May 3,2022
 ## **Token Sale Rounds**
