@@ -1,5 +1,17 @@
 # **Roadmap**
 
+To the community:
+
+Rooster Wars' roadmap is currently being updated. Thank you for your patience!
+Rest assured that the changes to be implemented are for the betterment of the project, and factoring current market sentiments.
+
+<center>
+
+**We are continuously Building!**
+
+</center>
+
+<!--
 ### 2021
 
 #### Q2
@@ -26,13 +38,11 @@
 #### Q1
 
 - [ ] Strengthen Social Media Channels
-- [ ] Egg-Sale
-- [ ] $GWIT Sale Rounds
+- [ ] NFT Egg-Sale
 - [ ] Launch Rooster Wars Game (Alpha)
 
-#### Q2
+#### Q3
 
-- [ ] Activate Play-to-Earn
 - [ ] Launch Scholarship-Manager Smart Contract platform
 - [ ] Launch Marketplace
 
@@ -45,3 +55,5 @@
 
 - [ ] Land Sale & World map
 - [ ] Expedition mode
+
+-->
