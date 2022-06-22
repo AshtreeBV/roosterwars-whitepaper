@@ -1,5 +1,5 @@
 # **Roadmap**
-
+<!--
 To the community:
 
 Rooster Wars' roadmap is currently being updated. Thank you for your patience!
@@ -10,8 +10,9 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 **We are continuously Building!**
 
 </center>
+-->
 
-<!--
+
 ### 2021
 
 #### Q2
@@ -31,29 +32,53 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 - [x] Launch Website
 - [x] Whitepaper release
 - [x] Gameplay Demo release
-- [x] Private Egg-Sale
 
 ### 2022
 
 #### Q1
 
-- [ ] Strengthen Social Media Channels
-- [ ] NFT Egg-Sale
-- [ ] Launch Rooster Wars Game (Alpha)
+- [x] Community Building
+- [x] Private NFT Egg-Sale
+- [x] Game Demo Access to NFT Holders
+
+#### Q2
+
+- [x] Marketing Push
+- [x] Public NFT Egg-Sale
+- [x] Launch Rooster Wars Game (Alpha)
 
 #### Q3
 
-- [ ] Launch Scholarship-Manager Smart Contract platform
-- [ ] Launch Marketplace
-
-#### Q3
-
-- [ ] Breeding & Hen Sale
-- [ ] Farm Management
+- [ ] Partner Integrations
+- [ ] Mobile App release
+- [ ] Initial Scholarship Feature release
+- [ ] Play-and-Earn release
+- [ ] First Rooster Wars Tournament
 
 #### Q4
 
-- [ ] Land Sale & World map
-- [ ] Expedition mode
+- [ ] $GWIT Token TGE
+- [ ] NFT Hen Sale
+- [ ] Breeding
 
--->
+### 2023
+
+#### Q1
+
+- [ ] Planet Galleos World Adventure
+- [ ] Farm Management
+
+#### Q2
+
+- [ ] Custom Arena
+- [ ] Blacksmith (Item Crafting)
+
+#### Q3
+
+- [ ] Interactive AI Powered Manga
+- [ ] Arena Management
+
+#### Q4
+
+- [ ] Customaziable Game Modes
+- [ ] DAO Integration
