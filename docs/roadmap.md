@@ -12,73 +12,56 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 </center>
 -->
 
-
-### 2021
-
-#### Q2
-
-- [x] Idea Generation and Initial Planning
-- [x] High-level concepts
-
-#### Q3
-
-- [x] Game Design
-- [x] Initial Play-to-earn Architecture
-- [x] NFT Concepts
-- [x] Start of Game Development
-
-#### Q4
-
-- [x] Launch Website
-- [x] Whitepaper release
-- [x] Gameplay Demo release
-
 ### 2022
 
 #### Q1
 
+- [x] Private Community NFT Sale
 - [x] Community Building
-- [x] Private NFT Egg-Sale
-- [x] Game Demo Access to NFT Holders
 
 #### Q2
 
-- [x] Marketing Push
-- [x] Public NFT Egg-Sale
-- [x] Launch Rooster Wars Game (Alpha)
+- [x] Public NFT minting
+- [x] Release of Alpha Web Version
 
 #### Q3
 
-- [ ] Partner Integrations
-- [ ] Mobile App release
+- [x] Release of Mobile App on Android
+- [ ] Stablecoin W2E (Win-to-Earn)
+- [ ] Rooster Wars' Store
 - [ ] Initial Scholarship Feature release
-- [ ] Play-and-Earn release
-- [ ] First Rooster Wars Tournament
+- [ ] Hen Presale
+- [ ] First Seasonal Tournament
+- [ ] Adventure Mode
 
 #### Q4
 
 - [ ] $GWIT Token TGE
-- [ ] NFT Hen Sale
-- [ ] Breeding
+- [ ] Rooster Wars' Marketplace
+- [ ] Hen Release
+- [ ] Emoji/Skins Market
+- [ ] Racing Game
 
 ### 2023
 
 #### Q1
 
-- [ ] Planet Galleos World Adventure
-- [ ] Farm Management
+- [ ] Breeding
+- [ ] GAFF & Gem Crafting
 
 #### Q2
 
+- [ ] Expedition Mode
+- [ ] Farming Game
 - [ ] Custom Arena
-- [ ] Blacksmith (Item Crafting)
 
 #### Q3
 
-- [ ] Interactive AI Powered Manga
-- [ ] Arena Management
+- [ ] OpenAI Powered Story Mode
+- [ ] Meteor City Metaverse
+- [ ] Mannoch Voice Chat
 
 #### Q4
 
-- [ ] Customaziable Game Modes
-- [ ] DAO Integration
+- [ ] Customaziable Accessories
+- [ ] Multiple Minigames
