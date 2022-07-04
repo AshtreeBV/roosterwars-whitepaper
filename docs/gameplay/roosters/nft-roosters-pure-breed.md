@@ -90,14 +90,14 @@ _Hatches are the oldest breed in Planet Galleos. Their ancestors witnessed the e
 
 ### **Base Stats**
 
-- Greybacks R VIT: **325**
-- Tournament VIT: **162**
-- Greybacks R WATK: **20**
-- Greybacks R BATK: **20**
-- Greybacks R CATK: **26**
+- Greybacks R VIT: **240**
+- Tournament VIT: **120**
+- Greybacks R WATK: **47**
+- Greybacks R BATK: **29**
+- Greybacks R CATK: **25**
 - Greybacks R SPD: **20**
-- Greybacks R AGRO: **45 (3%)**
-- Focus Meter: **BATK-BATK-CATK**
+- Greybacks R AGRO: **23 (1.5%)**
+- Focus Meter: **BATK-CATK-WATK**
 
 </br>
 
