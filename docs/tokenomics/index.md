@@ -15,7 +15,7 @@ This section contains Current Available Information regarding $GWIT Tokenomics
 
 - **Circular Economy**
 - **Utility**
-- **Allocation** (TBA)
+- **Allocation**
 - **Vesting Schedules** (TBA)
 - **$GWIT Sale Rounds** (TBA)
 

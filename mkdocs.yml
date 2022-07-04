@@ -36,6 +36,8 @@ nav:
   - FAQ: faq.md
   - EGG-SALE:
       - EGG-Sale: egg-sale/index.md
+  - Stablecoin Earnings:
+      - Stablecoin Earnings: usdc/index.md
   - Gameplay:
       - Roosters:
           - Roosters: gameplay/roosters/index.md
