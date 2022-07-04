@@ -14,12 +14,14 @@ Pure-bred roosters are obtained in the Egg-Sale and will only be available in th
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Swanson R VIT: **200**
+- Tournament VIT: **100**
+- Swanson R WATK: **40**
+- Swanson R BATK: **31**
+- Swanson R CATK: **45**
+- Swanson R SPD: **14**
+- Swanson R AGRO: **23 (1.5%)**
+- Focus Meter: **BATK-WATK-CATK**
 
 </br>
 
@@ -31,12 +33,14 @@ _A proud breed able to go against every other race. Despite not having the best 
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Kelian R VIT: **300**
+- Tournament VIT: **150**
+- Kelian R WATK: **30**
+- Kelian R BATK: **20**
+- Kelian R CATK: **26**
+- Kelian R SPD: **25**
+- Kelian R AGRO: **30 (2%)**
+- Focus Meter: **BATK-CATK-WATK**
 
 </br>
 
@@ -48,12 +52,14 @@ _The most abundant and common breed to exist in Planet Galleos. Kelians, or what
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Rotundan R VIT: **250**
+- Tournament VIT: **125**
+- Rotundan R WATK: **30**
+- Rotundan R BATK: **22**
+- Rotundan R CATK: **44**
+- Rotundan R SPD: **30**
+- Rotundan R AGRO: **23 (1.5%)**
+- Focus Meter: **BATK-WATK-CATK**
 
 </br>
 
@@ -65,12 +71,14 @@ _Rotundans are known for their large aesthetic, making them the main working cla
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Hatch R VIT: **325**
+- Tournament VIT: **162**
+- Hatch R WATK: **20**
+- Hatch R BATK: **20**
+- Hatch R CATK: **26**
+- Hatch R SPD: **20**
+- Hatch R AGRO: **45 (3%)**
+- Focus Meter: **BATK-BATK-CATK**
 
 </br>
 
@@ -82,12 +90,14 @@ _Hatches are the oldest breed in Planet Galleos. Their ancestors witnessed the e
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Greybacks R VIT: **325**
+- Tournament VIT: **162**
+- Greybacks R WATK: **20**
+- Greybacks R BATK: **20**
+- Greybacks R CATK: **26**
+- Greybacks R SPD: **20**
+- Greybacks R AGRO: **45 (3%)**
+- Focus Meter: **BATK-BATK-CATK**
 
 </br>
 
@@ -99,12 +109,14 @@ _Greybacks primarily live in the eastern regions and are the primary trade deale
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Claira R VIT: **250**
+- Tournament VIT: **125**
+- Claira R WATK: **30**
+- Claira R BATK: **45**
+- Claira R CATK: **21**
+- Claira R SPD: **14**
+- Claira R AGRO: **38 (2.5%)**
+- Focus Meter: **BATK-CATK-BATK**
 
 </br>
 
@@ -116,12 +128,14 @@ _The aristocratic breed. Clairas represent the upper class and are the major dis
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Redheart R VIT: **225**
+- Tournament VIT: **112**
+- Redheart R WATK: **40**
+- Redheart R BATK: **40**
+- Redheart R CATK: **26**
+- Redheart R SPD: **25**
+- Redheart R AGRO: **23 (1.5%)**
+- Focus Meter: **CATK-CATK-WATK**
 
 </br>
 
@@ -133,12 +147,14 @@ _Living in the warm desert of the west, Redhearts rule the sands. Known for thei
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Pylia R VIT: **275**
+- Tournament VIT: **137**
+- Pylia R WATK: **36**
+- Pylia R BATK: **20**
+- Pylia R CATK: **30**
+- Pylia R SPD: **20**
+- Pylia R AGRO: **23 (1.5%)**
+- Focus Meter: **WATK-BATK-CATK**
 
 </br>
 
@@ -150,12 +166,14 @@ _Pylias mainly live in the cold northern regions of Planet Galleos. While they c
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Jonians R VIT: **240**
+- Tournament VIT: **120**
+- Jonians R WATK: **34**
+- Jonians R BATK: **30**
+- Jonians R CATK: **36**
+- Jonians R SPD: **20**
+- Jonians R AGRO: **23 (1.5%)**
+- Focus Meter: **BATK-WATK-CATK**
 
 </br>
 
@@ -167,12 +185,14 @@ _Jonians were named after the great Mt. Jonia where the breeds live at the foot 
 
 ### **Base Stats**
 
-- VIT:
-- WATK:
-- BATK:
-- CATK:
-- SPD:
-- AGRO:
+- Henis R VIT: **287**
+- Tournament VIT: **143**
+- Henis R WATK: **27**
+- Henis R BATK: **27**
+- Henis R CATK: **27**
+- Henis R SPD: **14**
+- Henis R AGRO: **23 (1.5%)**
+- Focus Meter: **CATK-CATK-CATK**
 
 </br>
 
