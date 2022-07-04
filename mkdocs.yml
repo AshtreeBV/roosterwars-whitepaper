@@ -33,7 +33,7 @@ theme:
 nav:
   - Introduction: README.md
   - Our Philosophy: our-philosophy.md
-  - FAQ: faq.md
+  #- FAQ: faq.md
   - EGG-SALE:
       - EGG-Sale: egg-sale/index.md
   - Stablecoin Earnings:
