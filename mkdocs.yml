@@ -38,7 +38,7 @@ nav:
       - EGG-Sale: egg-sale/index.md
   - Value Accrual:
       - NFT Roosters: value/nft.md
-      - $GWIT Value: value/token.md
+      #- $GWIT Value: value/token.md
   - Stablecoin Earnings:
       - Stablecoin Earnings: usdc/index.md
   - Gameplay:

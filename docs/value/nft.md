@@ -1,15 +1,17 @@
 # **NFT Rooster Value**
 
-In this section, we will highlight the value that our NFT Roosters have. Apart from the ability to play and earn from the different game modes, here are other utilities and benefits of having an NFT Rooster:
+In this section, we will highlight the value that the NFT Roosters have. Apart from the ability to play and earn from the different game modes, here are other utilities and benefits of having an NFT Rooster:
 
 - **Revenue Share!**
 - NFT Rentals
 - Right to **Run In-Game Businesses!**
 - Scarcity
 
+More benefits and utilities will be added with the continuous development of the game and release of new and exciting features!
+
 ## **Revenue Share**
 
-In light of the [**Stablecoin Earnings**](../usdc/index.md) mechanism that Rooster Wars will release, the project will have the ability to be profitable and sustain itself in bear and bull markets. From the generated revenue in "Fight Fees", NFT owners will get a share for the specifc fight their Roosters participated in, regardless if the Rooster is played by a scholar or the owner.
+In light of the [**Stablecoin Earnings**](../usdc/index.md) mechanism that Rooster Wars will release, the project will have the ability to be profitable and sustain itself in multiple market conditions. From the generated revenue in "Fight Fees", NFT owners will get a share for the specifc fight their Roosters participated in, regardless if the Rooster is played by a scholar or the owner.
 
 From the [**Fight Fees**](../usdc/index.md#how-fees-are-charged) for each fight, the NFT owners of both Rooster that participated in the match will get an **80%** cut, or **40% each**.
 
