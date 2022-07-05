@@ -1,11 +1,10 @@
 # **Team & Partners**
 
 <!-- MetaDhana Studio -->
-<center>
-<a href="https://www.metadhana.io/#meet-the-team" target= "_blank">
-<img src="../images/partners/MetaDhanaStudio.png" alt="MetaDhana Logo" class="team-logo">
-</a>
-</center>
+<figure markdown>
+  ![Image title](../images/partners/MetaDhanaStudio.png){ width="200" }
+</figure>
+
 In behalf of the MetaDhana team, we give our utmost appreciation and gratitude to our Partners and their continuous support
 
 <!-- Ranida Games -->
