@@ -63,5 +63,5 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 
 #### Q4
 
-- [ ] Customaziable Accessories
+- [ ] Customizable Accessories
 - [ ] Multiple Minigames
