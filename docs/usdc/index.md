@@ -12,7 +12,7 @@ Prior to $GWIT’s release (TGE), Rooster Wars will release its Play-and-Earn me
 
 ### **Direct Rewards (QBUX)**
 
-Direct Rewards refer to the earnings you get immediately after winning a fight in the Arena. It will be in “QBUX” wherein players will purchase “QBUX” for $0.5 USDC, and use that to play in the Arena.
+Direct Rewards refer to the earnings you get immediately after winning a fight in the Arena. It will be in “QBUX” wherein players will purchase “QBUX” using USDC, and use that to play in the Arena.
 
 For details on the gameplay, the matches will follow the [Arena](../gameplay/phase1/arena/index.md) setup. The concept of Tiers, Stars and Chicken Points will come at a later date.
 
@@ -26,10 +26,12 @@ In the beginning, players are to “bet” 1 “QBUX” per match. In future upd
 
 #### **How Fees are Charged**
 
+<!-- 2 Fees
 There are two (2) fees charged for the “Direct Rewards”:
 
 1. **Fight Fees** (5%)
 2. **Withdrawal Fees** (5%)
+-->
 
 The majority of the “Fight Fees” will be distributed as profit to the NFT owners of a specific fight, a portion will be labeled as Rooster Wars’ revenue, and the rest will be used for tournament prizes, and special events.
 
@@ -41,7 +43,9 @@ The majority of the “Fight Fees” will be distributed as profit to the NFT ow
 
 Yes, we are **redistributing revenues to NFT owners** of that specific fight. This will drive more value to our NFTs, and will help generate demand from the current and future community.
 
+<!-- Withdrawal Fees
 The “Withdrawal Fees” will be used for the continuous development of the Rooster Wars project, operating expenses, capital expenses, marketing and user acquisition, team expansion, and others including team’s revenue. The fee is charged when players convert their “QBUX” to USDC or any other stable coin that the project supports.
+-->
 
 ### **Tournaments!**
 
