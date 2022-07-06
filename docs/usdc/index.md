@@ -10,19 +10,25 @@ Prior to $GWIT’s release (TGE), Rooster Wars will release its Play-and-Earn me
 - Tournaments
 - Season Rewards
 
-### **Direct Rewards (QBUX)**
+### **Direct Rewards**
 
-Direct Rewards refer to the earnings you get immediately after winning a fight in the Arena. It will be in “QBUX” wherein players will purchase “QBUX” using USDC, and use that to play in the Arena.
+Direct Rewards refer to the earnings you get immediately after winning a fight in the Arena. 
+
+<!--
+It will be in “QBUX” wherein players will purchase “QBUX” using USDC, and use that to play in the Arena.
+"QBUX" is an external backend token that can be used within the Rooster Wars ecosystem, and other ecosystems from future projects and partners related to Rooster Wars.
+-->
 
 For details on the gameplay, the matches will follow the [Arena](../gameplay/phase1/arena/index.md) setup. The concept of Tiers, Stars and Chicken Points will come at a later date.
 
-"QBUX" is an external backend token that can be used within the Rooster Wars ecosystem, and other ecosystems from future projects and partners related to Rooster Wars.
 
 #### **W2E: Win-to-Earn**
 
 For direct rewards, only the winner gets rewarded and the loser loses his/her stake. So a breakeven for earnings would be at a 50% win rate. RW’s team will introduce fees so the players’ ROI will only be achieved by win rates above 50%.
 
+<!--
 In the beginning, players are to “bet” 1 “QBUX” per match. In future updates, the RW team is looking to support 2 to N “QBUX” per match and concepts of “Sado”.
+-->
 
 #### **How Fees are Charged**
 
