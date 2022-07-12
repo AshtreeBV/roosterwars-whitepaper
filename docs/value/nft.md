@@ -25,7 +25,7 @@ The Revenue Share alone increases the value of owning an NFT Rooster.
 
 ## **NFT Rentals**
 
-This feature ties up with Rooster Wars' scholarship system, wherein a wallet address owing multiple Roosters can rent/lend their NFTs to promising players ang **maximize earning potential** from the "Revenue Share" that they get from each fight the player performs.
+This feature ties up with Rooster Wars' scholarship system, wherein a wallet address owing multiple Roosters can rent/lend their NFTs to promising players and **maximize earning potential** from the "Revenue Share" that they get from each fight the player performs.
 
 In the future feature releases, the NFT owner also gets a cut on different reward avenues that the Rooster can acquire.
 
