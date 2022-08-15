@@ -30,9 +30,9 @@ Always **DYOR**!
 
 $GWIT token is built on a circular economic model with a limited token supply.
 
-The reward pools (Gaming and Farming) will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pools.
+The Gaming Reward pool will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pools.
 
-Also a sell tax is part of the GWIT smart contract that takes a percentage (%) of selling volume that goes to reward pools.
+Also, a sell-tax is part of the GWIT smart contract that takes a percentage (%) of selling volume that goes to reward pools.
 
 <center>
 

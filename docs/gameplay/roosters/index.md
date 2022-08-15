@@ -2,9 +2,9 @@
 
 ## **What are Roosters?**
 
-Roosters are fantastic creatures that players use to fight other players in the Arena (PvP), train to go on adventures and defeat epic bosses, or breed with Hens to create more Roosters.
+Roosters are fantastic creatures that players use to fight other players in the Arena (PvP), train to go on adventures and defeat epic bosses, or breed with Hens to create more Roosters. 
 
-A Rooster has the ability to produce **5** **$Gallonium/Day** for **45 days**. After the 45th day, Roosters will be exhausted and will stop producing $Gallonium.
+A Rooster can produce 5 $Gallonium/Day for **15 days** (about 2 weeks). After the 15th day, Roosters will be exhausted and will stop producing $Gallonium. 
 
 ## **Rooster Burnout & Revitalization**
 
@@ -12,7 +12,7 @@ Like any other living things, Roosters experience burnout phases from depleting 
 
 ### **Gilly Juice**
 
-Gilly Juice is available in the Marketplace to allow Roosters to recharge and have the ability to produce $Gallonium once more, allowing Roosters to generate 5 $Gallonium/day for 45-days.
+Gilly Juice is available in the Marketplace to allow Roosters to recharge and have the ability to produce $Gallonium once more, allowing Roosters to generate 5 $Gallonium/day for **15 days** (about 2 weeks).
 
 Players as Rooster owners are provided the chance to recharge their Roosters to continue to fight for them or allow their Roosters to rest and be their forever companions.
 
