@@ -15,8 +15,7 @@ This section contains Current Available Information regarding $GWIT Tokenomics
 
 - **Circular Economy**
 - **Utility**
-- **Allocation**
-- **Vesting Schedules** (TBA)
+- **Allocation & Vesting Schedules** (tentative)
 - **$GWIT Sale Rounds** (TBA)
 
 <center>
@@ -28,11 +27,24 @@ Always **DYOR**!
 <img src="../images/Circular-economy.png" alt="Economy" class="economy-banner">
 </center>
 
-$GWIT token is built on a circular economic model with a limited token supply.
+$GWIT token is built on a circular economic model with a limited token supply, accompanied by a burning mechanism. 
 
-The Gaming Reward pool will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pools.
+The Gaming reward pool will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pool. 
 
 Also, a sell-tax is part of the GWIT smart contract that takes a percentage (%) of selling volume that goes to reward pools.
+
+<center>
+
+## **Supply & Demand Control**
+
+</center>
+
+Rooster Wars focuses on $GWIT “sinks” accompanied by burning the token supply. The inflation rate of $GWIT considers the growth of the protocol and is designed to support the needs of the players within the game. 
+
+Sinks are players/agents' ways to spend $GWIT in the economy. A percentage of $GWIT that is spent is used to refill the Gaming Reward pool which then continues to reward players, as shown in the previous illustration. 
+
+The Burning mechanism comes from a percentage of player spending of $GWIT inside the protocol. The Utility section shows the ways for players/agents to earn and/or spend $GWIT in the RW economy. 
+
 
 <center>
 
@@ -61,54 +73,57 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 
 <center>
 
-## **Allocation**
+## **Allocation & Vesting Schedule**
 
 </center>
 
-$GWIT Total Supply is 1,000,000,000 (1 Billion Tokens). Allocation is shown in the table below
+$GWIT Total Supply is 1,000,000,000 (1 billion Tokens). Below is a table that shows the tentative locking period and vesting schedules of $GWIT tokens. 
 
 <center>
 
-|                    |     **Tokens**    |  **Share**  |
-|--------------------|:-----------------:|:-----------:|
-| Seed Round         |    100,000,000    |    10.00%   |
-| Strategic          |     80,000,000    |    8.00%    |
-| Pre-Public         |     20,000,000    |    2.00%    |
-| Founders           |    100,000,000    |    10.00%   |
-| Advisors           |     20,000,000    |    2.00%    |
-| Ecosystem Partners |     70,000,000    |    7.00%    |
-| Airdrop            |     10,000,000    |    1.00%    |
-| Community Rewards  |    500,000,000    |    50.00%   |
-| Community Treasury |     70,000,000    |    7.00%    |
-| Initital Liquidity |     30,000,000    |    3.00%    |
-|      **Total**     | **1,000,000,000** | **100.00%** |
+|        Allocations   |    **    Tokens **   | **    Share ** | **    TGE Release ** | **    Cliff (Months) ** | **    Vesting (Daily) ** | **    Period (Months) ** |
+|--------------------|:--------------------:|:--------------:|:--------------------:|:-----------------------:|:------------------------:|:------------------------:|
+|     Seed             |       50,000,000     |       5.0%     |          3.0%        |             6           |           Linear         |             12           |
+|     Strategic        |       70,000,000     |       7.0%     |          4.0%        |             6           |           Linear         |             12           |
+|     Private          |       30,000,000     |       3.0%     |          5.0%        |             6           |           Linear         |             12           |
+|     Public/IDO       |       10,000,000     |       1.0%     |         33.0%        |             1           |           Linear         |             3            |
+|     Founders  |      150,000,000     |      15.0%     |          0.0%        |            12           |           Linear         |             24           |
+|     Advisors         |       30,000,000     |       3.0%     |          0.0%        |            12           |           Linear         |             24           |
+|     Ecosystem Fund   |      100,000,000     |      10.0%     |          0.0%        |             6           |           Linear         |             30           |
+|     Game Rewards     |      400,000,000     |      40.0%     |          *3.0%        |             1           |           Linear         |             80           |
+|     Treasury         |      120,000,000     |      12.0%     |          0.0%        |             6           |            None          |             12           |
+|     Dex Liquidity    |       40,000,000     |       4.0%     |         10.0%        |             0           |            None          |             12           |
+|    **    Total **    | **  1,000,000,000 ** | **  100.00% ** |                      |                         |                          |                          |
+
+<small> *The $GWIT unlocked for Game Rewards on TGE is not included in the circulating supply of $GWIT since it is transferred directly to that pool. </small> 
 
 Below is a chart of the Macro-Allocation of $GWIT token.
 
-<img src="../../images/allocations.svg" alt="tokenomics-chart" class="tokenomics">
+
+<img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics">
 </center>
 
 **Fund Raising**
 
-This is composed of the **Seed**, **Strategic** and **Pre-Public** (Community) rounds wherein funds raised were used, being used, and will be used to cover liquidity expenses, current operation expenses, marketing and promotions, while continuously developing the project, and growing the team behind Rooster Wars.
+This is composed of the **Seed**, **Strategic**, **Private** and **Public/IDO** rounds wherein funds raised will be used to cover liquidity expenses, current operation expenses, marketing and promotions, while continuously developing the project, and growing the team behind Rooster Wars.
 
 **Team**
 
 This represents the **Founders** and **Advisors** share in the Rooster Wars project and acts as an incentive to the team to make the project sustainable and better throughout time.
 
-**Ecosystem Partners**
+**Ecosystem Fund**
 
 This represents other NFT and DeFi projects that Rooster Wars has partnered with for added utility and NFT interoperability
 
 **Community Rewards**
 
-This encompasses $GWIT distributed as **Game** and **DeFi** (Staking) **rewards** to the Rooster Wars community
+This encompasses $GWIT rewards distributed to the Rooster Wars community
 
 **Community Treasury**
 
-The purpose of the treasury is to allocate **revenue shares** for certain NFT holders of Rooster Wars and to support for the project's **Operating Expenses**
+The purpose of the treasury is to allocate **revenue shares** for NFT holders of Rooster Wars and to support the project in case of unfortunate events.
 
-**Initial Liquidity**
+**DEX Liquidity**
 
 Is the liquidity provided by Rooster Wars to list $GWIT token in an exchange
 
