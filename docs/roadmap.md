@@ -27,7 +27,7 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 #### Q3
 
 - [x] Release of Mobile App on Android
-- [ ] Stablecoin W2E (Win-to-Earn)
+- [x] Stablecoin W2E (Win-to-Earn)
 - [ ] Rooster Wars' Store
 - [ ] Initial Scholarship Feature release
 - [ ] Hen Presale
