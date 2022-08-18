@@ -15,7 +15,7 @@ This section contains Current Available Information regarding $GWIT Tokenomics
 
 - **Circular Economy**
 - **Utility**
-- **Allocation & Vesting Schedules** (tentative)
+- **Allocation & Vesting Schedules** (TBA)
 - **$GWIT Sale Rounds** (TBA)
 
 <center>
@@ -77,7 +77,13 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 
 </center>
 
-$GWIT Total Supply is 1,000,000,000 (1 billion Tokens). Below is a table that shows the tentative locking period and vesting schedules of $GWIT tokens. 
+The Allocations & Vesting Schedules of the $GWIT token are currently undergoing changes to better fit the current trajectory of the project and adapt to the current market conditions. We Thank you for your continuous support.
+
+<!-- Hide Numbers and Allocations: Aug, 19, 2022
+
+$GWIT Total Supply is 1,000,000,000 (1 billion Tokens). 
+
+Below is a table that shows the tentative locking period and vesting schedules of $GWIT tokens. 
 
 <center>
 
@@ -126,6 +132,7 @@ The purpose of the treasury is to allocate **revenue shares** for NFT holders of
 **DEX Liquidity**
 
 Is the liquidity provided by Rooster Wars to list $GWIT token in an exchange
+-->
 
 <!-- TOKENOMICS REVAMP: May 3,2022
 ## **Token Sale Rounds**
