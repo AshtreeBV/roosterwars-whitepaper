@@ -13,7 +13,7 @@ The world will be sectioned into different types of land that differ in size. Th
 - 8 plots of land
 - 16 plots of land
 
-Land ownership can be bought in the upcoming land sale using $GWIT tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost $GWIT tokens.
+Land ownership can be bought in the upcoming land sale using tokens, wherein the location will be revealed once the land sale is over. Structures to be built upon each land plot will cost tokens.
 
 ## **World Structures (Built-in)**
 
@@ -26,7 +26,7 @@ Within the world map, there are land plots where building structures are already
 - Expedition requires the use of Hens
 - Hens can get various items in this mode while exploring
 - Expeditions will last for 12 hours
-- Expeditions will cost $GWIT tokens.
+- Expeditions will cost tokens.
 - Here are some of the rewards, along with their percentage chance, that players can get in the Expedition
 
 ## **Buildable Structures**
@@ -40,7 +40,7 @@ Players are free to decide which structures to build on their land plots. Player
 Players can assign hens to generate either
 
 - Food
-- $GWIT tokens
+- Other rewards
 
 ### **Staking Station**
 

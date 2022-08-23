@@ -12,7 +12,7 @@ Like any other living things, Roosters experience burnout phases from depleting 
 
 ### **Gilly Juice**
 
-Gilly Juice is available in the Marketplace to allow Roosters to recharge and have the ability to produce Gallonium once more, allowing Roosters to generate 5 Gallonium/day for **15 days** (about 2 weeks). Gilly Juice can be bought using $GWIT.
+Gilly Juice is available in the Marketplace to allow Roosters to recharge and have the ability to produce Gallonium once more, allowing Roosters to generate 5 Gallonium/day for **15 days** (about 2 weeks). Gilly Juice can be bought using the Token.
 
 Players as Rooster owners are provided the chance to recharge their Roosters to continue to fight for them or allow their Roosters to rest and be their forever companions. 
 

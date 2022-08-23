@@ -1,4 +1,4 @@
-# **$GWIT Tokenomics**
+# **Tokenomics**
 
 **Important Notice**: _To the Rooster Wars' Community, the Tokenomics is currently under going consultations for a better and more sustainable ecosystem. Details will be posted soon._
 
@@ -11,12 +11,12 @@ _Thank you for your support!_
 
 ## **Current Available Information**
 
-This section contains Current Available Information regarding $GWIT Tokenomics
+This section contains Current Available Information regarding the Token's Tokenomics
 
 - **Circular Economy**
 - **Utility**
 - **Allocation & Vesting Schedules** (TBA)
-- **$GWIT Sale Rounds** (TBA)
+- **the Token Sale Rounds** (TBA)
 
 <center>
 
@@ -27,11 +27,11 @@ Always **DYOR**!
 <img src="../images/Circular-economy.png" alt="Economy" class="economy-banner">
 </center>
 
-$GWIT token is built on a circular economic model with a limited token supply, accompanied by a burning mechanism. 
+The Token is built on a circular economic model with a limited token supply, accompanied by a burning mechanism. 
 
-The Gaming reward pool will be filled up using the subscription method of the gameplay that allows $GWIT to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pool. 
+The Gaming reward pool will be filled up using the subscription method of the gameplay that allows the Token to circulate in a healthy manner. Fees from Marketplace transactions will also play a role in filling up the reward pool. 
 
-Also, a sell-tax is part of the GWIT smart contract that takes a percentage (%) of selling volume that goes to reward pools.
+Also, a sell-tax is part of the Token smart contract that takes a percentage (%) of selling volume that goes to reward pools.
 
 <center>
 
@@ -39,11 +39,11 @@ Also, a sell-tax is part of the GWIT smart contract that takes a percentage (%) 
 
 </center>
 
-Rooster Wars focuses on $GWIT “sinks” accompanied by burning the token supply. The inflation rate of $GWIT considers the growth of the protocol and is designed to support the needs of the players within the game. 
+Rooster Wars focuses on the Token “sinks” accompanied by burning the token supply. The inflation rate of the Token considers the growth of the protocol and is designed to support the needs of the players within the game. 
 
-Sinks are players/agents' ways to spend $GWIT in the economy. A percentage of $GWIT that is spent is used to refill the Gaming Reward pool which then continues to reward players, as shown in the previous illustration. 
+Sinks are players/agents' ways to spend the Token in the economy. A percentage of the Token that is spent is used to refill the Gaming Reward pool which then continues to reward players, as shown in the previous illustration. 
 
-The Burning mechanism comes from a percentage of player spending of $GWIT inside the protocol. The Utility section shows the ways for players/agents to earn and/or spend $GWIT in the RW economy. 
+The Burning mechanism comes from a percentage of player spending of the Token inside the protocol. The Utility section shows the ways for players/agents to earn and/or spend the Token in the RW economy. 
 
 
 <center>
@@ -52,9 +52,9 @@ The Burning mechanism comes from a percentage of player spending of $GWIT inside
 
 </center>
 
-The $GWIT token functions as the main utility token for the Rooster Wars game and ecosystem.
+The Token functions as the main utility token for the Rooster Wars game and ecosystem.
 
-Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
+Here are examples of the Token's utilities in the Rooster Wars ecosystem
 
 1.  Breeding: Payment for breeding fees _(future)_
 2.  Land Acquisition _(future)_
@@ -62,12 +62,14 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 4.  Buying Gilly Juice
 5.  Farming / Staking: Earn Rewards
 6.  Participate in other Game Mode Rewards:
-    1. PVP (Charged Gallonium to $GWIT)
+    1. PVP (Charged Gallonium to the Token)
     2. PVP (Season Rewards)
     3. Adventure Rewards
     4. Team Battle Rewards
 
-<a href="../../images/GWIT_earn_spend.png" target="_blank"><img src="../../images/GWIT_earn_spend.png" alt="GWIT earning and spending" class="diagram"></a>
+<!-- GWIT Utilities
+<a href="../../images/GWIT_earn_spend.png" target="_blank"><img src="../../images/GWIT_earn_spend.png" alt="Token earning and spending" class="diagram"></a>
+-->
 
 **Additional utilities will be added with the continuous development of Rooster Wars and integration with other protocols.**
 
@@ -77,13 +79,13 @@ Here are examples of the $GWIT token's utilities in the Rooster Wars ecosystem
 
 </center>
 
-The Allocations & Vesting Schedules of the $GWIT token are currently undergoing changes to better fit the current trajectory of the project and adapt to the current market conditions. We Thank you for your continuous support.
+The Allocations & Vesting Schedules of the Token are currently undergoing changes to better fit the current trajectory of the project and adapt to the current market conditions. We Thank You for your continuous support.
 
 <!-- Hide Numbers and Allocations: Aug, 19, 2022
 
-$GWIT Total Supply is 1,000,000,000 (1 billion Tokens). 
+the Token Total Supply is 1,000,000,000 (1 billion Tokens). 
 
-Below is a table that shows the tentative locking period and vesting schedules of $GWIT tokens. 
+Below is a table that shows the tentative locking period and vesting schedules of the Tokens. 
 
 <center>
 
@@ -101,9 +103,9 @@ Below is a table that shows the tentative locking period and vesting schedules o
 |     Dex Liquidity    |       40,000,000     |       4.0%     |         10.0%        |             0           |            None          |             12           |
 |    **    Total **    | **  1,000,000,000 ** | **  100.00% ** |                      |                         |                          |                          |
 
-<small> *The $GWIT unlocked for Game Rewards on TGE is not included in the circulating supply of $GWIT since it is transferred directly to that pool. </small> 
+<small> *the Token unlocked for Game Rewards on TGE is not included in the circulating supply of the Token since it is transferred directly to that pool. </small> 
 
-Below is a chart of the Macro-Allocation of $GWIT token.
+Below is a chart of the Macro-Allocation of the Token.
 
 
 <img src="../../images/tokenomics.png" alt="tokenomics-chart" class="tokenomics">
@@ -123,7 +125,7 @@ This represents other NFT and DeFi projects that Rooster Wars has partnered with
 
 **Community Rewards**
 
-This encompasses $GWIT rewards distributed to the Rooster Wars community
+This encompasses the Token rewards distributed to the Rooster Wars community
 
 **Community Treasury**
 
@@ -131,7 +133,7 @@ The purpose of the treasury is to allocate **revenue shares** for NFT holders of
 
 **DEX Liquidity**
 
-Is the liquidity provided by Rooster Wars to list $GWIT token in an exchange
+Is the liquidity provided by Rooster Wars to list the Token in an exchange
 -->
 
 <!-- TOKENOMICS REVAMP: May 3,2022
@@ -143,7 +145,7 @@ _“We aim to achieve a somewhat fair launch while trying to raise initial fundi
 
 ### **Private Sale**
 
-All Private Sale tokens will be transferred into a public wallet address upon contract deployment. The investors will be given 6% of the total supply of $GWIT tokens amounting to 60,000,000 $GWIT.
+All Private Sale tokens will be transferred into a public wallet address upon contract deployment. The investors will be given 6% of the total supply of the Tokens amounting to 60,000,000 the Token.
 
 Vesting Schedule: 15% unlocked at TGE + Monthly vesting for 12 months
 
@@ -155,7 +157,7 @@ Vesting Schedule: 15% unlocked at TGE + Monthly vesting for 12 months
 
 10% of "Presale 1" tokens will be unlocked at TGE while the remaining 90% will be placed in a public wallet address and will be distributed to token owners in accordance with its vesting schedule: 10% TGE then Monthly for 6 months
 
-The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,000,000 $GWIT.
+The "Presale 1" amounts to 9% of the total supply of the Tokens which is 90,000,000 the Token.
 
 **How to Participate?**
 
@@ -164,7 +166,7 @@ The "Presale 1" amounts to 9% of the total supply of $GWIT tokens which is 90,00
 
 ### **Presale 2** (No Vesting Period)
 
-"Presale 2" amounts to 1% of the total supply of $GWIT, which is 10,000,000 $GWIT, and will be unlocked on TGE.
+"Presale 2" amounts to 1% of the total supply of the Token, which is 10,000,000 the Token, and will be unlocked on TGE.
 
 **How to Participate?**
 

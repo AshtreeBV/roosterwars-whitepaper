@@ -208,4 +208,4 @@ For the Egg-Sale, users can mint Eggs <a href="https://mint.roosterwars.io/" tar
 
 **Marketplace**
 
-Players who own Roosters can sell them in our Marketplace to allow new players to participate in the game. $GWIT token would be the currency used.
+Players who own Roosters can sell them in our Marketplace to allow new players to participate in the game. The token would be the medium of exchange.

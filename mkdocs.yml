@@ -68,8 +68,8 @@ nav:
           - Adventure: gameplay/game-rewards/reward-adventure.md
           - Season: gameplay/game-rewards/reward-season.md
           - Team Battle: gameplay/game-rewards/reward-battle.md
-  - $GWIT Tokenomics:
-      - $GWIT Tokenomics: tokenomics/index.md
+  - Tokenomics:
+      - Tokenomics: tokenomics/index.md
   - DeFi Ecosystem:
       - DeFi Ecosystem: defi/index.md
   - Technology: technology.md

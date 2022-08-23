@@ -1,10 +1,10 @@
 # **Stablecoin Earnings**
 
-Rooster Wars' earning mechanism will be on stable coins as an interim for the players’ earning potential and a permanent feature that will be released prior to $GWIT’s TGE. The goal is to enable a relatively risk-off or stable earning mechanism for players compared to $GWIT earnings given the current bearish market sentiment, to preserve the value of $GWIT while allowing players to start earning.
+Rooster Wars' earning mechanism will be on stable coins as an interim for the players’ earning potential and a permanent feature that will be released prior to the Token’s TGE. The goal is to enable a relatively risk-off or stable earning mechanism for players compared to the Token earnings given the current bearish market sentiment, to preserve the value of the Token while allowing players to start earning.
 
-## **Pre-TGE for $GWIT**
+## **Pre-TGE for the Token**
 
-Prior to $GWIT’s release (TGE), Rooster Wars will release its Play-and-Earn mechanism using a stablecoin (USDC/USDT) in the Arena (PvP) mode that will be the first game feature to be released that will have multiple reward avenues for players:
+Prior to the Token’s release (TGE), Rooster Wars will release its Play-and-Earn mechanism using a stablecoin (USDC/USDT) in the Arena (PvP) mode that will be the first game feature to be released that will have multiple reward avenues for players:
 
 - Direct Rewards from PvP fights
 - Tournaments
@@ -61,4 +61,4 @@ Stay tuned for Tournament announcements and get a chance to participate and win 
 
 A reward avenue that rewards top players during On-Season and provides a preparation period which is labeled as Off-Season.
 
-Pre-TGE, this feature would reward players in $USDC, upon the release of $GWIT, $GWIT rewards will be added here and only Active Roosters are entitled to this feature
+Pre-TGE, this feature would reward players in $USDC, upon the release of the Token, the Token rewards will be added here and only Active Roosters are entitled to this feature

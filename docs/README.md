@@ -13,7 +13,7 @@ Rooster Wars is a PvP online multiplayer game that allows players to collect NFT
 
 ## **Stablecoin Earnings**
 
-Given the current market conditions, Rooster Wars will delay the release of the $GWIT token to protect the value of the token, the interest of all parties involved, and avoid unnecessary farming and selling of the token upon release. Instead, Rooster Wars will feature an **earning mechanism** that the community can optimize using **Stablecoins**.
+Given the current market conditions, Rooster Wars will delay the release of the token to protect the value of the token, the interest of all parties involved, and avoid unnecessary farming and selling of the token upon release. Instead, Rooster Wars will feature an **earning mechanism** that the community can optimize using **Stablecoins**.
 
 More details can be found [here](usdc/index.md)
 

@@ -15,7 +15,7 @@ This section highlight Frequently Asked Questions (FAQs) for Rooster Wars' Phase
 
     Short Answer: **Yes**, but longer.
 
-    Additional details to support the answer: Your Rooster has 45 Days to Produce 5 $Gallonium/day which you can use in PvP to fight more. Furthermore, even if you lose most of your fights but $GWIT price shoots up then you would still be in profit!
+    Additional details to support the answer: Your Rooster has 45 Days to Produce 5 $Gallonium/day which you can use in PvP to fight more. Furthermore, even if you lose most of your fights but token's price shoots up then you would still be in profit!
 
     You can also dedicate time (grind-mode) to reach Tiers that give out hefty Seasonal Rewards!
 

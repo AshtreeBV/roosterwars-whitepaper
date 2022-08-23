@@ -18,4 +18,4 @@ It will take three days for an egg to hatch. The Rooster and or Hen will be full
 
 Hens and Eggs are NFTs that can be traded in the marketplace
 
-Players can buy an item that can let hens breed again for a certain amount using $GWIT tokens.
+Players can buy an item that can let hens breed again for a certain amount using the Tokens.

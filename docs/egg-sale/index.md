@@ -8,7 +8,7 @@ Rooster Wars will have its NFT Egg-sale on February 14, 2022. There will only be
 ### **NFT Egg Sale Price Increase**
 
 - [x] Private Egg Sale
-- [x] February 14 to 28, 2022: $30 per Egg + $GWIT airdrop bonus
+- [x] February 14 to 28, 2022: $30 per Egg + the Token airdrop bonus
 - [x] March 1 to 15, 2022: $30 per Egg, no airdrop bonus
 - [x] March 16 to Game Launch: $45 per Egg
 - [ ] Game Launch to P2E Activation: $55 per Egg

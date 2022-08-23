@@ -36,7 +36,7 @@ Rest assured that the changes to be implemented are for the betterment of the pr
 
 #### Q4
 
-- [ ] $GWIT Token TGE
+- [ ] Token TGE
 - [ ] Rooster Wars' Marketplace
 - [ ] Hen Release
 - [ ] Emoji/Skins Market
