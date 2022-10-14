@@ -72,7 +72,7 @@ nav:
       - Tokenomics: tokenomics/index.md
   - DeFi Ecosystem:
       - DeFi Ecosystem: defi/index.md
-  - Technology: technology.md
+  #- Technology: technology.md
   - Roadmap: roadmap.md
   - Team & Partners: team-and-partners.md
   #- Contracts: smart-contracts.md
