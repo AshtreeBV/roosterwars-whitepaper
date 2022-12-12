@@ -40,10 +40,11 @@ nav:
   - Value Accrual:
       - Professional Roosters: value/professional.md
       - Backyard Roosters: value/backyard.md
+      - Arena Mode: value/arena.md
   - Gameplay:
       - Roosters:
-          - Roosters: gameplay/roosters/index.md
-          - Professional Roosters: gameplay/roosters/nft-roosters-pure-breed.md
+          - Professional Roosters: gameplay/roosters/professional.md
+          - Amateur (Backyard) Roosters: gameplay/roosters/backyard.md
       - GAFFs and Gems: gameplay/gaffs-and-gems.md
   - Tokenomics:
       - Tokenomics: tokenomics/index.md

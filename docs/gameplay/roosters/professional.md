@@ -1,12 +1,49 @@
 # **Professional NFT Roosters**
 
-Pure-bred roosters are obtained in the Egg-Sale and will only be available in the marketplace once released. These NFT Roosters do not have rarity but are classified based on different breeds, base stats, and designs. NFT Roosters have better stats than Starter Roosters.
+Each Rooster has a different set of stats which will make them unique from each other.
 
-<center>
+Amateur NFT Roosters only have a base stat total of 150, while Professional NFT Roosters have a base stat total of 196. These stat totals are then divided into each of their stats:
 
-<i>Stats are currently being tested and balanced by the Game Dev Team for a better and balanced experience.</i>
+1. Vitality (VIT/HP)
+2. Wing Attack (WATK)
+3. Beak Attack (BATK)
+4. Claw Attack (CATK)
+5. Dodge Chance (SPD)
+6. Critical Chance (AGRO)
 
-</center>
+Players can raise their stats by training (future) and gaff & gem equipment (future).
+
+Details on Professional NFT Rooster Stats
+
+- Damage = ATK/4
+- Dodge and Crit Chance are percentage-based, their percentage will differ from breeds.
+- If the rooster is equipped with a gallus gem that has +5 damage: Damage + 5
+- Critical Damage = Damagex2
+- Draw Damage = Damage/2
+
+## **How to Buy Roosters?**
+
+You can purchase your NFT Roosters in our <a href="https://www.pecado.io">PECADO NFT engine.</a>
+
+## **COMBAT MECHANISM**
+
+- Rooster Wars’ combat will be a fast-paced “Rock-Paper-Scissors” game.
+- Matches will have a “wait phase” where players must choose which moves to pick. Once the meter wanes down, both players will have to pick a combat move. (Players who failed to choose a combat move on that sequence will incur damage to their NFT).
+- Roosters will have three combat moves, the beak (representing rock), wings (representing paper), and claws (representing scissors).
+- If both players deploy the same combat move, they will both inflict damage to their NFTs, but its effect will only take 50% damage to each other.
+- Players will have the opportunity to replay the previous match.
+
+## **QBUX AS A STAKING POOL UTILITY TOKEN**
+
+Within the ANTx ecosystem, the QBUX utility token mainly functions as a staking pool currency. This type of token has no smart contract but is directly derived from the staked GALLO Security Token. To exit, the QBUX token has to convert back into GALLO Security Token.
+
+## **ENSURING THE AUTHENTICITY OF ROOSTER WARS' NFTs**
+
+To ensure the authenticity of Rooster Wars’ NFTs, we recommend trading within the PECADO NFT engine. Though external trades are doable (i.e., Metamask, Trust Wallet, etc.), Fowl Play Inc. cannot guarantee the authenticity of the assets traded outside. An authentic Rooster Wars NFT can easily be played in the gaming modes, while the non-authentic NFTs will be incompatible to the system.
+
+---
+
+# **THE ROOSTERS**
 
 ## **1. Swansons**
 
@@ -197,15 +234,3 @@ _Jonians were named after the great Mt. Jonia where the breeds live at the foot 
 </br>
 
 _Despite their plain appearance, Henis are quite versatile and can adapt to most situations which make them unique. They have a small brown head with a rose comb. Their wings are small and brown, its tail is grey and high, their body is small and brown, and its legs are long and yellow._
-
-## **How to Buy Roosters?**
-
-You can buy Roosters in our Egg-Sale or in the Marketplace that will be released soon after the game launches. Below are options on how to buy Roosters and be the best fighter or the best breeder, and start earning while enjoying the game.
-
-**NFT Egg-Sale**
-
-For the Egg-Sale, users can mint Eggs <a href="https://mint.roosterwars.io/" target="blank"><b>here</b></a> using $USDc. After buying the Eggs, users will be able to hatch the Eggs upon Game Launch. Egg-holders have the option to sell their Eggs after buying them.
-
-**Marketplace**
-
-Players who own Roosters can sell them in our Marketplace to allow new players to participate in the game. The token would be the medium of exchange.

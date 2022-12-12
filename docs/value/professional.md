@@ -1,46 +1,50 @@
-# **NFT Rooster Value**
+# **THE PROFESSIONAL NFTs AND THE STAKING GAME**
 
-In this section, we will highlight the value that the NFT Roosters have. Apart from the ability to play and earn from the different game modes, here are other utilities and benefits of having an NFT Rooster:
+The Professional NFTs are the only types of NFTs that will be entitled to play with staking. The staking game will take place inside the ANTx environment where each player will place the native token (QBUX) of ANTx in a staking pool. This native token QBUX which is derived from GALLO Security Token can only exit the ANTx environment once converted back to GALLO Security Token. The staking pool will be known as “Fight Fees” and will be awarded to the winning NFT player less of Rooster Wars’ revenue share. The following table illustrates the pricing structure of its distribution:
 
-- **Revenue Share!**
-- NFT Rentals
-- Right to **Run In-Game Businesses!**
-- Scarcity
+| **Tier**         | **Pricing** | **Volume** | **Notes**                                     |     |
+| ---------------- | ----------- | ---------- | --------------------------------------------- | --- |
+| Distributor      | $ 24.0      | 1000       |                                               |     |
+| Wholesaler       | $ 26.0      | 500        | $2.0 rebate if 1000 units sold within 1 month |     |
+| Retailer         | $ 28.0      | 100        | $2.0 retabe if 500 units sold within 1 month  |     |
+| Player/Collector | $ 30.00     | 1          |                                               |     |
+
+## **MECHANICS OF THE STAKING GAME**
+
+For a Professional NFT to be in the staking game, it must be paired with GALLO Security Tokens housed in the same E-wallet. The minimum entry for the Fight Fee per token should at least be the equivalent of 100 GALLO Security Token. The exchange between GALLO Security Token and the derivative token within ANTx known as QBUX will be 1:1.
+
+An NFT player must win the game in order for it to be awarded up to 82% of the total staking pool. In the professional mode, the NFT of the losing party will be kept as an asset, however, will be nursing negative statistics. To improve on the standing, the NFT will have to be played regularly. In the Arena Mode, a high staking environment, the losing NFT will transfer its attributes (statistics and history) to the winning NFT thereby enhancing further its value, the losing NFT will be digitally burned enhancing further its synthetic scarcity.
+
+The remaining 18% in the staking pool is the Revenue share of Fowl Play Inc.
+
+## **NFT ROOSTER VALUE**
+
+Given the economics of the game, both Professional and Amateur NFTs will develop synthetic scarcity leading to a higher secondary market auctioning. The secondary market’s platform will be PECADO (P/E Capital Assetized Digital Offerings), an Interactive Web Portal which functions as an e-wallet digital exchange and global digital banking platform, managed by Ashtree Block Ventures LLC (Finra.org CRD# 323257), an Internet Investment Advisory Firm, a US SEC licensed investment house.
 
 More benefits and utilities will be added with the continuous development of the game and release of new and exciting features!
 
-## **Revenue Share**
+## **REVENUE SHARE**
 
-In light of the [**Stablecoin Earnings**](../usdc/index.md) mechanism that Rooster Wars will release, the project will have the ability to be profitable and sustain itself in multiple market conditions. From the generated revenue in "Fight Fees", NFT owners will get a share for the specifc fight their Roosters participated in, regardless if the Rooster is played by a scholar or the owner.
+In the Staking game of Rooster Wars under the Professional mode within ANTx, the total stake on the NFTs, also known as “Fight Fees” will be shared as follows (see NFT OWNERS).
 
-From the [**Fight Fees**](../usdc/index.md#how-fees-are-charged) for each fight, the NFT owners of both Rooster that participated in the match will get an **80%** cut, or **40% each**.
+From the Fight Fees for each fight, the winning NFT Rooster will get the 82% portion of the total Fight Fee.
 
-- NFT Owners
-       - NFT Owner 1 - 40%
-       - NFT Owner 2 - 40%
-- Rooster Wars Revenue - 14%
-- Tournaments & Season Rewards - 6%
+## **NFT OWNERS**
 
-The Revenue Share alone increases the value of owning an NFT Rooster.
+**Winning NFT** = 82% + transfer of ownership of the losing NFT
 
-## **NFT Rentals**
+**Losing NFT** = 0% + burning of NFT (Arena mode only)
 
-This feature ties up with Rooster Wars' scholarship system, wherein a wallet address owing multiple Roosters can rent/lend their NFTs to promising players and **maximize earning potential** from the "Revenue Share" that they get from each fight the player performs.
+**Rooster Wars Revenue** = 18%
 
-In the future feature releases, the NFT owner also gets a cut on different reward avenues that the Rooster can acquire.
+## **NFT SCHOLARSHIP**
 
-## **Run In-Game Businesses!**
+This feature ties up with Rooster Wars' scholarship system, wherein an E-wallet address owning multiple Professional NFTs can lend the NFTs to aspiring Professional players, and maximize earnings potential derived from the "Revenue Share" that they get from every fight.
 
-A perk for having a specific number of NFTs allow you to conduct in-game businesses within the game, and get rights to create and sell your own product within the ecosystem.
+## **SCARCITY**
 
-Here are the current "rights" and benefits a certain NFT owner have, along with their respective minimum requirement:
+Given the limited issue of professional NFTs, winning players will have control of the supply creating a synthetic scarcity thus, enhancing the value of the NFTs collected. Eventually, these NFTs will be made available to the secondary market, for those losing guilds to re-acquire assets for future play.
 
-- Right to Sell **Custom Skins** (Min. Roosters TBA)
-- Right to Sell **Custom Emojis** (Min. 500 Roosters)
-- Automatic whitelist for [**Hens**](../gameplay/phase2/hens.md) (Min. 500 Roosters)
+## **TOURNAMENTS AND SPECIAL EVENTS**
 
-More "rights" and benefits will be added alongside the project's development.
-
-## **Scarcity**
-
-On top of the current features that make the NFT Roosters valuable, there's this notion of Scarcity, which will drive the **asset's price to increase**, all other things equal.
+Tournaments will be organized by Fowl Play Inc. and Arena Operators. Special awards may be placed at stake to entice NFT owners to actively play their NFT collections. Stay tuned for Tournament announcements and get a chance to participate and win rewards!
