@@ -5,17 +5,14 @@
 
 ## **OVERVIEW**
 
-Rooster Wars is a PvP online multiplayer game that allows players to collect NFTs and play to earn (P2E) by fielding roosters to fight in the arena, finishing levels in adventure mode, breeding fighting cocks, joining expeditions, and engaging in land expansion. The development of its features unfolds in stages:
+Rooster Wars is a PvP online multiplayer game that allows players to collect NFTs (Non-Fungible Tokens) and win to earn (W2E) by fielding roosters to fight virtually. There will be 2 types of NFTs, the Amateur NFT and the Professional NFT. Rooster Wars has 3 economies, the first 2 will be featured outright upon launching, and the 3rd one, the expanded version, will come in as the 2nd phase.
 
-1. **[Combat Phase & Initial P2E Components](gameplay/phase1/gameplay.md)** — Players engage in arena battles and explore the adventure mode for leveling.
-2. **[Breeding & Farm Management](gameplay/phase2/breeding.md)** — Using in-game resources such as rewards and bonuses to farm and breed roosters.
-3. **[Land & Buildable Structures](gameplay/phase3/land-and-buildables.md)** — Lets users expand their farms and lands to build arenas and other in-game structures.
+## **Highlights**
 
-## **Stablecoin Earnings**
-
-Given the current market conditions, Rooster Wars will delay the release of the token to protect the value of the token, the interest of all parties involved, and avoid unnecessary farming and selling of the token upon release. Instead, Rooster Wars will feature an **earning mechanism** that the community can optimize using **Stablecoins**.
-
-More details can be found [here](usdc/index.md)
+- <a href="/three-economies"> The 3 Economies </a>
+- 2 Type of NFTs
+- The GALLO Security Token
+- Company Valuation
 
 ## **LORE**
 
