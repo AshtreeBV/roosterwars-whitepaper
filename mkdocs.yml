@@ -1,4 +1,4 @@
-site_name: Rooster Wars (v1)
+site_name: Rooster Wars (v2)
 site_url: https://whitepaper.roosterwars.io
 extra:
   homepage: https://www.roosterwars.io
@@ -34,16 +34,19 @@ nav:
   - Introduction: README.md
   - Our Philosophy: our-philosophy.md
   - The Three Economies: three-economies.md
+  - The Two Types of NFTs: two-nfts.md
+  - Company Valuation: company-valuation.md
   #- FAQ: faq.md
   - Value Accrual:
       - Professional Roosters: value/professional.md
       - Backyard Roosters: value/backyard.md
+  - Gameplay:
+      - Roosters:
+          - Roosters: gameplay/roosters/index.md
+          - Professional Roosters: gameplay/roosters/nft-roosters-pure-breed.md
+      - GAFFs and Gems: gameplay/gaffs-and-gems.md
   - Tokenomics:
       - Tokenomics: tokenomics/index.md
-  - DeFi Ecosystem:
-      - DeFi Ecosystem: defi/index.md
-  #- Technology: technology.md
-  - Roadmap: roadmap.md
   - Team & Partners: team-and-partners.md
   #- Contracts: smart-contracts.md
 

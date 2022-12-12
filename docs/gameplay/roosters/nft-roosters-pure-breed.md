@@ -1,4 +1,4 @@
-# **NFT Roosters (Pure Breed)**
+# **Professional NFT Roosters**
 
 Pure-bred roosters are obtained in the Egg-Sale and will only be available in the marketplace once released. These NFT Roosters do not have rarity but are classified based on different breeds, base stats, and designs. NFT Roosters have better stats than Starter Roosters.
 

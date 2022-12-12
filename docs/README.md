@@ -10,9 +10,9 @@ Rooster Wars is a PvP online multiplayer game that allows players to collect NFT
 ## **Highlights**
 
 - <a href="/three-economies"> The 3 Economies </a>
-- 2 Type of NFTs
-- The GALLO Security Token
-- Company Valuation
+- <a href="/two-nfts"> 2 Type of NFTs </a>
+- <a href="/tokenomics"> The GALLO Security Token </a>
+- <a href="/company-valuation"> Company Valuation </a>
 
 ## **LORE**
 
