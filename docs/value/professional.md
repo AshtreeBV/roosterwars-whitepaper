@@ -31,11 +31,11 @@ From the Fight Fees for each fight, the winning NFT Rooster will get the 82% por
 
 ## **NFT OWNERS**
 
-**Winning NFT** = 82% + transfer of ownership of the losing NFT
+**Winning NFT** = 85% of total staking pool
 
 **Losing NFT** = 0% + burning of NFT (Arena mode only)
 
-**Rooster Wars Revenue** = 18%
+**Rooster Wars Revenue** = 15% of total staking pool
 
 ## **NFT SCHOLARSHIP**
 
