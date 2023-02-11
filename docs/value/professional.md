@@ -15,7 +15,7 @@ For a Professional NFT to be in the staking game, it must be paired with GALLO S
 
 An NFT player must win the game in order for it to be awarded up to 85% of the total staking pool. In the professional mode, the NFT of the losing party will be kept as an asset, however, will be nursing negative statistics. To improve on the standing, the NFT will have to be played regularly. In the Arena Mode, a high staking environment, the losing NFT will transfer its attributes (statistics and history) to the winning NFT thereby enhancing further its value, the losing NFT will be digitally burned enhancing further its synthetic scarcity.
 
-The remaining 18% in the staking pool is the Revenue share of Fowl Play Inc.
+The remaining 15% in the staking pool is the Revenue share of Fowl Play Inc.
 
 ## **NFT ROOSTER VALUE**
 
