@@ -12,7 +12,7 @@ Rooster Wars is owned and will be operated by Fowl Play Inc., powered by
 <!-- Ashtree BV -->
 <center>
 <a href="https://www.ashtreebv.com/" target="_blank">
-<img src="../images/partners/AshtreeBV.png" alt="Fowl Play Inc Logo" class="partner-logos">
+<img src="docs/images/partners/ABVLLClogo.png" alt="Fowl Play Inc Logo" class="partner-logos">
 </center>
 
 <!-- Ranida Games -->
