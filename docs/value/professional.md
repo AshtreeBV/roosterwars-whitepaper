@@ -6,7 +6,7 @@ The Professional NFTs are the only types of NFTs that will be entitled to play w
 | ---------------- | ----------- | ---------- | --------------------------------------------- | --- |
 | Distributor      | $ 24.0      | 1000       |                                               |     |
 | Wholesaler       | $ 26.0      | 500        | $2.0 rebate if 1000 units sold within 1 month |     |
-| Retailer         | $ 28.0      | 100        | $2.0 retabe if 500 units sold within 1 month  |     |
+| Retailer         | $ 28.0      | 100        | $2.0 rebate if 500 units sold within 1 month  |     |
 | Player/Collector | $ 30.00     | 1          |                                               |     |
 
 ## **MECHANICS OF THE STAKING GAME**
